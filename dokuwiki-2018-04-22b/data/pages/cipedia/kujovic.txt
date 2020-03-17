@@ -1,0 +1,58 @@
+====== Kujovic ======
+
+
+===== Infos =====
+**Nom:** Desmottes \\
+**Prénom:** Guillaume \\
+**Surnom(s):** Kujovic, K., Kujo, ma couille (réservé à [[cipedia:caps|Caps]]), Cassidy \\
+**[[cipedia:Anniversaire|Date de naissance]]:** 30/11/84 \\
+
+
+===== Parcours académique =====
+
+  *[[2002 | 2002-2003]] première candi informatique
+  *[[2003 | 2003-2004]] deuxième candi informatique
+  *[[2004 | 2004-2005]] première licence informatique  (Option IA)
+  *[[2005 | 2005-2006]] deuxième licence informatique  (Module options [[cours:recherche_operationnelle|Recherche Op]] + OS2 et Langages de programmation évolués) - [[http://www.cerkinfo.be/memoires/2006/desmottes.pdf|Mémoire]]
+  *[[2006 | 2006-2007]] DES Bioinformatique
+
+===== Comité de cercle =====
+
+  *[[2003 | 2003-2004]] Délégué [[http://www.fosdem.org|FOSDEM]]
+  *[[2004 | 2004-2005]] Délégué [[http://www.fosdem.org|FOSDEM]]
+  *[[2005 | 2005-2006]] Trésorier
+
+===== Parcours folklorique =====  
+  *[[2002 | 2002-2003]] Sale Bleu
+  *[[2003 | 2003-2004]] Comitard de Cercle
+  *[[2004 | 2004-2005]] Comitard de Baptême (trésorier)
+  *[[2005 | 2005-2006]] Comitard de Baptême
+
+
+===== Famille =====
+
+[[cipedia:montaigus|Montaigus!]]
+
+==== Parrains ====
+  * [[Duff]]
+
+
+==== Filleuls ====
+== 2003-2004 ==
+  * [[Rony]]
+== 2004-2005 ==
+  * [[ren0]]
+== 2005-2006 ==
+  * [[Gumbuls]]
+== 2006-2007 ==
+  * [[S.D.F]]
+  * [[Subrally]]
+
+
+
+===== Divers =====
+
+  * Membre fondateur de la [[guilde:guilde|Guilde Gates]]
+  * Spécialiste en merchandising CI : inventeur des labels //Faculté de Pochtrons// (t-shirts) et //Le Ci t'encule// (capotes)
+  * A un super [[http://cass.no-ip.com/~cassidy/blog/index.php|Blog]]. Laché vos koms !!
+  * Fée Linux

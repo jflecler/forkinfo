@@ -1,0 +1,22 @@
+====== UrLab ======
+
+Wiki du projet [[http://www.urlab.be|UrLab]] (Your Lab), un hackerspace à l'ULB.
+
+  * [[incubateur|Incubateur]], liste d'idées de projets
+  * [[events|Evénements]]
+  * [[logo|Logo]], proposition de logos (peut provoquer des saignements oculaires)
+  * [[urlab:matos|Prêts et dons de matériels]]
+  * [[urlab:reunions|Ordres du jour et PV des réunions]]
+  * [[urlab:status|Status d'UrLab]]
+  * [[urlab:charte|Charte des membres]]
+Comment se créer un compte pour éditer ce wiki ?
+Aller sur le forum du cercle et s'y [[https://forkinfo.be/phpbb/ucp.php?mode=register|créer un compte]].
+
+Une fois que c'est fait vous pouvez vous logger au wiki (attention le wiki est case sensitive sur le login, le forum pas) et éditez les pages.
+====== Venez nous dire bonjour ======
+{{https://dl.dropbox.com/u/7338165/solbosh131.png}}
+====== Archives ======
+  * [[urlab:manifest1|Première version du manifest]]
+  * [[https://pad.lqdn.fr/p/HgZzTpqsd|Budget/Liste du matos utile]]
+  * [[urlab:benchmark|Benchmark (copie de https://pad.lqdn.fr/p/HgZzTpot5e)]]
+  * [[urlab:pads|Archive des tous les pads]]

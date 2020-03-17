@@ -1,0 +1,68 @@
+====== Protection de la vie privée ======
+
+===== Définir vie privée =====
+
+==== Slide ====
+
+  * La vie privée. Notion parfois floue..
+
+==== Texte ====
+  * Notion variable dans le temps et l'espace. Diffère selon les époques et les pays. Par exemple, le revenu imposable est confidentiel dans certains pays, mais pas tous. 
+  * les lois règlementent les données à caractère personnel, c'est à dire toute informations concernant une personne identifée ou identifiable.
+
+===== Causes d'atteintes à la vie privée =====
+
+
+==== Slide ====
+  * Données personnelles: Enregistrement, stockage et traitement.
+  * //"La vie privée est tout bonnement abolie lorsque les gouvernements surveillent ceux à qui vous parler, où vous allez et ce que vous lisez"// -RMS
+
+Image en rapport avec big brother/1984
+
+==== Texte ====
+  * Les nouvelles technologie facilitent l'enregistrement, le stockage et le traitement des données. Énormément d'agissement tout à fait habituels entrainent un enregistrement de données numériques: téléphonne, internet,opération banquaires, tout ce qui nécéssite un login,...
+  * Les bases de données permettent des stockages de plus en plus grands, et actuellement il est à la mode de ne pas hésiter à s'en servir ! 
+  * D'autant plus depuis le 11 septembre et que de nombreuses mesures de surveillance sont prises au nom de la lutte contre le terrorisme. Depuis le 14 décembre, le Parlement européen a adopté une mersue consistant a enregistrer des données concernant toutes les communication au sein de l'UE. "comme si on étions tous des criminels ordinaires". La tendance est nettement à l'augmentation de l'écoute et de l'archivage des données. 
+  * Il est peut être possible de crypter ses données, mais la loi empêche justement d'utiliser des cryptages "trop" performants (càd que l'état ne pourra casser).
+  * Les possibilités techniques sont aussi en progrès au niveau des traitements des données, (exemple de l'allemagne et d'un terroriste arrêté sur base de comportements tout à faits légaux mais douteux: factures, déplacements..).
+
+  * Ceci couplé au possibilités d'observations de plus en plus importantes (caméras, technologies de plus en plus présentes) on peut vite imaginer qu'il sera possible de par exemple, suivre un individu dans une ville sur base d'images filmées par des caméras de surveillance ou sur sa plaque d'imatriculation...
+
+===== Conséquences =====
+
+==== Slide ====
+  * //Seuls les hors la loi auront droit à une vie privée.//
+  * les données personnelles: Utilisation, risques et enjeux
+
+==== Texte ====
+  * Une réponse qu'on entend souvent par rapport à ça "je n'ai rien à me reprocher, donc je n'ai rien contre le fait qu'on d'être observé", mais est-ce forcément suffisant comme argument ?
+
+  * Il est important de s'assurer que l'utilisation qui est faite de ces informations soit ethiquement acceptable.. Mais quelles certitudes avons nous ?
+  * Hors des écoutes de l'état, dans le cadre privé, de nombreuses données sont sensibles, par exemple relatives à l'origine, les convictions politiques ou religieuses,.. Elle ne doivent pas entrer comme critères dans des domaines ou il y a une sélection (emploi, emprunt à une banque). Ce qui est d'autant plus facilité par l'utilisation grandissante de l'informatique dans ces domaines (demande analysée par un programme informatique lors des demandes de crédit)! 
+  * il faut donc être sur de l'utilisation que vont faire ceux qui y ont accèsaux données qu'on accepte de cèder, et surtout, pouvoir contrôler la validité de ces données! Il y a un réel danger à l'échange ou la vente des informations personnelles. 
+  * Ce n'est pas parce au'on est pas dans l'illégalité qu'on veut que tout le monde puisse avoir accès à n'importe quelle information sur nous. 
+
+==== Slide ====
+  * Prix de la vie privée ? -> Un lave vaisselle
+
+==== Texte ====
+  * EA combien estimez vous la valeur de votre vie privée ? Pour certains, elle ne vaut pas plus qu'un set de 3 brosses à chiottes multicolores. En effet, c'est le genre de cadeau qu'on reçois en échange d'une carte avantage de grand magasin. Celle ci, est en effet utilisée à des fins de marketing, pour de nouveau, enregistrer les données pour faire du profiling de leurs clients, dans l'intéret du vendeur. 
+  * Ex: À l'achat d'un calbard XXL on reçois une dizaine de publicités pour produits amincissants.
+  * Imaginons un type qui se fait passer pour malade à son boulot, mais dont la boite aurait la possibilité d'apprendre qu'il a été faire des courses avec sa carte de banque, ou  un avocat à la recherche de nouveau client qui se rend compte qu'un homme va acheter des sous vêtements affriolants à une taille autre que celle de sa femme...
+
+===== Exemples concrets =====
+
+==== Slide ====
+  * Les exemples de collectes d'informations chez l'utilisateur sont nombreux:
+  * Sony
+  * iTune
+  * HP
+  * Blizzard
+  * ...
+Mettre un iceberg comme image.
+
+==== Texte ====
+  * La loi stipule que la collecter et l'échange d'informations concernant un individu se fasse avec l'accord de ce dernier. On pense alors avoir un contrôle sur les informations qu'on transmet, mais en pratique, tout le monde accepte les licences sans les lire.
+  * C'est ici une détail crucial du problème, outre les faits, il y a la manière dont ils sont amenés. C'est à dire, le plus possible à l'insu de l'utilisateur. Cachés derrière de longs textes de licences imbuvables ou des petits caractères illisible en bas de contrat.
+  * Ainsi les exemples de sociétés qui espionnent leurs clients sont nombreux:
+-rootkit sony, iTune (morceaux écoutés), Blizzard (adresses de contacts), imprimantes HP (infos sur les impressions, papier, encre, qualité,..)

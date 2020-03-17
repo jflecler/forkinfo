@@ -1,0 +1,28 @@
+Le règlement est encore sujet à modification et sera finalisé avant le début de la remise des résumés.
+
+L'acceptation du présent règlement conditionne la participation au concours.
+
+==== Jury ====
+  * Le jury est désigné par le Cercle Informatique. Néanmoins, tout personne ayant suivi et réussi le cours peut poser sa candidature.
+  * Il est demandé aux membres du jury de prendre connaissance du syllabus ainsi que des autres supports mis à la disposition des étudiants dans le cadre du cours.
+  * Un membre du jury ne peut pas proposer de résumé au concours.
+
+==== Remise des résumés et classement ====
+  * Les résumés doivent être remis sous forme de fichiers informatiques éditables, et gravés sur cd-rom, au département d'informatique.
+  * Les résumés serront rédigé par rapport à la matière vue jusqu'au lancement du concours.
+  * Le classement se fait de manière distincte pour chaque cours.
+  * Les résumés sont classés en fonction de plusieurs critères, à savoir, la forme et le fond. La forme comprend la clarté, la lisibilité, l'orthographe, la concision et tout ce qui peut aider ou handicaper l'utilisation du résumé. Le fond comprend non seulement la qualité du discours scientifique mais aussi son exhaustivité au vu de la matière abordée dans le cadre du cours. 
+  * Le classement est fait à la discrétion du jury.
+  * Le jury, excepté les titulaires de cours, établi une présélection. Les résumés présélectionnés sont ensuite remis anonymement aux titulaires de cours afin que ces derniers établissent le classement final sans parti pris.
+==== Déroulement du concours ====
+  * Les renseignements pratiques sont disponibles sur la page du concours (pour l'édition de juin 2008, [[2008:concours juin]])
+
+==== Prix et résultats ====
+  * Les prix, ou leur équivalent en euros, sont choisis par le Cercle Informatique et sont connus avant le début du concours. 
+
+==== Engagement ====
+  * Le participant s'engage à être titulaire des droits sur la totalité du résumé soumis. Si tel n'est pas le cas, il doit être en possession d'une autorisation écrite du titulaire des droits l'autorisant à utiliser le matériel concerné et acceptant le règlement du concours.
+  * La soumission d'un résumé implique que son auteur cède ses droits au Cercle Informatique. Il autorise le Cercle Informatique à le modifier et le distribuer de façon payante ou non.
+
+==== Litiges ====
+  * Les litiges sont jugés par le Cercle Informatique, toute personne étant en conflit d'intérêt (juré, participant), est tenue de s'abstenir lors du vote.

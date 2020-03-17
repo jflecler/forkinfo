@@ -1,0 +1,25 @@
+===== Pack de cours: =====
+
+==== Examens ====
+  * Juin 2004
+  * Septembre 2004
+  * Juin 2005
+  * Septembre 2005
+  * Juin 2006
+  * Septembre 2006
+  * Juin 2007
+  * Septembre 2007
+
+==== Autres documents ====
+Corrigés des TPs (2008-2009)
+
+==== Prix ====
+1€
+
+
+===== Syllabus =====
+Un syllabus est disponible en ligne sur le site des TPs.
+
+===== Liens utiles =====
+  * [[http://www.ulb.ac.be/di/info-f-102/|Site des TPs]]
+  * [[http://www.jegerlehner.ch/intel/IntelCodeTable.pdf|Table reprenant l’essentiel des instructions et leur syntaxe]] (format PDF)

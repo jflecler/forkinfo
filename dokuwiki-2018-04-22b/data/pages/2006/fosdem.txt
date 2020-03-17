@@ -1,0 +1,44 @@
+====== FOSDEM 2007 ======
+[[fosdem_orga|organisation interne]]
+
+===== Postes du FOSDEM 2007 =====
+Voilà horaire pour les 4 jours où on a besoin de monde. Vous pouvez vous arranger entre vous si l'horaire vous arrange mal et évidement ici c'est un nombre MIN de personne si on est plus c'est toujours mieux :D
+
+
+==== vendredi 15H ====
+  * Voitures (3): Christilian, Burton, Laurélia, mag
+  * Installation bar + courses (7): Gigo, PH, Chaudar, reno, laurélia, tarkan, herlock
+  * Projecteur DI: PH
+
+
+==== samedi ====
+  * Voiture (1): Christilian
+  * 10h - 12h (3): Laurélia, Gigo, PH, reno
+  * 12h - 14h (7): Chaudar, Gigo, ethyl, burton, mag, tarkan, herlock, reno
+  * 14h - 18h (3): Chaudar, Gigo, ethyl, PH
+
+==== dimanche ====
+  * Voiture (1): Christilian
+  * 10h - 12h (3): Julie, gigo, staz, ethyl
+  * 12h - 14h (7): Julie, gigo, herlock, PH, ethyl, mag, PH, stewb
+  * 14h - 18h (3): Julie, PH, herlock, stewb
+
+
+==== lundi 8h ====
+  * Voiture (1): Christilian
+  * Ranger (6): Gigo, staz, St bernardus, burton, laurélia, Christilian
+  * Projecteur DI: PH
+
+
+===== GSM de ceux qui sont disp =====
+Si vous êtes disponible, mettez votre num de GSM et les jours/heures qui vous arrangent comme ça on sait facilement vous contacter si on manque de monde.
+
+^ Nom      ^ Disponibilité       ^ GSM          ^
+| Zdra | vendredi, samedi, dimanche, lundi, tout le temps | 0476 38 05 94 |
+| John | samedi et dimanche | 0486 39 90 39 |
+| ren0 | vendredi, samedi jusqu'à 15h | 0494 08 57 71 |
+| Tarkan| vendredi, samedi, dimanche, tout le temps | 0477 33 43 62 |
+| Christilian | vendredi, samedi, dimanche, lundi, tout le temps | 0495 42 62 42 |
+| Gigo | Vendredi, Samedi, Dimanche (surtout le matin) | 0486 05 72 28 |
+| FreeSex | Samedi et Dimanche | 0498 47 52 57 |
+| Marc | Samedi jusque 18H00 max| 0495728254 |

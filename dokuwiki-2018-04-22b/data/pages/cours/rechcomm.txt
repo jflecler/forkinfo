@@ -1,0 +1,48 @@
+Voici un petit compte-rendu de la séance d'introduction du nouveau cours **INFO-F-308** (//Projet de recherche et communication scientifique//), encadré par M. Devillers.
+
+====== Introduction ======
+
+Le cours consiste essentiellement à donner une première introduction aux rouages du mémoire de fin d'études, en tout cas sur l'aspect communicatif. Le côté "recherche" ici consistera surtout en de la recherche d'informations.
+
+Il sera permis de présenter son travail au Printemps des Sciences, mais d'autres choses vont être mises en place; notamment, les projets de "sciences nomades", qui consistent à "faire la même chose que le Printemps des Sciences, mais inversé", i.e. partir présenter son travail dans les écoles secondaires.
+
+Les projets sont individuels, mais il est demandé de faire des projets individuels groupés. Plus exactement, il faut qu'un groupe donné de projets individuels portent sur des sujets relativement connexes; l'idée étant qu'au Printemps des Sciences comme dans les écoles, on puisse tenir un seul stand sur un grand thème, et que chaque étudiant en présente une partie.
+
+Les sujets du projet ne sont pas imposés, mais doivent être proposés et peuvent se voir refusés.
+
+Pour rappel, le thème du Printemps des Sciences cette année est "les Sciences de l'extrême"; il vaut donc mieux, pour ceux qui font le Printemps, trouver des thèmes qui s'en approchent, comme les nouvelles technologies permettant de donner des processeurs ultrarapides, etc.
+
+====== Modalités de réalisation ======
+
+Il faudra préparer le même sujet sous trois formes différentes, toutes obligatoires.
+
+===== Rapport =====
+Alias le "mini-mémoire". Essentiellement, un article d'environ 20 pages, à rédiger en LaTeX2e, avec une structure standard (titre, abstract, introduction, corps, conclusion, bibliographie/webographie).
+
+Le rapport doit être rédigé non seulement en français, mais en bon français, ce qui implique entre autres orthographe et grammaire correctes, mais aussi une sémantique correcte. Pour ce qui est du niveau technique de l'article, il faut qu'il y ait des parties compréhensibles par des élèves du secondaire, mais aussi des parties plus poussées (i.e. orientées vers universitaires) pour montrer qu'on peut aller plus loin sur le sujet.
+
+==== Bibliographie et webographie ====
+
+Il est essentiel de citer ses sources. Quand il y a des auteurs, il est recommandé de les classer par ordre alphabétique sur le nom. LaTeX numérote les sources, et celles-ci peuvent être facilement référencées dans le texte.
+
+L'utilisation d'Internet comme source est extrêmement dangereuse. On n'est jamais sûr du sérieux d'une page Web donnée, car elle n'est pas soumise à un processus de reviewing à l'instar de livres écrits. De plus, il est hautement probable que si on fournit un lien Web aujourd'hui, il soit cassé dans un an, et on perd dès lors la référence. Si il faut absolument utiliser un site comme source, il est donc prudent de faire une copie de la page sur un CD par exemple pour accompagner son article.
+
+===== Poster =====
+Il s'agit ici de faire une seule grande affiche qui résume //tout// le  contenu de l'article, et qui surtout accroche le public. Il faudra donc le rendre "sexy", avec des couleurs etc, sans pour autant donner la migraine ou des crises d'épilepsie. Il est spécifiquement demandé de s'en sortir avec **une et une seule** affiche.
+
+===== Slides "Powerpoint" et exposé oral =====
+Les slides sont une forme écrite télégraphée et plus dynamique, qui seront projetées pendant l'exposé oral. Il faut bien en calibrer le contenu: pas mettre trop de choses, car sinon l'exposé oral ne sert à rien; mais bien y mettre quelques points-clef à approfondir oralement.
+
+Environ 5 slides devraient en principe suffir pour un article de 20 pages, par exemple 1 pour l'introduction, 3 pour le corps, et 1 pour la conclusion.
+
+Pour ce qui est de l'exposé oral, il faudra aussi bien sûr être à même de répondre aux questions du public. Une présentation devrait durer entre 5 et 10 minutes.
+
+Noter que le terme "Powerpoint" est général: c'est le programme le plus répandu, mais rien n'empêche un étudiant d'utiliser un autre logiciel du même genre.
+
+====== Échéances ======
+
+Pour ceux qui font le Printemps, il est simplement demandé que le projet soit prêt avant. Pour les autres, il n'y a pas encore vraiment d'échéance; mais ce sera au plus tard en avril ou mai (les élèves du secondaire ne s'intéresseront pas beaucoup à vous pendant leurs examens, et vous non plus d'ailleurs ;-)).
+
+====== Remarques supplémentaires ======
+
+Il est demandé aux étudiants présentant ce cours d'envoyer un mail à M. Devillers (rdevil at ulb ac be) afin qu'il puisse envoyer des messages à tout le monde au besoin.

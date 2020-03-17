@@ -1,0 +1,43 @@
+====== Matériel ======
+
+Cette section répertorie les prêts et dons que peuvent faire les membres au hacklab.
+
+Je propose la mise en page suivante :
+  * le membre
+    * le(s) matériel(s)
+
+===== Prêt =====
+  * jlzirani:
+    * switch gigabit 8 ports D-Link DGS-1008D
+    * pince pour faire les câbles rj45
+
+===== Don =====
+  * jlzirani:
+    * switch 100 mbit/s 8 ports D-Link DES-1008D (je retrouve plus le transfo  :-()
+    * hub 8 ports + 1 port bnc 3COM 
+    * quelques câbles réseau rj45
+    * couple carte-mère, processeur et mémoire vive :
+       * CM : je sais juste que c'est une MSI, il n'y a pas d'igp mais il y a un port AGP.
+       * Processeur : Amd 64 3200+ simple coeur
+       * mémoire vive : 2* 1 go DDR1 à 400 mhz
+    * une alimentation pc BlueStorm de 400 Watts (si je m'en souviens bien)
+    * Disque dur Maxtor de 200 go en PATA133 (pas sur qu'il fonctionne)
+    * Disque dur Maxtor de 300 go en PATA133 (pas sur qu'il fonctionne)
+  * Bram:
+    * un gros canapé, probablement pour le 131, il faut une grosse voiture pour l'y emporter
+  * C4ptainCrunch : 
+    * 2 livebox mobistar (fabriquées par thomson je crois) à donner dans 1 semaine ou 2
+    * quelques rj45
+    * 2 baffles relativement grands (manque un ampli)
+
+===== Ce dont a vraiment besoin =====
+  * Un routeur
+  * Un WAP moderne
+
+===== Ce dont on aura besoin =====
+  * Un aspirateur
+  * Un ampli ou des baffles auto-alimentés
+
+===== Ce dont on pourrait avoir besoin =====
+  * Une barrette de 2Go de RAM DDR1
+  * Un réacteur à fusion nucléaire

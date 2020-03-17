@@ -1,0 +1,52 @@
+Voilà une super page wiki censée expliquer comment réussir à organiser une LAN qui ne part pas en paintball, dans l'espoir que la prochaine soit organisée avant deux ans.
+
+
+======Type de LAN:======
+  * Dans une salle de jeux en réseau prévue à cette effet: pour l'instant c'est le seul type qui a marché.
+  * A la jefke/autre lieu à la noix où tout le monde ramène son pc: trop complexe et pas de vraie organisaton derrière → part toujours en paintball. 
+
+======Endroits:======
+  * Gamesnation: 1004 chaussée de Wavre, juste à côté de l'aquarium (tout près de la Plaine). 10€/personne pour une nocturne (21h30 -> 6h30). 20 places (mais pc inégaux). 02/290 19 90
+
+Remarques: ils sont assez gadouilleux, c'est pas du tout "out of the box", les PCs sont inégaux et il manquait pas mal de jeux. Si jamais vous voulez des jeux bien précis, prenez plusieurs hdd (5 idéalement) avec les jeux déjà formatés et prêts à être copiés/installés sur les PCs. 
+Par contre ils sont cool pour les installations, on faisait un peu ce qu'on voulait avec les machines.
+Méfiez-vous de steam ! Je pense qu'il vaut mieux passer un jour en avance pour s'assurer que les mises à jour sont bien faies sur tous les PCs sinon ça prend trois plombes.
+Idéalement il faudrait deux trois personnes une ou deux heures en avance pour vérifier pour que tout marche.
+La première fois que j'y suis allé on m'a dit qu'on pouvait négocier les tarifs, mais comme c'est un système employés-patron, on tombe jamais sur la même personne et ils doivent appeler le patron si on veut un truc (donc toute négociation préalable se casse la gueule).
+En dehors de ça c'est vraiment une chouette salle très bien située, on pouvait se balader en calbute et amener quelques bières (théoriquement on peut pas) sans avoir la moindre remarque, l'employé est même venu jouer avec nous.
+
+  * http://www.outpost.be/fr/index.php?option=com_content&task=view&id=29&Itemid=35 apparement il y a une salle de LAN dans ce truc mais je me suis pas plus renseigné que ça.
+
+======HOWTO:======
+  - Choisir une date en fonction des autres soirées: de préférence un vendredi/samedi soir comme ça les vieux peuvent venir
+  - Téléphoner pour réserver la salle
+  - Faire une page wiki (inspiration par [[2007:lan|ici]])
+  - (optionnel) choisir un thème (exemple: soirée BF etc ...)
+  - Poster sur le forum et chauffer un max de monde (quand je l'ai organisé les places sont toutes parties en 5-6 jours)
+  - Promettre d'humilier twolife
+  - Quand y a plein de monde retéléphoner pour dire combien on sera à priori
+  - Préparer les jeux auquels les gens ont envie de jouer (cf le tableau avec les points sur la page wiki)
+  - Préparer les hdds avec les jeux, le tout ayant bien entendu été testé en réseau avant pour pas perdre du temps
+  - Faire un planning c'est bien mais ça sert que quand tout marche comme prévu
+  - Si le topic est un peu mort faire un up quelques jours avant
+  - Passer un jour en avance si vous comptez utiliser steam, ou voir avec les gens de la salle si ils peuvent s'en charger
+  - Arriver quelques heures en avance pour tout regler (bien sur il faut demander au gérant si vous pouvez le faire vu que la salle sera pas fermée)
+  - ...
+  - PROFIT !
+
+======Jeux:======
+====Marchent très bien:====
+  * Quake 3
+  * UT 2004
+  * CS (**steam**)
+  * TF2 (**steam**)
+
+====Moé:====
+  * tous les BF: il faut être plein et les gens qui ont pas l'habitude comprennent pas trop
+
+
+======Remarques générales:======
+  * steam c'est le mal
+  * Iceman a des fuites urinaires
+  * Eviter les jeux que les gens ne connaissent pas ou les mods bizarres (tower defense tout ça ...). Les gens sont là pour jouer pas pour apprendre.
+  * Prendre un appareil photo ça peut être coul

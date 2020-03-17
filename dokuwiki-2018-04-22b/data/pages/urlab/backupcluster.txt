@@ -1,0 +1,10 @@
+===== Cluster de backup =====
+L'idée serait de rassembler toutes nos veilles machines et vieux DD et d'en faire un cluster au NO3 pour y installer un système de fichier distribué.
+
+==== Contraintes du FS ====
+  * Doit être tolérant à la perte de DD (quelle proportion ?)
+  * Doit être déployable sur matos hétérogène (autant des machines différentes, que des DD différents et de capacité différente)
+  * Haute disponibilité
+
+==== Propositions de FS ====
+  * ...

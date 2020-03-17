@@ -1,0 +1,145 @@
+===== Mercredi 26/09 (18h30, au 131) =====
+==== Ordre du jour ====
+  * Achat reprap (où, quand, comment..)
+  * Re-design site web et incubateur
+  * Cloture des candidature pour la trésorerie de UrLab
+  * Appel à projet/conférence
+  * Conférence rms
+  * Dépenses à approuver
+  * Aménagement 131 (suite)
+  * Organisation de la présentation de linux aux étudiants de TRAN-B300
+  * Proposition de projets
+  * Divers
+
+===== Lundi 10/09 (14h, au 131) =====
+==== Ordre du jour ====
+  * Préparation des articles pour l'OS et le journal de l'ACE
+  * Dépense diverses à approuver
+  * Achat de la reprap
+  * quid déménagement
+  * Tech-(which day?)
+  * Présence à la JANE
+  * Organisation du bbq/conférences/workshop de rentrée
+  * Organisation visite musée de l'info à Evere
+  * Aménagement du 131 (Amnesty est super interessé de repeindre avec nous l'entrée histoire de rendre le tout plus sympa)
+  * Récupération du local du bas et échange avec nos voisins ?
+  * Achat/récupération de matos
+    * WAP
+    * ampli
+    * router/switch ?
+    * matos de soudure
+    * boite à outils de base
+    * matos d'électronique de base
+    * ...
+  * Nouveau trésorier ?
+  * Update respublicae
+  * ...
+
+===== Lundi 07/05 (12h30, au NO) =====
+==== Ordre du jour ====
+  * Vote trésorier, adjoint
+  * Vote logo UrLab
+  * Respublicae project
+  * Update Resulb
+  * Outillage de base (récup?, achat?)
+  * Quid ouverture période examen
+  * Suivi cotisations
+  * Organisation des conférences du 16 mai
+  * Débriefing workshop du dimanche 6 mai (lil p0wny)
+
+==== PV ====
+
+__Fermeture durant le blocus :__
+
+Le local du hackerspace sera fermé jusqu'à la fin des examens afin de permettre à chacun d'étudier en toute sérénité, si quelqu'un souhaite néanmoins y accéder qu'il me contacte. Nous ne tiendrons pas d'autres réunions durant ce temps.. la date de la prochaine réunion sera fixée ultérieurement.
+
+__Respublicae:__
+
+Des étudiants de droit ayant lancé cette année une plateforme de collaboration en ligne pour les cours nous ont contactés pour voir si nous serions intéressés de participer au projet, et nous leur avons répondu favorablement. Ils nous feront une petite présentation après les examens afin que chacun puisse se faire une idée du projet et voir s'il souhaite s'impliquer dans le développement des versions futures. J'enverrai un email avec les détails quand le rdv sera fixé.
+
+__Suivi cotisations :___
+
+Pour rappel, celle-ci s'élève à 5Eur/an et peut être versée sur le compte suivant appartenant au CI : 001-4019353-40 (n'oubliez pas de mettre « Cotisation membre - Nom Prénom [ou pseudo] » dans la communication). Voici la liste des membres : [[2011:membres]] (si vous n'y apparaissez pas, veuillez m'envoyer un email et je ferai le suivi).
+
+__Décision(s) administratives :__
+
+    * Julien et Nicolas ont tous deux été élus pour les postes respectifs d'adjoint mainteneur et de trésorier. 
+    * Logos retenus : http://pix.toile-libre.org/upload/original/1333275077.png et http://pix.toile-libre.org/upload/original/1334738880.png (@Soultracker : on apportera probablement une ou deux modifications au logo après les examens)
+
+__TODOs :__
+
+    * suivi avec resulb (steak, Cédric T, Nikita)
+    * mesure/plan 131 (bp, steak, Bram, sid, ..) 
+    * appel pour récupération de matériel divers (tournevis, foreuse, marteau..) (sid)
+    * vérifier la procédure d'ouverture d'un compte propre au hs (Nicolas, sid)
+
+===== Lundi 23/04 (12h30, au NO)=====
+==== Ordre du jour ====
+  * Vote des statuts de UrLab
+  * Update sur Resulb
+  * Update situation au 131 (local CIEE)
+  * Cotisation membres
+  * Elections CI vendredi 27/04 
+
+==== PV ====
+
+__Répartition des tâches par groupe de travail :__
+
+  * Tout le monde :
+	- contacter moi si vous souhaitez voir des sujets à l'ordre du jour de la prochaine réunion.
+
+  * hsteak, Cédric T,L, Nikita:
+	- suivi connectivité au 131 (Resulb) (cc: Nikita M, Cédric T)
+	- commande club mate (cc: Cédric L)
+
+__Décision(s) administratives :___
+
+  * vote des status de UrLab; disponible ici: http://www.urlab.be/urlab:status
+  * candidatures retenues:
+	- Mainteneur : Cédric L
+	- Adjoint : Julien M, Pablo G
+	- Trésorier : Nicolas D
+
+
+Pas besoin de faire de réunion la semaine prochaine, j'attend de voir un peu les points pour l'ordre du jour de la prochaine réunion. Les PVs des réunions ainsi que les OJs sont disponibles ici: http://www.urlab.be/urlab:reunions
+
+===== Lundi 16/04 (12h30, au NO)=====
+==== Ordre du jour ====
+  * Définition des status
+  * Création de la charte
+  * Création de la liste des membres (+adhésion effective ?)
+  * Gestion des clés
+  * Allocation d'un budget pour la rénovation d'un local
+  * "Election" d'un délégué internetz connection (pour qu'on aie de l'ethernet gigabit et du wifi au 131)
+  * Choix du logo (apportez des propositions) (optionnel, il vaut peut-être mieux attendre un peu...)
+  * Choix d'un solgan (optionnel)
+    * Come with us, we've got ponies!
+    * UrLab, là où la créativité est reine !
+    * Urlab, on vend pas de pizza !
+    * Hurrr ! Durrr ! Urlab !
+    * THIS IS UrLab !
+    * Come to the dark side, we've got cookies.
+    * Puking rainbows!
+
+==== PV ====
+
+__Répartition des tâches par groupe de travail :__
+
+* Tout le monde :
+	- laisser libre cours à vos talents artistiques, proposez des logos ;) (postez-les ici: http://www.urlab.be/urlab:logo)
+	- contacter sid si vous souhaitez voir des sujets à l'ordre du jour de la prochaine réunion.
+
+* sid:
+	- création ML récupération de matos & communication
+
+* hsteak, sid:
+	- rencontre ce vendredi avec les gens du CIEE concernant le 131
+	- suivi connectivité au 131 (Resulb) (cc: C4ptainCrunch, Cédric T)
+	- commande club mate
+
+__Décision(s) administratives :__
+
+* Nous sommes désormais fixés sur la typographie officielle de notre nom (quel débat !) : UrLab
+* Vote de la charte des membres; version implicite (@Nicolas: tu sais repasser dessus pour vérifier "phrasage"/orthographe avant que je ne la poste sur le wiki?)
+
+Prochaine réunion le lundi 23/04 à 12h30 au NO3.

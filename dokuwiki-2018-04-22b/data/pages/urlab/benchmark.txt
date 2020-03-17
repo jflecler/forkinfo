@@ -1,0 +1,51 @@
+Points à combler dans notre dossier:
+ 
+Avoir  quelques exemples de *projets similaires dans le monde* où ça marchait  (ne pas prendre l'exemple de Standford), pourquoi ça marchait là-bas et  pourquoi ça marcherait ici, qu'est-ce qui serait semblable et  dissemblable.
+ 
+  * http://hackerspaces.org <- tous les hackerspaces du mondeu.
+  * http://www.optipess.com/2012/02/27/cthulhu-scare
+ 
+  * Un nouveau hackerspace porté par une unif en France : http://owni.fr/2012/02/23/fab-lab-la-pharmacopee-anti-crise/
+  * http://artilect.fr/ : un hackerspace français à Toulouse sur le campus de l'université de Toulouse et supporté par cette université
+  * http://hackerspaces.org/wiki/PING  : un hackerspace norvégien réservé aux membres de l'université, leur site  est en Suédois mais on peut toujours leur envoyer un mail
+  * http://hackerspaces.org/wiki/Turmlabor : Un hackerspace à Dresde qui se trouve sur un campus. De nouveau je comprends rien au site mais on peut leur envoyer un mail
+  * http://hackerspaces.org/wiki/Fabriken : Un autre hackerspace en Suède en collaboration avec une université. C'est justemment un projet basé sur celui du MIT : http://stpln.se/our-projects/fabriken-@stpln.aspx
+  * http://hackerspaces.org/wiki/Base-k : Un hackerspace en Allemagne, aussi dans une université. Site down
+  * http://hackerspaces.org/wiki/FAU_FabLab : Un autre hackerspace en Allemagne, aussi dans une université. De nouveau je comprends rien au site
+  * rgcouto1988@gmail.com : Hackspace-Cvl, dans une unif portugaise.
+  * http://www.fablabarnhem.nl/ : fablab dans une haute école à arnhem
+  * http://hakkavelin.is/ : un hackerspace dans une université islandaise
+  * http://technologia-incognita.nl/mediawiki/index.php/Index : hackerspace dans une université à amsterdam
+  * http://bizmad332.blogspot.com/ : un makerspace dans l'université de Maynooth à Dublin
+
+(J'ai parcouru la liste des hackerspaces néerlandais sur http://hackerspaces.org/wiki/List_of_ALL_Hacker_Spaces et j'en ai pas trouvé un seul qui soit dans une université)
+ 
+Comment on ferait pour s'arranger pour que ça survive et que des nouveaux viennent ?
+ 
+  * activités fréquentes qui crééent un attrait pour motiver de nouveaux à venir
+  * présence à la JANE via le CI
+  * "nous sommes conscient du problème et pensons déjà à former la génération suivante
+  * la création de projets informatiques pour les étudiants tel que le parseur de gehol
+  * organisation  d'ateliers en lien avec un cours mais qui permettent d'aller au delà du  cours. On pourrait alors faire de la pub au cours avec le soutient du  prof pour cet atelier et espérer intéresser de nouveaux étudiants. Attention à ce que ça ne devienne pas le foure-tout du prof. On n'est pas là pour faire le travail des assistants.  +1 Il faudra d'ailleurs certainement mettre dans le règlemen du  hackerspace le fait que ce n'est pas un endroit pour réviser ses labos  et travailler sur ses projets d'étude.
+ 
+Liste d'activités possibles:
+ 
+  * ateliers
+  * des activités pensées pour les nouveaux étudiants pour les attirer, sensibiliser
+  * conférences faites par les étudiants
+  * soirée meeting
+  * "gros" projets dans lesquels les gens peuvent s'injecter
+  * inviter des conférenciers extérieurs pour des conférences de plus grande envergure ou plus spécifiques
+  * "Capture the flag" et autres jeux amusants
+ 
+Questions à poser aux hackerspace si on leur envoie un mail (en anglais)
+ 
+  * What is the financial contribution of your university to your hackerspace?
+  * Does the physical space belongs to your university?
+  * How many members do you have (approximatively)? How many students ? How many academics (teachers, researchers, ...)?
+  * How do you promote yourself in your university? How do new members say they heard about your hackerspace?
+  * When was your hackerspace created?
+  * Did any stealing happened?
+  * Did any accident happened?
+  * How is your university considering you? What are your relations with it?
+ 

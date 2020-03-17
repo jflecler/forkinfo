@@ -1,0 +1,4 @@
+<span class="kw1">if</span> <span class="br0">&#40;</span>g_slist_length <span class="br0">&#40;</span>orders<span class="br0">&#41;</span> <span class="sy0">&gt;=</span> <span class="nu0">10</span><span class="br0">&#41;</span>
+    price <span class="sy0">=</span> <span class="nu0">9</span><span class="sy0">;</span>
+<span class="kw1">else</span>
+    price <span class="sy0">=</span> <span class="nu0">13</span><span class="sy0">;</span>

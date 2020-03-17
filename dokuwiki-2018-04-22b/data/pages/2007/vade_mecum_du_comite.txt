@@ -1,0 +1,299 @@
+Le vade mecum du comité a pour but de définir clairement les responsabilités de chaque poste, afin que toute personne voulant s'y présenter soit consciente de ce à quoi elle s'engage en le faisant. D'autre part, il permettra de responsabiliser les gens en cours de mandat sur leur rôle et les motiver à l'accomplir correctement.
+
+
+====== Membre du conseil d'administration ======
+
+Tout membre du conseil d'administration (du comité de cercle) devra participer au bon déroulement de chaque activité de cercle ainsi qu'effectuer sa tâche décrite ci-dessous.
+
+====== Le bureau ======
+Le bureau est responsable de la gestion globale du comité. Il n'a pas pour vocation générale d'organiser des activités mais prend en charge de veiller à la bonne tenue de celles organisées par le comité (à l'exception d'activités telles la Saint V). 
+
+Ses responsabilités principales sont donc : 
+  * La bonne tenue des comptes du cercle
+  * Le suivi des divers postes du cercle, que ce soit d'un point de vue organisationnel ou financier 
+  * Le suivi d'une ligne directrice relatives aux objectifs généraux du cercle
+
+===== Président =====
+Le président de cercle est le premier responsable du cercle. Par conséquent, il doit veiller à ne pas se laisser submerger par les différents évènements qui peuvent subvenir
+
+  * Organiser les réunions hebdomadaires
+  * Faire le suivi du travail du bureau et par extension de celui du comité
+  * Présider les AG du cercle
+  * Tenir une ligne directrice claire et veiller à ce que l'action du cercle soit cohérente et concertée
+  * Se rendre aux réunions ACE
+
+
+
+
+===== Vice-Président =====
+Le vice-président a pour rôle d'assister le président dans sa fonction. C'est lui qui va prendre en charge le suivi des différents délégués au jour le jour. De plus, en cas d'indisponibilité du président, il peut le remplacer au pied levé. Afin de ne pas le surcharger et de lui permettre d'avoir un suivi personnalisé et régulier des délégués, il se les répartit avec son binôme. 
+
+Les grosses activités sont le bal, le fosdem et le forum et surtout surveiller.
+
+==== VPI ====
+
+Le vice-président interne est l'homme à tout faire, le bouche-trou de service, l'homme omniprésent sur qui n'importe quel délégué peut compter ou qui s'occupera d'un poste laissé vacant le temps qu'on trouve un coopté. Outre celà, il est chargé de chapeauter les postes suivants : Fosdem, Cours, Webmaster, Bar et Poubelle.
+
+==== VPE ====
+
+Le vice-président externe s'occupe principalement de la Saint Verhaegen, des Journées Gazon, des relations extérieures et des sponsors. Maintenant que cela fait 2 ans que le Forum a été relancé et recommence à prendre pas mal d'importance, outre le bureau au complet, le VPE doit s'investir particulièrement dans l'organisation de celui-ci. 
+Le VPE doit aussi éviter de démissionner en cours d'année(Merci Gluck).
+Outre celà, le VPE est chargé de chapeauter les postes suivants : Bal et Fêtes, Forum de l'emploi et Propagande.
+
+===== Trésorier =====
+Le trésorier est responsable de la gestion financière du cercle. Il tient donc une comptabilité claire et précise de la situation financière du cercle poste par poste. Il aidera les délégués sur la manière de gérer les finances de leur poste et veillera à ce que la gestion soit claire et publique.
+
+Il rend compte au cercle de manière hebdomadaire de la tenue des comptes et peut rapidement donner un avis éclairé sur les capacités de financement.
+
+Il devra faire les démarches administratives en vue de devenir mandataires du comptes du CI et du comptes interne du CI
+
+
+===== Secrétaire =====
+Le secrétaire est responsable de la bonne tenue des archives du cercle, il prendra soins de les numériser afin d'assurer leur pérennité. D'autre part, en tant que secrétaire de cercle, il est responsable de la rédaction et de la diffusion des PV de réunions de cercles et assemblées générales. Ceux-ci doivent être mis à disposition dans les 48h suivant la réunion.
+
+D'autre part, il est responsable des adhésions au cercle, il reçoit donc les cotisations, gère les cartes de membre et tient un listing précis des membres du cercle ainsi que de leur statut. Ce listing devant être tenu à disposition dans le cercle (siège social de l'ASBL).
+
+Enfin, il est responsable de la boîte aux lettres du cercle, ce qui lui impose d'aller relever le courrier au moins une fois par semaine et de le faire suivre aux délégués concernés à la réunion de cercle suivante.
+
+La gestion et la mise à jour des mailing-list est du ressort du secrétaire et du délégué www. Pour faciliter la diffusion des informations au du cercle auprès des anciens qui n'ont plus accès au canal mail, il serait intéressant que le secrétaire ait des droits privilégiés sur les groupes babbage et cerkinfo de facebook. On a pu voir en effet le succès du cheese&wine qui avait été notamment annoncé par ce vecteur d'informations
+
+Idée pour 2010-2011: contacter Christian Hernalsteen pour constituer une ML anciens bien plus complète que la ML actuelle. Ce serait une base pour pouvoir contacter les “très anciens”, les faire cotiser (notamment plaques de membres d'honneur, etc), les inviter au banquet/bal/mtsm, etc. Pour info, quand on les a croisé au RDay, ils étaient tous motivés pour tout ça.
+
+Comment remplir les papiers pour les statuts : [[howto:statuts|ici]]
+===== Président de baptême et délégué folklore =====
+
+Les fossiles dehors
+
+====== Le comité ======
+
+
+
+
+
+
+==== Forum ====
+
+Le délégué forum devra organisé le forum de l'emploi.
+  * Trouver un local
+  * Trouver des entreprises participant au forum de l'emploi.
+  * Prévoir les accessoires nécessaires au bon déroulement du forum (table, chaise, panneau, drink, ...)
+  * Faire de la publicité auprès de étudiant en master en informatique, en ingénieur option informatique ainsi que dans les hautes écoles en informatique.
+
+Pour se faire une idée plus précise de la chose: [[https://dl.dropbox.com/u/43093737/BM-M18-Forum_de_l_emploi.pdf|le bilan moral d'M18 en 2008-2009]]
+
+==== FOSDEM ====
+
+Les délégués FOSDEM devront organisé le FOSDEM :
+
+==== Bal ====
+
+Comme son nom l'indique, le délégué bal a pour tâche d'organiser le bal (étonnant non ?). 
+Le délégué bal a plusieurs points sur lesquels il doit se pencher : 
+  * Trouver une salle
+  * Trouver un traiteur
+  * Trouver un DJ 
+  * <del>Trouver des sorteurs</del> ( qu'on me nomme un seul bal CI où des sorteurs on été nécessaires )
+  * Trouver des sponsors le cas échéant
+  * Trouver des gens (pas cher) pour bosser aux vestiaires/entrées/bar (maintenant que les Roumains sont dans l'espace Schengen ...)
+  * Faire une magnifique affiche (ou demander au délégué affiche)
+  * S'arranger avec la <del>mafia</del> SABAM
+  * Prévoir du fond de caisse et des cachets le soir même pour les entrées/le bar
+  * Faire de la pub le plus tôt possible ! 
+
+
+Le plus dur est de trouver une salle adéquate. Celle-ci ne doit pas être trop grande car, le bal CI étant un petit bal, une grande salle aura vite fait de donner une impression de vide ce qui plombera la réussite de la soirée. A l'heure actuelle, une salle disposant de 100 places convient tout à fait au bal CI. La recherche de la salle commence le plus tôt possible, septembre étant la limite pour commencer à chercher. L'idéal est d'avoir déjà un contrat signé avec la salle et une date pour décembre-janvier pour se donner assez de marge pour les autres tâches. 
+
+Une astuce pour avoir une salle pas chère (voire gratuite) et un traiteur en même temps, est de rechercher des salles qui ont leur propre traiteur. Pour le banquet, ne pas miser sur un menu trop classe/onéreux, on a quand même affaire à des petits étudiants. Généralement le banquet attire entre 50 et 80 personnes. Aussi je déconseille la formule "vin à volonté", c'est pour se retrouver avec des épaves qui gerberont partout dans la salle, une bouteille par personne suffit amplement.  
+
+La pub doit se faire le plus tôt possible en utilisant les bon canaux d'information, typiquement dès que la date et l'emplacement du bal sont confirmés puis ensuite une mise à jour et un rappel pour les modalités du banquet. Pour des raisons pratiques (fadeur de certains à clicker sur le lien mailing-list, méconnaissance de l'adresse), il n'y a pas de mailing-list "anciens" mais bien deux canaux mails à utiliser : les mailing-list "cercle-informatique" et "babbage". Pour toucher une proportion plus grande d'anciens, il faut ausi faire des mass-message dans les groupes babbage et cerkinfo de facebook parallèlement au mails et envoyer un event facebook deux semaines avant le bal.
+
+Il ne faut pas non plus oublier de prévenir personnellement les membres du département d'informatique.
+
+
+
+==== Cours ====
+
+Le délégué cours se charge de la vente des packs de cours et des syllabus des PUB. Bien que complémentaires, ces supports doivent s'obtenir différemment.
+
+  * Les packs de cours doivent se mettre à jour avec les nouveaux exemplaires des examens et en profitant des notes récupérées via les forums ou différents étudiants, de même que les corrections de TP. Bref, il faut fouiner partout, chez tout le monde, il faut compiler, photocopier, résumer, ... 
+  * On se fournit en syllabus des PUB aux ... PUB. Pour cela il faut s'y prendre assez tôt (vers juin) contact avec les PUB et déterminer la quantité de syllabus que le cercle compte vendre. 
+
+Il ne faut pas lésiner sur la publicité aux valves (virtuelles comme papier) ou sur les forums (genre candiulb) et ce dès la rentrée. Insister auprès des étudiants, leur expliquer l'avantage des packs et des tuyaux (ils veulent l'acheter mais ils ne le savent pas encore). Ce qui marche très bien est la vente des packs de cours à la sortie des auditoires les premiers jours de la rentrée. 
+
+Les délégués cours sont aussi chargé d'une parti de l'organisation de la JANE (journée d'acceuil des nouveaux étudiants) où ils doivent ramener des syllabus et idéalement un plan de la où se trouve le cercle. (J'avais écrit un HOWTO ne pas trop rater sa JANE, mais apparement il a disparu, un admin trop zelé ? Au pire je peux le réécrire mais ça sera vraiment moins bien).
+
+Cette année un projet de faire un concours de résumé est en préparation, son organisation incombera aux délégués cours (ou la fin de sa création).
+
+Avoir un contact avec le BES est une bonne idée étant donné nos objectifs communs (<del>le pognon</del> la réussite des étudiants) et ça peut être un bon point de départ pour trouver des résumés pour mettre les packs de cours à jours.
+
+Le crazy copie est un bon endroit pour faire des photocopies: pas loin et pas cher. En 2009-2010 le tarif à été négocié à 0.024 € la photocopie.
+
+Ils devront également organiser les concours de résumés.
+
+C'est pas vraiment un vade mecum mais ça peut aider à se donner une meilleur idée des responsabilités du poste [[http://www.cerkinfo.be/~cours/Bilan%20Morale%20Cours%202007-2008.pdf|Bilan moral 2007-2008 de Bram]].
+
+Pareil pour [[https://forkinfo.be/phpbb/download/file.php?id=286|le bilan moral 2009-2010 de Jordy & M18]].
+
+Remarque supplémentaire: le concours de résumé devrait inclure un jury d'étudiants en plus de la correction du professeur.
+
+==== Bar 1 ====
+
+Gestionnaire du bar du cercle. Le délégué bar est responsable des comptes de celui-ci et des approvisionnements en nourriture/bière. En outre, le délégué bar est amené à se trouver une équipe de cooptés FIABLES pour tenir les permanences au bar, sans quoi il se trouvera vite débordé. De plus, le délégué bar joue un rôle important dans l'ambiance qui règne au cercle. C'est en effet principalement lui qui coordonne et gère les différentes festivités internes (de sa propre initiative ou non). 
+
+
+==== Bar 2 / Propreté ====
+
+Le délégué bar 2 aidera le bar 1 dans sa tâche et se charger de maintenir le local du cercle propre. Il devra faire rapidement un planning de nettoyage (une fois par semaine MINIMUM). 
+
+Règle : toutes personnes organisant une activité dans notre cercle devra le nettoyer pour le lendemain. 
+
+
+
+
+
+==== Propagande (Affiches/OS) ====
+
+Le délégué Propagande sera chargé du journal du cercle. Un journal devra être édité tous les trois mois minimums.
+
+Il sera aussi chargé des affiches. Tout évènement organisé par le CI nécessite un peu de publicité pour ramener les gens. Le meilleur moyen d'attirer les peyots extérieurs au CI - en plus du bouche à oreille - c'est de concevoir des affiches pour ensuite les coller <del>par dessus les affiches de la philo</del> un peu partout sur le campus de la plaine et du Solbosch, ou les diffuser par internet sur les forums des différents cercles étudiants. Etre délégué affiches c'est donc savoir manier Photoshop, LE logiciel pour faire de chouettes trucs, car Gimp et le reste c'est un peu de la merde. Si, pour le néophyte, Photoshop et toutes ses options parait bien compliqué au premier abord, avec l'aide des tutoriaux sur le net et un peu de practice, ça devient aussi simple que d'avoir [[cipedia:Candy|Maureen]] du CdS dans son lit. Pour l'aspect graphique, Photoshop est ton ami. En outre, en plus d'être esthétique, l'affiche doit aussi être farce.  Oui mais voilà, on est au CI et notre humour est à l'image des cheveux de Bori : bien gras. Voila toute la difficulté du poste, concilier le bon gout esthétique et l'esprit made in CI. Une chouette affiche c'est donc : esthétique, farce et sans pixels.
+
+**Concevoir l'affiche**
+
+Au moment de la création du nouveau document photoshop destiné à être imprimé, il faut créer un document de format A3 de 300dpi. Comme ça pas de soucis de pixelisation, même si on imprime en format plus grand genre A2 ou A1, à condition bien sur d'utiliser des images en haute résolution et pas des trucs foireux de 300x300 pris dans google images. Je connais un site d'images en hautes résolutions gratuit : http://www.sxc.hu . Sinon on peut aussi trouver des trucs sur http://www.deviantart.com . Sinon pour des affiches qui seront justes postées sur le web, une résolution 562x794 est suffisante. 
+
+
+**Quelle taille ? Couleurs ? Quantité ? **
+
+Ca dépend de l'évènement mais il ne faut jamais faire de A4 ça ne sert à rien c'est trop petit. Histoire de voir plus ou moins ce qu'il faut voici une liste, adaptable au besoin et selon le budget évidemment. Toujours d'abord demander l'avis du trésorier avant de lancer les impressions! 
+
+* glotte d'or : 40 A3 noir et blanc
+
+* barbecue : 52 A3 noir et blanc
+
+* activité de bleusaille : 30 A3 noir et blanc 
+
+* baptême : 100 A3 couleurs 
+
+* td : 72 A3 noir et blanc
+
+* miss t-shirt mouillé (inscription): 70 A3 couleurs 
+
+* miss t-shirt mouillé (soirée): 102 A3 couleurs 
+
+* forum : 72 A3 couleurs 
+
+* bal : 60 A3 couleurs 
+
+Si le trésorier est généreux, on peut imprimer en A2 c’est quand même plus la classe. Le A2 se justifierait pour le forum, le MTSM, le bal (si la salle n’est pas trop petite) et le Baptême. Les autres activités on peut se contenter du A3. Si on imprime en A2, on peut imprimer un peu moins d’affiches
+
+**Où imprimer**
+
+Au [[http://www.crazycopy.be|Crazy Copy]] à la VUB. Cela revient à 1€ la A3 couleurs et 10 centimes la A3 noir et blanc. Ne pas imprimer de format plus grand chez eux c'est hors de prix.  
+
+A Horta. Chez eux la A3 couleurs est à 30 centimes, la A3 noir et blanc je n'en ai aucune idée. En outre ils disposent d'une ploteuse permettant d'imprimer au format A0 pour environs 7€. L'astuce c'est de faire une composition de 4 A2 identiques misent en rectangle, ça donnera du A0 ... et donc une affiche A2 au prix de 1,5€. Le problème c'est qu'il faut qu'un étudiant d'Horta soit présent dans la salle informatique pour ouvrir une session sur l'un des ordinateurs, aider à imprimer (pcq utiliser la ploteuse c'est compliqué) et utiliser son compte interne pour payer les impressions. Le mieux c'est encore de téléphoner au CVH pour voir si ils sont ouvert et si un gars cool du cercle peut filer un coup de main. En général après on lui offre une bonne chopine (au frais du CI).
+
+Au [[http://www.vub.ac.be/BFUCC/|Centre de calcul de l'ULB]] situé quelque part sur le Solbosch. Pour les affiches petit format c'est trop cher, ça ne devient intéressant que pour les A0 qui se payent 3,2€ pour du papier de qualité normale, ce qui fait 80 centimes la A2. Pour un papier plus résistant c'est 1,6€ la A2, le même prix qu'à Horta diront nous. L'avantage c'est que le personnel sur place est là pour vous faire le boulot, pas comme à Horta où il faut trouver une bonne âme pour vous aider. Il faut créer un compte sur le site web du centre de calcul et effectuer un paiement par virement pour avoir du crédits papier. Attention toutefois, le délai avant que le paiement soit prix en compte peut parfois être long. 
+
+Chez [[http://www.pantherprint.org|Panther Print]]. Ils sont situés 16 Rue de la Glacière à 1060 Bruxelles. Chez eux on fait directement en grande quantité. 250 exemplaires minimum, pour des A2 ça revient à 170€. Ce sont des affiches 135 grammes satinées, il y a un délai de 3 jours. Le seul évènement pour lequel on pourrait se permettre de claquer 170€ pour 250 affiches c'est le MTSM. Pour le reste, pas la peine d'aller voir ailleurs que Horta ou Crazy Copy. Toutefois, si on se contente d'affiches 120 grammes digitales, là on peut en faire 50 A3 pour 30€ ou 100 pour 55€ avec 24h de délai. En digital, il n'y a pas de A2, c'est moins cher que Crazy Copy mais plus cher qu'à Horta.
+
+Chez [[http://www.coyoteprint.com|Coyote Print]]. Ils sont situés Chaussée d'Alsemberg 367 à Bruxelles 1190. 155€ pour 250 affiches du même type que chez Panther. On peut effectuer la commande online.
+
+Chez [[http://www.pmr.be/|PMR]]. Ils sont situés Avenue des saisons près du cimetière d'Ixelles et ce sont des professionnels de l'imprimerie. Leurs prix sont dégressifs. Les A3 couleurs recto sont à 1,05€ pour moins de 25 affiches, 60 centimes pour entre 100 et 200 affiches. Il y a également un frais de dossier fixe de 5,35€
+
+Chez [[http://www.adprint.be/|AD Print]]. Je crois que c'est plus ou moins pareil que Panther Print.
+
+Au [[www.ulb.ac.be/ulb/pub/|PUB]]. Mais je ne connais pas les prix, il faudrait se renseigner.
+
+**Où clasher ?**
+
+Je parle en terme d'affiche A3, si on clash des A2 il faut en mettre un peu moins
+
+* glotte d'or : Extérieur des forums de la Plaine (3x3), CVH (1), Pharma (1), CI (1), les bites près des préfabs (4x3), dans les préfabs (6), dans les caves du Janson (4), batiment U (cds/cp/couloirs devant les dits cercles) (6)
+
+* barbecue : Extérieur des forums de la Plaine (3x3), intérieur des forums (8x2), NO (4), CVH (1), Pharma (1), CI (1), les bites près des préfabs (4x3), dans les préfabs (6), dans les caves du Janson (4), batiment U (cds/cp/couloirs devant les dits cercles)(6)
+
+* activité de bleusaille : Extérieur des forums de la Plaine (3x3), NO (4), intérieur des forums (4x4), CI (1)
+
+* baptême : Extérieur des forums de la Plaine (3x3), CVH (1), Pharma (1), CI (1), les bites près des préfabs (4x4), dans les préfabs (6), dans les caves du Janson (6), batiment U (cds/cp/couloirs devant les dits cercles) (8), bites Hégée (4x4)
+
+* td : Extérieur des forums de la Plaine (3x3), intérieur des forums (8x2), NO (4), CVH (1), Pharma (1), CI (1), les bites près des préfabs (4x5), bite Hégé (4x3), dans les caves du Janson (4), batiment U (couloirs devant cds et cp)(4), valves globales pres du resto du solbosch (6)
+
+* miss t-shirt mouillé (inscription): Extérieur des forums de la Plaine (3x1), CVH (1), Pharma (1), CI (1), les bites près des préfabs (4x3), bite Hégé (4x3), dans les caves du Janson (4), batiment U (cds/cjc/cp et couloirs devant)(6), valves globales pres du resto du solbosch (2)
+
+* miss t-shirt mouillé (soirée): Extérieur des forums de la Plaine (3x2), intérieur des forums (10x2), NO (4), CVH (1), Pharma (1), CI (1), les bites près des préfabs (4x3), bite Hégé (4x3), dans les caves du Janson (4), batiment U (cds/cjc/cp et couloirs devant)(6), valves globales pres du resto du solbosch (6)
+
+* forum : Extérieur des forums de la Plaine (3x4), intérieur des forums (10x3), NO (5),  CI (1), batiment U (cp et couloirs alentours)(6), bite Hégée (4x4), valves globales pres du resto du solbosch (4), dans les hautes écoles d'informatique et partout ou traine des potentiels demandeurs d'emploi. Genre ça serait pas idiot d'aller en mettre à l'ONEM. 
+
+* bal : * barbecue : Extérieur des forums de la Plaine (3x3), intérieur des forums (8x2), NO (4), CVH (1), Pharma (1), CI (1), les bites près des préfabs (4x3), dans les préfabs (6), dans les caves du Janson (4), batiment U (cds/cp/couloirs devant les dits cercles)(6)
+
+Sans oublier de passer sur les forums internet des différents cercle pour faire la publicité pour la glotte d'or, le barbecue, les TD, le MTSM, le bal et le forum (uniquement la Polytech pour ce dernier)
+
+**Quand clasher ?**
+
+Si on le fait trop tard ça ne sert à rien, si on le fait trop tôt les affiches seront reclashées avant que l'évènement soit passé. Perso je dirais ceci : 
+
+Je parle en terme de jour ouvrable à l'université,  quand des gens y circulent car le w-e c mort
+
+* glotte d'or : 3 jours avant
+
+* barbecue : 3 jours avant
+
+* activité de bleusaille : 3 jours avant pour la 1ère acti, 2 jours avant pour la 2e et 3e acti, la veille pour les autres
+
+* baptême : 4 jours avant - besoin de reclasher
+
+* td : 3 jours avant
+
+* miss t-shirt mouillé (inscription): 7 jours avant - besoin de reclasher 3 jours avant , voir l'avant veille si necessaire
+
+* miss t-shirt mouillé (soirée):  7 jours avant - besoin de reclasher 3 jours avant , voir l'avant veille si necessaire
+
+* forum : 7 jours avant - besoin de reclasher 3 jours avant, voir l'avant veille si necessaire
+
+* bal : 7 jours avant - besoin de reclasher 3 jours avant, voir l'avant veille si necessaire
+
+**Comment clasher ?**
+
+Sur le campus de la Plaine : le dérouleur de scotch (scotch transparent svp) pour l'extérieur des forums, la clasheuse pour le NO et l'intérieur des forums
+
+Sur le campus du Solboch : le seau de colle pour les bites (évitez d'être bien sapé), le dérouleur de scotch pour les préfabs et la clasheuse pour les caves du Jason et l'intérieur des batiments.
+
+
+**Dernier conseil**
+ 
+J’encouragerai les futurs délégués affiches à s’y prendre à l’avance et s’offrir une marge de manœuvre pour ne pas directement se retrouver à la bourre en cas de soucis. C'est très important si on compte aller chez un imprimeur qui impose des délais. 
+
+Aussi, prenez bien soin de ranger le matériel de clash une fois terminé car les gens ont une fâcheuse tendance à jouer avec, les casser ou les faire disparaître. 
+
+
+
+
+
+
+==== MTSM ====
+Les délégués charger du MTSM devront organisé celui-ci. Il a lieu le jeudi de la semaine folklorique qui est déterminer au début du deuxieme semestres.
+
+Il devra trouver :
+  * Des participantes
+  * Des sponsors
+  * Trouver une scene
+  * Des lots pour les gagnantes
+  
+
+
+==== Photo ====
+
+Les délégués photos seront charger de veillez à ce que des photos soit prises durant chaque activitée que se soit eux-même ou d'autre personne.
+
+
+==== WWW ====
+
+  * refuser l'accès root à bigon
+  * administration du forum = s'y retrouver parmis les milliards d'options mal classées que propose phpBB 3
+  * refuser que bigon mette à jour phpBB
+  * gérer les accès à la gallery photos et parfois aider des gens à uploader (c'est dur d'utiliser un client ftp ;)
+  * maintenir le code du site (pas tres gros, php facile à comprendre) ou remplacer ça par un truc tout fait
+  * administration de la machine :
+    * maintenir l'OS à jour (Debian Etch actuellement) , connaissance de base lnux/bsd/unix requise
+    * gérer les accès des différentes personnes et cercles hébergés, toucher un peu aux configs de : apache, php, mysql, ldap, svn
+    * maintenir en vie d'autres services : exim4 (serveur mail), mailman (mailing-list), wzdftpd

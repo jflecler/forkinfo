@@ -1,0 +1,95 @@
+====== Travailler ses exercices et projets C++ chez soi  ======
+
+Il peut être intéressant pour nombre d’étudiants utilisant Microsoft Windows de ne pas devoir nécessairement aller aux salles informatiques du bâtiment NO pour coder et tester leurs exercices ou projets en C++. Il existe plusieurs façons d’obtenir un environnement de développement propice chez soi.
+
+===== Installer un environnement de développement sur Windows =====
+
+Il existe un environnement de développement C++ complet gratuitement, nommé [[http://www.bloodshed.net/devcpp.html|Dev-C++]] ([[http://www.bloodshed.net/dev/devcpp.html|téléchargement]]), qui intègre le compilateur //g++//, le débogueur //gdb// et d’autres fonctionnalités intéressantes, le tout couplé avec une interface graphique.
+
+===== Installer une distribution GNU/Linux =====
+
+Pour les plus courageux, et les plus désireux d’apprendre, l’idéal est d’installer une dite distribution GNU/Linux sur son (voire, un de ses) PC. En effet, vous pouvez utiliser plusieurs systèmes d’exploitation sur un même ordinateur, une configuration classique étant d’avoir à la fois Windows et une distribution GNU/Linux sur son disque dur. Un assistant vous permet alors de choisir quel système d’exploitation charger à chaque démarrage.
+
+Il existe maintenant plusieurs distributions faciles à installer pour le débutant. Voici une liste des trois plus utilisées, selon [[http://distrowatch.com/|DistroWatch]] :
+
+    * [[http://www.ubuntu-fr.org|Ubuntu Linux]] : n’hésitez pas à jeter un coup d’oeil au [[howto:ubuntu_dapper|guide d’installation]] gracieusement proposé par le [[http://www.cerkinfo.be|Cercle Informatique]].
+    * [[http://www.opensuse.org|openSUSE]]
+    * [[http://fedora.redhat.com/|Fedora Core]]
+
+Dans le cas d’Ubuntu, il suffit, après installation, d’utiliser le gestionnaire de paquetages Synaptic pour installer build-essential, qui comprend tous les compilateurs classiques de GCC, dont g++. On peut par la suite installer un environnement graphique de développement tel Anjuta pour obtenir un environnement développement plus convivial (avec mise en évidence des mots-clef notamment).
+
+====== Travailler Fortran 95 aux salles, ou chez soi (sur GNU/Linux) ======
+
+//Depuis le 26 avril 2006, gfortran est installé et opérationnel aux salles informatiques du bâtiment NO.//
+
+Compilateur recommandé : gfortran (typiquement livré en paquetage dans sa distribution).
+
+====== Travailler COBOL 85 aux salles, ou chez soi (sur GNU/Linux) ======
+
+//Depuis le 26 septembre 2006, [[http://tiny-cobol.sourceforge.net/|TinyCOBOL]] et [[http://www.opencobol.org/|OpenCOBOL]] sont installés et opérationnels aux salles informatiques du bâtiment NO.//
+
+Étant donné le caractère assez instable de ces deux compilateurs, il est recommandé de tester ses projets avec les deux. En effet, il arrive qu'un des compilateurs capte des erreurs dans le code que l'autre ne voit pas.
+
+''htcobol'': Compilateur TinyCOBOL
+
+''cobc'': Compilateur OpenCOBOL
+
+====== Comment activer son adresse e-mail ULB? ======
+
+Il est impératif que les nouveaux étudiants activent leur adresse e-mail ULB au plus vite. En effet, l’ULB utilise celles-ci pour transmettre leurs annonces générales.
+
+Pour activer votre compte, rendez vous sur le [[https://debby.ulb.ac.be/pam/pamsignup.php?language=fr|formulaire de demande d’activation]]. Une fois celui-ci actif, plusieurs solutions s’offrent à vous pour consulter vos courriers électroniques. Vous pouvez soit utiliser le service [[https://wwwdev.ulb.ac.be/webmail3/webmail.php|Webmail]] offert par l’Université, soit utiliser un client e-mail classique. Pour plus d’informations sur comment configurer un tel client, veuillez consulter le [[http://www.vub.ac.be/BFUCC/doc/net/email-config.html|guide proposé par le Centre de Calcul]].
+
+====== Liens utiles ======
+
+===== Intérêt général =====
+
+	*[[http://www.besciences.be/|Bureau des Étudiants en Sciences]]
+	*[[http://wwwdev.ulb.ac.be/valves_sciences/sciences.html|Valves électroniques de la Faculté des Sciences]]
+	*[[http://www.ulb.ac.be/facs/sciences/info/horaires.html|Horaires des cours]]
+	*[[http://di-net.ulb.ac.be/|Site des salles informatiques du bâtiment NO]]
+	*[[http://uv.ulb.ac.be/|L’Université Virtuelle]] (certains cours mettent à disposition syllabi électroniques ou exercices ici)
+	*[[https://wwwdev.ulb.ac.be/webmail3/webmail.php|Webmail ULB]] (consultez vos mails de n’importe où)
+	*[[http://www.ulb.ac.be/ulb/pub/|Presses Universitaires de Bruxelles (P.U.B.)]]
+	*[[http://www.candiulb.be/|CandiULB: forums de discussion]]
+
+
+
+
+
+
+
+
+
+
+===== BA1 (INFO1) =====
+
+	*[[http://www.ulb.ac.be/di/info-f-101/|INFO-F-101: Programmation]] (travaux pratiques)
+	*[[http://www.ulb.ac.be/di/info-f-102/|INFO-F-102: Architecture 1]] (travaux pratiques de langage d’assemblage [[http://nasm.sourceforge.net/|NASM]] pour [[http://fr.wikipedia.org/wiki/Intel_80386|Intel 80386]])
+		*[[http://www.jegerlehner.ch/intel/IntelCodeTable.pdf|Table reprenant l’essentiel des instructions et leur syntaxe]] (format PDF)
+	*[[http://www.ulb.ac.be/di/scsi/markowitch/algo1/|INFO-F-103: Algorithmique 1]] et [[http://decomp.ulb.ac.be/frdricpluquet/teachingactivities/info-f-203algorithmiqueii/|la page des tps]]
+   *[[http://www.ulb.ac.be/di/info-f-105/|INFO-F-105: Langages de programmation 1]]
+	*[[http://homepages.ulb.ac.be/~alabarre/teaching.html|MATH-F-107: Mathématiques 1]] (réponses exercices) ou [[http://www.ulb.ac.be/facs/sciences/math/perso/enonces.html|interros et exams]]
+	*[[http://w3.iihe.ac.be/~cvdvelde/Info/index_info.html|PHYS-F-103: Physique]]
+
+
+
+
+===== BA2 (INFO2) =====
+
+	*[[http://www.ulb.ac.be/di/ssd/cmeuter/archi/|INFO-F-201: Architecture 2]] (travaux pratiques)
+	*[[http://www.ulb.ac.be/di/info-f-202/|INFO-F-202: Langages de programmation 2]]
+	*[[http://www.ulb.ac.be/di/scsi/markowitch/algo2/|INFO-F-203: Algorithmique 2]]
+	*[[http://decomp.ulb.ac.be/education/ami0708/|INFO-F-204: Analyse et méthodes]] (les slides se trouvent sur [[http://decomp.ulb.ac.be/education/ami0607/|l'ancienne page du cours]])
+
+===== BA3 (INFO3) =====
+
+	*[[http://cs.ulb.ac.be/cours/info364/|INFO-F-301: Bases de données]]
+		*[[http://users.swing.be/sw190092/HTML/INFO364.htm|Exercices corrigés]]
+	*[[http://www.montefiore.ulg.ac.be/~leduc/cours/reseaux.html|INFO-F-303: Réseaux]]
+
+===== Cours à option =====
+
+	*[[http://www.scmbb.ulb.ac.be/~jvanheld/biologie_societe/|BIOL-F-105: Biologie et société]]
+	*[[http://homepages.ulb.ac.be/~pmarage/ref_HIST-F-101.html|HIST-F-101: Histoire des Sciences]]
+	*[[http://astropc0.ulb.ac.be/PHYS-F-105/|PHYS-F-105: Structure de l’Univers]]

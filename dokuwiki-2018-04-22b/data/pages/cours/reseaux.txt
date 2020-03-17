@@ -1,0 +1,23 @@
+===== Module =====
+Le module réseau est pas mal, la matière qui y est enseignée est concrète et correspond à un réel besoin des entreprises. J'ai une proposition d'emploi assez alléchante chez CISCO. Ce que j'ai appris aux cours de Telecom et de Réseaux II m'a vraiment bien servi pour l'interview et la journée d'assessment chez CISCO. [[http://www.candiulb.be/forum/index.php?showtopic=21786|mika]]
+
+===== Réseaux publics de télécommunications =====
+est super intéressant, le prof est super sympa, l'examen super facile. T'apprends vraiment des choses intéressantes. A ta place je prendrai ce cours en option car c'est vrai que admin sys et réseaux 2 sont pas top top. [mpil 21786] 100% d'accord, télécom est super intéressant si tu veux approfondir l'aspect physique des réseaux. [[http://www.candiulb.be/forum/index.php?showtopic=21786|Mensouille]]
+
+Pour être une bête en réseau/telecom, autant avoir fait ingénieur. Ce n'est rien d'autre que mon avis bien entendu :-) [[http://www.candiulb.be/forum/index.php?showtopic=21786|SamForce]]
+
+Telecom beaucoup de matière intéressante mais l'exam est bidon (ou en tout cas la cotation). [[http://www.candiulb.be/forum/index.php?showtopic=21786|Nic]]
+
+Sympa, le cours est pas mal. Il voit comment se compose le réseau PSTN + ISDN belge, il voit le réseau GSM, UMTS et l'ADSL. C'est intéressant pour la culture générale je trouve. [[http://www.candiulb.be/forum/index.php?showtopic=13519|mystere]]
+
+===== Réseaux d'ordinateur 2: compléments et applications =====
+Réseau 2 ça va un peu plus loin que Réseau 1 mais pas beaucoup [[http://www.candiulb.be/forum/index.php?showtopic=21786|Mensouille]]
+
+Réseau 2 tout le monde avait au dessus de 16 je crois => bidon [[http://www.candiulb.be/forum/index.php?showtopic=21786|Nic]]
+
+J'ai détesté le cours Réseaux II de M-A Remiche. Elle aborde beaucoup de notion déjà vue avec Mr Leduc sans aller beaucoup plus en profondeur. Dans les nouveaux sujets abordés (ATM par exemple) elle ne va vraiment pas en profondeur. En plus l'un des bouquins qu'elles conseillent est vraiment bidon, il survole beaucoup de choses sans entrer dans le moindre détail. [[http://www.candiulb.be/forum/index.php?showtopic=13519|mystere]]
+
+===== Administration des systèmes =====
+je regrette, j'ai vraiment RIEN appris, il faudrait que les tps aient une autre importance. [[http://www.candiulb.be/forum/index.php?showtopic=21786|Nic]]
+
+C'était bien sympa dans l'ensemble… Sûrement le cours le plus pratique que j'aie jamais eu à l'unif'. Au niveau du cours, c'est donné par Marco Codutti qui (je trouve) le donne bien et arrive à capter l'attention (c'est quand même un beau critère :-D). Les TPs se déroulaient sur machine, sur une machine virtuelle pour éviter que les conneries que l'on fait aient des répercussions sur les machines du NO ;-) On commence par les bases de l'utilisation de Unix (lignes de commandes usuelles, File Système, processus,…), puis on enchaîne avec diverses enroules du genre connaissance de la localisation des informations (quels fichiers pour quel programme, qu'est-ce qu'ils contiennent,…), configurer un réseau, configurer un serveur mail, configurer un serveur NIS, quels sont les avantages de ceci par rapport à cela, les inconvénients… et on parle un peu d'éthique informatique aussi pour clôturer le cours. Concernant l'examen, je peux rien en dire vu que je ne le passe pas [[http://www.candiulb.be/forum/index.php?showtopic=13519|Eriku san]]

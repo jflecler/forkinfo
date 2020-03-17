@@ -1,0 +1,18 @@
+===== Module =====
+Systèmes distribués, tu peux toujours apprendre ça plus tard à ton aise, y a plein de bons bouquins sur Corba/RMI et co :-D [[http://www.candiulb.be/forum/index.php?showtopic=21786|SamForce]]
+
+===== Développement de systèmes distribués =====
+cours un peu gonflant (j'y suis allé une fois) mais projet vraiment chouette. Au programme: RMI, RPC, CORBA (un peu), etc. [[http://www.candiulb.be/forum/index.php?showtopic=21786|mika]]
+
+Le problème c'est que le prof a démissionné donc faut voir qui va le donner l'an prochain... [[http://www.candiulb.be/forum/index.php?showtopic=21786|Cassidy]] Personne, le cours ne sera pas donné l'an prochain. Il faudra attendre 2 ans. Le démissionnaire ayant prévenu assez tard, il est impossible de trouver aussi vite un remplaçant. [[http://www.candiulb.be/forum/index.php?showtopic=21786|Pilou]]
+
+"Vu que le cours INFO152 (Développement de systèmes distribués) est suspendu jusqu'à nouvel ordre, il sera remplacé dans le module spécialisé "Systèmes distribués" par le cours ELEC 321 (Réseaux publics de télécommunication). " dixit devillers via les [[http://lit6.ulb.ac.be/valves/search.php3?keywords=info152&topic=-1&section=-1&author=&from=&to=&step=25&submit=Envoyer&pos=0|valves]]
+
+
+===== Concurrence dans les systèmes distribues (OS2) =====
+J'ai suivi avec Phi2 et NiCo, sympa pour ceux qui aiment la masturbation à la Devillers (genre moi). Des problème de deadlock, famine, fairness. On étudie la façon d'offrir des ressources a des processus de manière équitable sans se foutre dans la merde. Je sais pas si c'est très utile. Mais me suis bien amusé. [[http://www.candiulb.be/forum/index.php?showtopic=21786|Infrarouch]]
+
+Très chouette cours. Il se donne généralement en petit comité (le prof ferait peur aux étudiants) et montre le démon dans toute sa splendeur. On le voir à l'oeuvre dans son domaine de prédilection, il n'en est que plus passionnant. Les choses se corsent fortement à l'approche du troisième chapitre (réseaux de pétri) et Raymond est pareil à lui-même pour l'examen. Ce cours n'est à prendre que pour ceux qui ont vraiment aimé les deadlocks et famines. [[cipedia:gluck|Gluck]]  
+
+===== Systèmes distribues d'information =====
+pour DB2, c'est un peu la suite de DB1 (il y a rien de distribué en fait). Le programme est: bases de données actives, bases de données temporelles, bases de données déductives et bases de données objets. [[http://www.candiulb.be/forum/index.php?showtopic=21786|ULB-NicO-]]

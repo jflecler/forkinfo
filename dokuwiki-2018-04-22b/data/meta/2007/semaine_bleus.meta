@@ -1,0 +1,8 @@
+a:2:{s:7:"current";a:7:{s:4:"date";a:2:{s:7:"created";i:1543485889;s:8:"modified";i:1204309242;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:5:"title";s:36:"Organisation de la semaine des bleus";s:11:"description";a:2:{s:15:"tableofcontents";a:10:{i:0;a:4:{s:3:"hid";s:36:"organisation_de_la_semaine_des_bleus";s:5:"title";s:36:"Organisation de la semaine des bleus";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:1;a:4:{s:3:"hid";s:4:"todo";s:5:"title";s:4:"TODO";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:2;a:4:{s:3:"hid";s:14:"trucs_a_penser";s:5:"title";s:15:"Trucs à penser";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:3;a:4:{s:3:"hid";s:5:"idees";s:5:"title";s:8:"Idées :";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:4;a:4:{s:3:"hid";s:11:"horaire_bar";s:5:"title";s:11:"Horaire BAR";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:5;a:4:{s:3:"hid";s:5:"lundi";s:5:"title";s:5:"Lundi";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:6;a:4:{s:3:"hid";s:5:"mardi";s:5:"title";s:5:"Mardi";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:7;a:4:{s:3:"hid";s:8:"mercredi";s:5:"title";s:8:"Mercredi";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:8;a:4:{s:3:"hid";s:5:"jeudi";s:5:"title";s:5:"Jeudi";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:9;a:4:{s:3:"hid";s:8:"vendredi";s:5:"title";s:8:"Vendredi";s:4:"type";s:2:"ul";s:5:"level";i:3;}}s:8:"abstract";s:265:"Organisation de la semaine des bleus
+
+TODO
+
+	*  faire le décompte avec bori (Parachute s'en occupe)
+	*  News sur le site
+	*  Envoyer un message sur la ML ancien pour le vendredi une fois le programme défini
+	*  demander ses cartes a SDF pour organiser des parties";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}s:8:"relation";a:1:{s:10:"firstimage";s:0:"";}}s:10:"persistent";a:3:{s:4:"date";a:1:{s:7:"created";i:1543485889;}s:4:"user";s:0:"";s:7:"creator";s:0:"";}}

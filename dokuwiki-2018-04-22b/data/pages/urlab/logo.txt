@@ -1,0 +1,77 @@
+====== Introduction ======
+Le choix du logo est un problème important auquel nous devons vite répondre. Il y a deux catégories : une sérieuse et une fantaisiste.
+Les chefs-d’œuvre de la section fantaisiste ont été réalisés par une équipe de spécialistes techniques. L'identité de cette équipe est maintenue secrète pour éviter toute tentative d'assassinat au vu de certains des dit chefs-d’œuvre.
+
+Si vous voulez ajouter votre proposition, éditez juste ce wiki et prévenez sur la mailing list.
+
+Il y a aussi un [[https://github.com/UrLab/Logo|dépot git]] pour taper les sources de vos logos si vous voulez. (Demandez un accès en écriture à C4ptainCrunch)
+====== Liste des candidats ======
+
+===== Candidats sérieux =====
+
+Remarque: nous n'aurons probablement pas le droit d'utiliser le logo de l'ULB.
+
+{{http://pix.toile-libre.org/upload/original/1334738880.png}}
+
+fichier svg disponible.
+
+coté obscure... (no skull version)
+
+{{http://pix.toile-libre.org/upload/original/1334861026.png}}
+
+fichier svg disponible.
+==== ULB minuscule ====
+{{http://pix.toile-libre.org/upload/original/1333224331.png}}
+====ULB minuscule Dijkstra ====
+{{http://pix.toile-libre.org/upload/original/1333295506.jpg?700x600}}
+====ULB majuscule ====
+{{http://pix.toile-libre.org/upload/original/1333224553.png}}
+====ULB majuscule Dijksta====
+{{http://pix.toile-libre.org/upload/original/1333294909.jpg?700x600}}
+====ULB majuscule fond blanc ====
+{{http://pix.toile-libre.org/upload/original/1333224762.png}}
+====Oscillo-Disquette bis ====
+{{http://pix.toile-libre.org/upload/original/1334523962.png}}
+(avec UrLaB en binaire)
+====Oscillo-Disquette ====
+{{http://pix.toile-libre.org/upload/original/1333531339.png}}
+(avec UrLaB en binaire)
+====Lettrages====
+
+1 : {{http://pix.toile-libre.org/upload/original/1333655758.png}}
+
+2 : {{http://pix.toile-libre.org/upload/original/1333655820.png}}
+
+3 : {{http://pix.toile-libre.org/upload/original/1333655846.png}}
+
+4 : {{http://pix.toile-libre.org/upload/original/1333655872.png}}
+
+5 : {{http://pix.toile-libre.org/upload/original/1333655898.png}}
+
+6 : {{http://pix.toile-libre.org/upload/original/1333655898.png}}
+
+7 : {{http://pix.toile-libre.org/upload/original/1333655976.png}}
+
+===== Candidats fantaisistes =====
+
+
+====ULB sérieux ====
+{{http://pix.toile-libre.org/upload/original/1333225057.png}}
+====Artistique ====
+{{http://i.imgur.com/qo8Nk.png}}
+====Artistique pixelisé ====
+{{http://piq.codeus.net/static/media/userpics/piq_29511_400x400.png}}
+====Artistique Tardigrade ====
+{{http://i.imgur.com/XvYOh.png}}
+====Space Invader ====
+{{http://pix.toile-libre.org/upload/original/1333274758.png}}
+====Space Invader 2 ====
+{{http://pix.toile-libre.org/upload/original/1333275077.png}}
+== Variante horizontale ==
+{{http://pix.toile-libre.org/upload/original/1334333578.png}}
+====Space Invader 3 ====
+{{http://pix.toile-libre.org/upload/original/1333275458.png}}
+====Lynx ====
+{{http://i.imgur.com/BSfS5.png}}
+====Water Bear ====
+{{http://pix.toile-libre.org/upload/img/1333283850.png}}

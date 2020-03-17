@@ -1,0 +1,249 @@
+====== Interne du 10 Mars 2008 ======
+
+
+
+
+
+===== Ordre du jour =====
+
+
+**0. Election partie II**\\
+- Cex se présente au poste de Censeur\\
+- Cantor II est toujours vacant.\\
+
+
+**1. BDM**\\
+- Etat des lieux\\
+- Date de mise en bouteille\\
+//Commentaires: J'ai vu qu'il devenait urgent de passer à la mise en bouteille, et je fait totale confiance à Gluck sur ce genre de connaissances. Alors on bloque une date et vite. Gluck, vu que tu connais les deadlines, je te propose de créer un doodle maintenant après avoir consulté rony pour savoir quand c'est possible, les gens s'inscrivent pour lundi prochain au plus tard (jour de l'interne) et on arrête une date définitive à l'interne.//
+
+**2. Comptabilité de la guilde**\\
+- Etat des lieux\\
+- Exell & wiki\\
+- Gestion de l'argent (banque, caisse, ...)
+
+**3. Débriefing**\\
+- Comment s'est passée la première externe?\\
+- Comment se sentent les membres du Collège et assimilés dans leur fonction?\\
+//Commentaires: Très positif, Revoir les prix, Système pour checker les bouteilles vides.//
+
+**4. Recrutement**\\
+- Objectifs à atteindre\\
+- Moyens à mettre en oeuvre\\
+- Liste des candidats\\
+//Commentaires: Twix, B3K, Braine le compte. //
+
+**5. Services de la guilde**\\
+- Commande d'insignes\\
+- ML chant@cerkinfo.be\\
+- Google Calendar\\
+- Wiki\\
+//Commentaires: Gluck et Bigon, je vous ai mis modo vu votre connaissance actuelle de la liste. Le mdp mom est l'ancien mdp admin.
+Freesex, dès que le flyers est déclaré OK, tu l'envoie à la ML histoire de la faire bouger.
+Tout le monde, on met cette page [[guilde:events]] à jour, histoire de pas passer pour des branks que nous ne sommes pas (plus). //
+
+**6. Activités extraordianire**\\
+- Brainstorming\\
+- Répartition des tâches\\
+- Deadlines
+
+**7. Ode à la guilde**\\
+- Version définitive a adopter, tout le monde relis et rechante à la maison.
+
+**8. Organisation des externes**\\
+- Idée de Rony: "réduction Guindaille" : une élection de la meilleure guindaille de la soirée, avec une bdm ou autre bière spéciale à la clef.\\
+- externe clodo du 17/03: mise au point des idées
+
+**9. Calendrier**\\
+- Réfaction du Codex: quand?\\
+- Cantux général du 20 mars\\
+- Délégation GG dans les autres Guildes
+
+**10. Divers**\\
+- T-Shirts\\
+- Achat de matériel de cantux\\
+//Commentaires: Après avoir un peu chier dans les bottes à Freesex, je tiens à lui dire publiquement bravo pour sa mise à jour des diverses pages et des diverses dates à travers tout le wiki, c'est nickel et t'a rien oublié! Merci! //
+
+
+===== Procès verbal =====
+
+**__0. Élection partie II__**
+
+Cex est élu Censor, une abstention, pas de contre.
+
+Le poste de Cantor II est toujours vacant. Devrait-on faire une distinction entre Cantor I et Cantor II ? Pourquoi ne pas avoir deux personnes pour le poste de Cantor sans faire de distinction?
+
+Gluck préfère que pour Bigon il y ait une distinction.
+
+Finalement le poste reste toujours vacant, l'idée est à relancer dans une prochaine interne. 
+
+
+
+**__1. BDM (bières de destruction massive)__**
+
+Gluck nous explique comment laver les bouteilles à la javelle sans passer par le lave vaisselle. Il faut 10 bacs du bal CI, Magg va s'en occuper, Fred va trouver des bassines et Fox la javel. La bière ne devrait pas être dégueue.
+
+Point express : JP vient d'arriver, il a les carpe, il a sa bière et essaie de l'ouvrir avec une clé à molette. Peut après, Bigon arrive, il est en retard car il y avait une tempète. 
+
+
+**__ 2. Comptabilité de la guilde__**
+
+-On est à 201,9€ (moins les pertes de l'interne).
+
+-Pour la compta, il faudrait faire un fichier excel et ainsi on n'aurait pas besoin de tout faire à la main.
+
+-Il faut récupérer les créances pour la prochaine externe.
+
+Après avoir fait un tour de table pour savoir à combien on évaluerait le prix de nos externes, on est arrivé à 7€ pour rester dans le positif et ne pas faire de pertes.
+
+On boit beaucoup plus que n'importe quelle guilde à l'ULB. On garde le prix mais faire attention à ne pas trop boire. Le fux doit informer au fur et à mesure du cantus du nombre de bières qu'il reste et que les gens ont bu. 
+
+**__ 3. Debriefing__**
+
+JP : Très bien, sauf la fin où il était complètement saoul. Les gens de St-Louis se sont bien marré.
+
+Bigon : En sortant de la Bigon était complètement saoul. Ce n'était pas immédiat quand il fallait chercher la page d'un chant, pas assez de réactivité. Sinon cela c'est bien passé, il a fait un bon choix de chants. Il aurait du par contre plus s'imposer en lançant et en chantant.
+
+Bram : le fut est chiant à gérer. Les gens de St-Louis on dit qu'il était un bon fux. Bonne idée de coucher les bières après l'avoir vidé pour que le fux n'ait pas à contrôler si il reste quelque chose dedans.
+
+Magg : On devrait fixer un prix selon le temps d'arrivé de la personne (modulo l'excuse). Les prix serait de 7€ première partie, 6€ deuxième partie et 3€ troisième partie.
+
+300€ dans le Ricola box c'est beaucoup trop, il faut trouver une solution. On a besoin de l'argent seulement quand on va faire des courses. Il nous faudrait un compte en banque mais ne pas mélanger l'argent de la guilde avec un compte privé.
+
+Dash : Pourquoi pas demander au cercle de garder notre argent. Histoire d'avoir la sécurité d'une carte bancaire et ainsi pouvoir payer par carte.
+
+JP : Un compte internet ? -> Cela ne fonctionnerait qu'avec des transferts donc impossible d'acheter au Coloruyt avec ce genre de compte.
+
+Ce qu'il nous faudrait c'est un compte individuelle avec une carte nominative qui sera donné au Questor et qui se transmettra d'années en années. Pour cela, il faut qu'un vieux qui n'est plus dans ses fonctions actives et qui soit membre du kernel ouvre un compte en son nom.
+
+Après vote, un seul contre.
+
+Il nous reste à choisir une banque. 
+
+**__4. Recrutement__**
+
+Il faut recruter plus mais pas des connards. Il faut que la guilde se rajeunisse.
+
+Dash voudrait qu'il y ait le même nombre de recrutements qu'il y a de postes dans la guilde. Les statuts ont justement été rédigé dans le but d'être plus ouvert et d'accepter plus de monde.
+
+Bram : Il faudrait améliorer notre image, aller aux activités avec notre band.
+
+JP : Il faut vraiment faire des externes sympa, ça fait venir les gens.
+
+Bigon : Il faudrait définir plus clairement les chants demandés aux impétrants. Réponce de Dash : t'avais qu'à être là lors de la réfraction du codex.
+
+Gluck: Il y a des gens qui trouvent la guilde cool et que le mac c'est bien. Il faudrait mettre ça aux claire avec le mac. Les gens prennent cela sérieux alors que ce n'était qu'une blague au début.
+
+Fox : 7 personnes c'est impossible.
+
+Dash : Il ne nous en faut pas forcement 7 mais avoir des gens pour les postes, c'est ça le plus important. On pourrait aussi mettre un fut Guild Gates juste pour causer avec les gens et nous donner une bonne image. Pas mettre le fut avec l'argent de la guilde mais en faisant une cotisation par exemple.
+
+Gluck : Il faut mettre en avant que Caps faisait partie de la Guilde avant et que le mac et une sorte d'auto dérision. 
+
+**__ 5. Services de la guilde__**
+
+**5.1 Commande d'insignes**
+
+Essayer de tout avoir pour le 20 mars pour la multiguilde. On ne se fait pas de bénef sur la vente des insignes.
+
+**5.2 ML**
+
+La mailing fonctionne, Dash est admin, Gluck et Bigon sont modérateurs. Elle sert à prévenir des évènements et être au courant.
+
+Il y a un problème avec le format de l'image pour les flyer, il faudrait régler ça. On pourrait aussi faire un pdf pour des cartes de visites et les plastifier (+- 10/personnes).
+
+Faire un calendrier convenable pour la Guilde Gates et un HOWTO pour que reprendre facilement le boulot les années suivantes.
+
+Forums : crée un compte unique avec un mot de pass unique pour que tout le monde puisse répondre aux gens ou donner un complément d'information.
+
+Fox : Il y a un problème avec les mails, les gens envoient beaucoup trop de mails pour ne rien dire. Il voudrait une ML informative et pas active. 
+
+**__ 6. Activités extraordinaire__**
+
+Fox : un banquet, cantus à la Basilik, cantus grenadine, menthe
+
+Gluck : visite de brasserie, cantus à réponses, cantus à variation de bureau, cantus bières méconnues.
+
+JP : Cantus initiatique (didactique)
+
+Magg : Cantus à la blanche, Cantus pré-td océade, Dash :mailot+tuba, réduction si on a un ballon de plage (en forme de bite).
+
+Bram : Cantus au vin
+
+Cex : Stripp Cantus (TOP LESS), cantus motte à l'air.
+
+Gluck : Cantus culturelle avec des chants méconnue.
+
+Dash : Cantus roue de la fortune. 
+
+**__7. Ode à la guilde__**
+
+Modification de certains passages de l'ode à la guilde. Vote de la version finale : Gluck vote contre son chant.
+
+[[ode_a_la_guilde|Version finale.]]
+
+Point express : Koujovitch et PH arrivent vraiment en retard. On négocie un Valvert à poil. PH se met totalement à poil, Koujovitch lui garde ses chaussettes.
+
+**__ 8. Organisation des externes__**
+
+Cela pose un problème éthique de donner des bières pour une guindaille et aussi le problème de qui juge les guindailles. Puis payer ou classer des guindailles ça craint.
+
+Externe clodo:
+
+JP : Tout le monde de la guilde doit venir déguisé en clodo, ceux en dehors de la guilde qui viennent déguisé en clodo ont une réduction.
+
+Cantus se ferait à la Cara ou à la freedom donc le prix serait de 4€ et 2€ pour ceux qui sont déguisé en clodo.
+
+Il faut cacher les bouteilles de Cara dans du papier comme ça ils ne savent pas ce que c'est. Gluck peut choper des gobelets, s'il n'en trouve pas on prendra du papier journal. Il faut par contre absolument de la glace pour refroidir les Cara.
+
+**__9. Calendrier__**
+
+Le 30 mars à 14h chez Dash, réfraction du codex qui sera voté durant l'interne suivante.
+
+On voudrait que Cex soit le Censor au cantus général mais il faut lui demander avant.
+
+Tout le monde doit apprendre le chant de la guilde !
+
+Faire une mise à jour des dates pour les différents cantus.
+
+**__10. Divers__**
+
+Dash : On peut investir dans des T-Shirt pour les vendre au prix coutant et pas forcement vouloir se faire de l'argent.
+
+vote : pas de vote contre la proposition.
+
+Vote pour que ce soit la guile qui paye : 3 pour, 11 contre.
+
+Fox fait un projet pour les t-shirt Guilde Gates.
+
+-On veut un drapeau Guilde Gates. Dash a du tissu chez lui, il ne reste plus qu'à coudre le TUX.
+
+-On pourrait acheter des chandeliers. Magg nous fait un projet pour savoir quoi acheter.
+
+-Faire un banquet Guilde Gates soit pour décembre, soit pour février. On veut un banquet où on ne doit pas travailler pour en profiter.
+
+-Trouver quelqu'un pour faire des bands. 
+
+===== Organisation =====
+  * <del>Bloquer une date</del>
+  * Réserver un lieu (cercle, rabelais2, ...) **Rabelais II**
+  * Récupérer les clefs **QUI ?**
+  * Arriver à l'avance pour tout préparer **Quaestor & Fux**
+  * Rangement/nettoyage **Tout le monde**
+  * Comptage des stocks restants **Quaestor**
+
+=== Infrastructure sur place ===
+  * Pompe fonctionnelle (si on fait ça aux fûts)
+  * Bières (décider, par rapport à l'ampleur de l'évènement, de quelle quantité on va avoir besoin) **QUI ?**
+  * Bouffe **QUI ?**
+  * Cruches **QUI ?**
+  * Tables/Chaises **QUI ?**
+  * Bougies **QUI ?**
+  * Briquet **QUI ?**
+  * Fond de caisse **QUI ?**
+
+=== Je ferai des affonds pénitences car je ne viens pas ===
+
+K
+
+===== Commentaires =====

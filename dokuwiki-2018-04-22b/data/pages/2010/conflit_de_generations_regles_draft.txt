@@ -1,0 +1,11 @@
+====== Conflit des générations 2010 ======
+
+Cette page a pour but de proposer un certain nombre de changements de règles pour le conflit des générations du vendredi 23 avril. N'hésitez pas à jeter un oeil [[cipedia:conflit_generation|aux règles de 2007]]
+
+===== Boîte à idées =====
+
+=== Winner-takes-all-estafette (fred2k) ===
+
+Pour pimenter les différences de tailles d'équipes, l'idée est de permettre un nombre (limité) d'estafettes "winner takes all the points" entre les membres restants de deux camps, sans rééquilibrage du nombre de belligérants.
+
+Par exemple, supposons que l'équipe des bleus 2000 se retrouve avec 2 participants 20 minutes après le démarrage des hostilités. Ils auront la possibilté de proposer un nombre limité d'estafettes à d'autres équipes plus membrées. Le nombre de points gagnés sera donc max(len(//equipe1//),len(//equipe2//)).

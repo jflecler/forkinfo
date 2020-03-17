@@ -1,0 +1,34 @@
+====== Commande groupée de "Fleurs du mâle" ======
+
+===== Prix =====
+
+<code c>
+if (g_slist_length (orders) >= 10)
+    price = 9;
+else
+    price = 13;
+</code>
+
+
+
+
+
+===== Deadline =====
+
+Les commandes seront cloturées le **mercredi 5 décembre**, merci de régler votre commande au plus vite !
+
+Payement de **9 €** soit, et de préférence, par virement **001-2678015-18** soit en cash (mais débrouillez vous pour me trouver (bigon)).
+
+
+
+
+
+
+
+
+
+
+===== Commandes =====
+
+   - Toodeath
+   - Bram

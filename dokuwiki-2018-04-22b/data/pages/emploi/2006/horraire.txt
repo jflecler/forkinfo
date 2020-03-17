@@ -1,0 +1,5 @@
+====== Vérifier l'horraire ======
+Vérifier l'horraire pour être certain du temps dont on dispose de l'auditoire et du Hall
+
+  * K : D'après le CTE on a le local de 8h à 18h
+  * Julien : on a même le hall à partir du mardi 16h. 

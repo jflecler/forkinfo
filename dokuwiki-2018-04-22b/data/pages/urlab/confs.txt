@@ -1,0 +1,56 @@
+===== Confs =====
+==== Confs futures ====
+
+Soon...
+
+==== Confs passés ====
+=== Tryout : 16 mai ===
+Un temps de midi, environ 1h30, pour tester le concept. Propositions de talks : 
+  * hastake: la crypto de bitcoins
+  * fremy : HTML: La technologie ultime?
+  * Les méthodologies du caching
+
+
+==== Idées de conf ===
+  * Bram :
+    * python
+    * django
+    * vim
+    * git
+    * memopol
+    * dierentheater
+    * outils pour python/django (fabric, virtualenv, pip, supervisord) (peut être séparé en plein de lightningtalks)
+    * comment faire un bot irc the unix way
+    * scripting and parsing the web in python (beautifulsoup, lxml, ipython, ipdb, mechanize, selenium et selenium++ (webdriverplus) + ipython, ipdb and firebug)
+    * "ce que j'ai réussit à comprendre d'haskell jusqu'à présent"
+    * "ce que j'ai réussit à comprendre de backbone"
+    * lightningtalks:
+      * flask/jinja2
+      * mongodb
+      * butteur (mon preprocesseur pour beamer)
+      * PLY (lex/yacc en python, utilisé pour butteur)
+      * comment se faire son template de projet/app django
+      * comment se faire un réseau f2f avec git annex
+      * git annex
+      * haml
+      * coffeescript
+      * django-template-fragments (ma django app à mwa)
+      * déployer du django, les trucs à savoir quand on set DEBUG=False + conf basic gunicorn/nginx + supervisord
+      * irenicurse, mon framework ncurse python seaside-like
+  * cassidy:
+    * git
+  * bigon:
+    * packages debian
+    * puppet
+  * haxelion:
+    * Conférences :
+      * introduction to binary exploitation and anti-exploitation techniques
+      * a summary on gsm network security (need to get the hardware first for live demo :D)
+    * Workshops :
+      * basic web exploitations
+      * an introduction to binary reverse engineering (on windows)
+      * basic binary exploitations
+
+==== Personne à inviter ====
+
+  * L'un des deux auteurs belges de Keccak (actuellement finaliste pour devenir SHA3) : Joan Daemen (aussi co auteur d'AES) ou Gilles Van Assche (qui vient de l'ULB). On peut sans doute demander à Olivier Markowitch de nous aider pour ça (pour une demande plus officielle, un meilleur local et pour ramener plus de monde).

@@ -1,0 +1,48 @@
+====== Logiciels Libres ======
+
+===== Quelle éthique pour les logiciels propriétaires ? =====
+
+==== Slide ====
+  * Protocoles fermés
+  * Aucun contrôle
+  * Utilisation dans les gouvernements
+  * Anti solidaire
+http://www.vskrems-lerchenfeld.ac.at/arbeitsmaterialien/anlautbilder/pirat.jpg
+
+==== Texte ====
+  * Les logiciels propriétaires favorisent souvent les protocoles fermés (voir précédent); qui posent plusieurs problèmes au niveau éthique et réduit la liberté des utilisateurs.
+  * On ne dispose d'aucun moyen de savoir ce que fait réellement le logiciel. Une entreprise sans éthique pourrait abuser de ça pour violer la vie privée des utilisateurs.
+  * Est-ce normal que nos gouvernement paient des fortunes en licence avec l'argent des contribuables? Problème de dépendance économique vis-à-vis des USA. Qui controle les ordinateurs controle le monde.
+  * Associe le fait d'aider son voisin à des pillages en haut mer 
+
+
+===== Logiciel Libre =====
+==== Slide ====
+//« I came for the quality. I stayed for the freedom. » - Sean Neakums//
+  * Liberté ?
+    * Utilisation
+    * Transparence
+    * Redistribution
+    * Amélioration
+
+==== Texte ====
+  * Un logiciel libre garantit 4 libertés fondamentales à l'utilisateur :
+    * La liberté d'utiliser le logiciel pour n'importe quel usage
+    * La liberté d'étudier le fonctionnement du logiciel et de le modifier selon ses besoin
+    * La liberté de le redistribuer et donc d'aider son vois
+    * La liberté d'améliorer le logiciel et de redistribuer ses améliorations à la communauté
+
+
+===== L'éthique du Logiciel Libre =====
+==== Slide ====
+//« Il n’y a d’éthique que lorsqu’il y a liberté. » Jacques Ruffié //
+  * Formats ouverts
+  * Partage des connaissance
+  * Communauté
+  * Libre accès
+
+==== Texte ====
+  * Les logiciels libres développement et implémentent des formats et technologies ouvertes.
+  * Les LL favorisent l'accès libre et le partage des connaissances à l'instar du monde scientifique. C'est la meilleure façon pour faire évoluer la connaissance humaine
+  * Le LL créee des communautés d'utilisateurs et développeurs motivés aux quatres coin du monde favorisant les échanges techniques mais aussi culturel.
+  * Le logiciel libre se veut utilisable et accessible à tous : minorités, accessibilités.

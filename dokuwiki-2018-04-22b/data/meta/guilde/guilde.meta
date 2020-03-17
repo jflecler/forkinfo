@@ -1,0 +1,23 @@
+a:2:{s:7:"current";a:7:{s:4:"date";a:2:{s:7:"created";i:1508138722;s:8:"modified";i:1543486879;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:5:"title";s:15:"La Guilde Gates";s:11:"description";a:2:{s:15:"tableofcontents";a:5:{i:0;a:4:{s:3:"hid";s:15:"la_guilde_gates";s:5:"title";s:15:"La Guilde Gates";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:1;a:4:{s:3:"hid";s:22:"informations_generales";s:5:"title";s:24:"Informations générales";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:2;a:4:{s:3:"hid";s:12:"publications";s:5:"title";s:12:"Publications";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:3;a:4:{s:3:"hid";s:8:"services";s:5:"title";s:8:"Services";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:4;a:4:{s:3:"hid";s:52:"calendrier_organisation_ordre_du_jour_proces_verbaux";s:5:"title";s:57:"Calendrier (organisation, ordre du jour, procès verbaux)";s:4:"type";s:2:"ul";s:5:"level";i:2;}}s:8:"abstract";s:509:"La Guilde Gates
+  Banquet: 
+
+
+ Prochaine(s) Interne(s): 
+4 Mars, interne semi-elective
+
+ Prochaine(s) Externe(s):  
+9 mars
+Informations générales
+
+	* Genèse de la Guilde Gates
+	*  Chant de la Guide Gates ([Download PDF])
+	* Codex de la Guilde Gates
+	* Membres de la Guilde Gates et Collège actuel
+	* Archives de la Guilde Gates
+
+Publications
+
+	*   Liste des formules d'usage en CantuX ([Download PDF])
+	*  How to: Organiser un CantuX
+	* Liste des chants à connaître (Mineure & Majeure)
+	*  Playlist p…";}s:8:"relation";a:2:{s:10:"references";a:22:{s:13:"guilde:040310";b:1;s:13:"guilde:100309";b:1;s:13:"guilde:genese";b:1;s:22:"guilde:ode_a_la_guilde";b:1;s:15:"guilde:codex2.2";b:1;s:14:"guilde:membres";b:1;s:11:"guilde:2009";b:1;s:15:"guilde:archives";b:1;s:15:"guilde:formules";b:1;s:18:"guilde:orga_cantux";b:1;s:20:"guilde:liste_mineure";b:1;s:20:"guilde:liste_majeure";b:1;s:15:"guilde:playlist";b:1;s:18:"guilde:guindailles";b:1;s:13:"guilde:afonds";b:1;s:13:"guilde:semeur";b:1;s:20:"guilde:commande_2009";b:1;s:20:"guilde:commande_2008";b:1;s:15:"guilde:commande";b:1;s:15:"guilde:internes";b:1;s:15:"guilde:externes";b:1;s:13:"guilde:events";b:1;}s:10:"firstimage";s:58:"https://forkinfo.be/guildegates/2_Blason/blason_C_v2.0.jpg";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:3:{s:4:"date";a:1:{s:7:"created";i:1508138722;}s:4:"user";s:0:"";s:7:"creator";s:0:"";}}

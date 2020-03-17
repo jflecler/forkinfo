@@ -1,0 +1,31 @@
+===== Organisation =====
+  * <del>Bloquer une date</del>
+  * Réserver un lieu cercle
+  * Récupérer les clefs **QUI ?**
+  * Arriver à l'avance pour tout préparer Tout le monde !
+  * Rangement/nettoyage Tout le monde !
+  * Comptage des stocks restants **FUX**
+  * Faire un compte rendu à la prochaine interne Tout le monde !
+
+==== Infrastructure sur place ====
+  * Bières (décider, par rapport à l'ampleur de l'évènement, de quelle quantité on va avoir besoin) Dash (?) et B3k (?)
+  * Tables/Chaises Tout le monde
+  * Bougies Bram
+  * Briquet Un <del>de ces toxicos</del> de fumeurs
+  * Fond de caisse Allblack
+
+
+==== Publicité ====
+  * mailing list chant (chant [at] cerkinfo [point] be)
+  * [[https://forkinfo.be/phpbb|forum CI]]
+  * mailing list du cercle (cercle-informatique [at] cerkinfo [point] be)
+  * fora et ML d'autres guildes, cercles, ordres?
+  * [[forums des autres cercles]]
+
+==== Postes ====
+  * Senior : Cex
+  * Cantor primus : Romain
+  * Cantor secondus : Bigon & Iceman
+  * Questor : Allblack
+  * Fux : B3k
+  * Censor : Mon sanglier d'amour

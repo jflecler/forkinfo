@@ -1,0 +1,69 @@
+====== Le Frisbeebitif ======
+Un jeu bibitif pour s'enterrer tout en faisant du sport! Peut être intéressant en bleusaille...
+
+===== Règlements =====
+But: Boire des bières.
+
+==== Matériel ====
+  * Un frisbee
+  * Moult bières et blanches
+  * Une vidange de 25cc
+  * Un espace dégagé au sol mou (tips: la plaine)
+
+==== Préparation ====
+  * Placer la vidange debout quelque part, elle servira de centre
+  * Chaque joueur prend 5 bières
+  * Les joueurs se placent à une distance raisonnable du centre et se mettent tous à équidistance les uns des autres. Par exemple, si on joue à 3, on formera un triangle équilatéral. A 4, ce serra un carré. A 5, un pentagone, etc. Le lecteur averti aura constaté que les joueurs se placent simplement aux angles du polyèdre régulier déterminé par le nombre de joueurs et dont le centre géométrique est la vidange centrale.
+  * Les joueurs ainsi placés décapsulent tous une bière et l'affonent.
+  * La vidange ainsi créée est placée devant le joueur.
+  * Voilà, tout est prêt, maintenant on peut jouer !
+
+**Attention**: A ce stade, chacun a une vidange devant soi et tout le monde se trouve autour de la vidange centrale.
+
+==== Qui commence ? ====
+C'est le plus jeune joueur qui commence.
+
+Toutefois, une variante existe: La course ! Lors de la phase de préparation, le frisbee (placé en équilibre sur la vidange centrale) doit être attrappé directement après l'affond de départ. C'est la première personne s'en emparant qui commencera la partie.
+
+==== Comment faire boire quelqu'un ? ====
+En faisant tomber une vidange avec le frisbee. Le frisbee doit être lancé depuis la position du joueur qui le possède et tout contact avec une vidange est valable tant que le frisbee n'est pas à l'arrêt. Si des vidanges de 2 joueurs différents sont touchées, ca compte. Si une vidange tombe suite à un rebond ou un ricochet du frisbee, ca compte. La seule exception est la vidange centrale qui DOIT être annoncée avant de tomber. Voici donc ci-dessous le détail du fonctionnement.
+
+=== 1. En utilisant la (les) vidange(s) se trouvant devant un joueur ===
+Vous l'aurez tous compris, le frisbee n'aura qu'une seule utilité dans ce jeu: entrer en contact avec les vidanges afin de les faire tomber! Et bien c'est bien vu! Pour faire boire quelqu'un, il faut simplement bien viser! Voici la formule à retenir: **1 vidange tombée((La vidange doit être tombée au sol. Toucher une vidange n'est pas valable. Si une vidange tombe sur une autre vidange, elle est considérée comme tombée au sol.)) = 1 gorgée à boire**. Une fois la pénitence effectuée, c'est au tour du joueur qui s'est fait viser de lancer le frisbee.
+
+Bien évidemment, une fois qu'une nouvelle vidange est créée, elle rejoint sa grande soeur sur le sol devant le joueur. Il sera dès lors de plus en plus simple de faire boire qqn, la cible étant plus conséquente et la chute provoquant plus de gorgées!
+
+**Attention**: Afin d'éviter tout mal-entendu, il est établi que dans une bouteille il y a 8 gorgées.
+
+=== 2. En utilisant la vidange centrale ===
+La vidange centrale, c'est le fin du fin. Elle rapporte gros mais peut également vous coûter cher! En effet:
+  * Si vous faites tomber la vidange centrale:
+    - tout le monde boit une gorgée
+    - vous récupérez le frisbee pour pouvoir jouer à nouveau
+    - vous pouvez((Ce qui implique donc que ce n'est pas obligatoire)) proposer une direction de rotation des joueurs qui devront alors se décaler d'une place dans la direction indiquée((Chaque joueur aura donc une nouvelle place et les éventuelles vidanges créées à cet endroit y seront évidemment déposées)) !!! C'est pas beau ça ?
+  * Si vous échouez, vous devez vider intégralement le contenu de votre bière/blanche actuelle et bien évidemment placer la vidange devant vous. Néanmoins, vous récupérez le frisbee (mais il est fort probable que vous ne retentiez pas votre chance, un nouvel échec vous obligeant dès lors à affoner toute une bouteille...).
+
+C'est donc une option à double tranchant.
+
+**Attention**: Afin d'éviter tout mal-entendu, un joueur qui souhaite tenter le milieu devra dire "J'annonce le milieu".
+
+==== Que se passe-t-il si le frisbee ne touche rien ? ====
+Lorsque 3 lancers consécutifs n'ont pas atteint leur cible, un gorgée supplémentaire est mise en jeu. Cette gorgée sera bue par le premier joueur devant boire une gorgée. Par exemple:
+  * Alice renverse une vidange de Bob lors de la 5e passe, les 4 passes précédentes ayant été infructueuses. Bob devra donc boire 1+1 gorgées (1 gorgée pour la vidange renversée + 1 gorgée bonus).
+  * Alice renverse 2 vidanges de Bob lors de la 12e passe, les autres ayant été infructueuses. Bob devra donc boire 2+4 gorgées.
+
+Bien entendu, les lancers infructueux sur la vidange centrale sont comptabilisés. De plus, s'il y a des gorgées bonus en jeu et que la vidange centrale est renversée, tout le monde boira le total cumulé. Par exemple:
+  * Alice renverse LA vidange centrale lors de la 5e passe, les 4 passes précédentes ayant été infructueuses. Tout le monde devra donc boire 1+1 gorgées (1 gorgée pour la vidange renversée + 1 gorgée bonus).
+  * Alice renverse LA vidange centrale lors de la 12e passe, les autres ayant été infructueuses. Tout le monde devra donc boire 2+4 gorgées.
+
+**Attention**: Afin d'éviter les travers de l'anti-jeu, un maximum de 8 gorgées par vidange au sol peut-être bu par un joueur. Par exemple: Alice doit boire 10 gorgées au total cumulé mais n'à qu'une vidange devant elle au sol: elle ne boira que 8 gorgées. 
+
+==== Comment placer ses vidanges ? ====
+De nombreuses techniques existent et vous les découvrirez certainement au cours de vos parties. Une seule règle est à respecter: **il faut que les vidanges soient placées dans l'espace virtuel déterminé par la surface du frisbee**. Ainsi, plus le frisbee est grand, plus les vidanges pourront être espacées. Bien entendu, si d'aventure le nombre de vos vidanges dépasse l'espace allouable, vous devrez dépasser de celui-ci et toute vos vidanges seront en contact les unes avec les autres. 
+
+===== Ammendements =====
+  * <Fossile> Si on touche l'autre dans la tronche à la place de la canette, pénalité on boit un coup. Si on touche une autre partie du corps, faut enlever le vêtement correspondant.
+  * <fred2k> à fossile : le vêtement du lanceur ou de la personne visée ? ⇒ Peu importe, voir les deux ;)
+
+  * <John> Petite remarque par rapport au nombre maximum de joueurs :
+Si on considère que chaque joueur doit être à équidistance de TOUS les autres joueurs, le lecteur averti aura vite compris que ce n'est pas faisable en se plaçant aux angles du polyèdre régulier déterminé par le nombre de joueur et dont le centre géométrique est la vidange centrale au delà du triangle équilatéral. Donc, pour pouvoir jouer à N personnes, il faut un univers à N-1 dimensions, ce qui donne un maximum de 4,5 11, 12 ou 27 joueurs selon les différentes théories des cordes, M, de la relativité générale et de la relativité restreinte. En considérant l'état du frisbee (état défini par le triplet V,D,Pn, V sa vitesse, D sa distance parcourue lors d'un lancé et P sa position dans son univers) rend l'effet de la gravitation non négligeable (en particulier si le frisbee est à courte distance d'un corps massif tels que par exemple une planète, une étoile ou un trou noir) il faut alors placer tous les joueurs sur un même plan pour qu'aucun d'entre eux ne soit avantagé l'un par rapport à l'autre (Pour raison de simplification on considère la distance D suffisament courte pour que le vecteur de force de gravitation exercée sur le frisbee ne change pas pendant son trajet, on peut donc approximer le landscape où placer les joueurs par un plan). Sous ces contraintes, le nombre maximum de joueur pouvant être palcés dans un plan euxlidient à deux dimensions est de 3.

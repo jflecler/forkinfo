@@ -1,0 +1,53 @@
+====== Présentation InfoSoc ======
+
+===== Contenu =====
+Résumé des différents points, dans l'ordre où ils seront abordés:
+
+  - **Au fond, mais qu'est ce que l'éthique ?** [[slides_eth|SLIDES]]
+  - **Introduction**:Omniprésence de l'informatique dans la vie de tous les jours, justifier les craintes à propos du respect de l'éthique, montrer qu'il s'agit d'un problème qui concerne tout le monde, bref aperçu des différents points qui vont être abordés.
+  - **Respect de la vie privée:** carte happy-days et Data-mining, surveillance du traffic, conservation d'énormément de données privées, interdiction de cryptages + de X bits, patriot act :) )[[slides_vp|SLIDES]]
+  - **Liberté d'expression:** Peut-on réelement publier ce qu'on veut sur internet ? (surveillance, rejoint un peu le point 3) [[slides_liberte|SLIDES]]
+  - **Accès aux nouvelles technologies pour tous:** Se donne on les moyens de permettre à tout le monde d'y accèder ? Risques d'une évolution rapide, délaissant ceux qui ne la suivent pas. Passage obligatoire par des compagnies privées pour l'accès à internet. [[slides_accès|SLIDES]]
+  - **Interopérabilité:** Formats de fichiers ouvert, intéret. Enfermement de l'utilisateur. Que seraient les e-maisl aujourd'hui si le protocole était propriétaire. Protocoles de communication, et l'Open discussion day !! [[slides_inter|SLIDES]]
+  - **Trust computing, DRM:** Buts avoués ou non, effets pervers... [[slide_drm|SLIDES]]
+  - **Logiciel libre:** Quelle confiance peut on accorder aux logiciels ? Motivations anarchistes des premiers développeurs open-source, Buts du logiciel libre (libre accès,respect de la vie privée, Transparance, coopération,...). Réponses apportées par rapports aux points abordés précédement. p-ê terminer en bouquet final par //"il serait dommage que le logiciel libre ne libère que du code"//  [[slides_foss|SLIDES]]
+
+===== Choses à faire d'ici la prochaine réunion: =====
+  * **Gigo:** Trouver de la doc sur les points 1 et 5
+  * **Kujo:** Trouver de la doc sur les points 7 et 8, et éventuellement restreindre l'accès à cette page du wiki à nous 3 (je n'ai pas encore cherché comment faire).
+  * **John:** Doc sur 3,4 et 6
+  * **Laurent:** Ne pas en taper une
+  * **Tous:** trouver la video de l'ours polaire qui s'auto-suce.
+
+===== Idées d'images / citations pour la présentation =====
+
+http://personal.rhul.ac.uk/umys/038/Ethics%20materials/
+
+http://www.krakoff.com/dashfordogs/large/Jake%20the%20prisoner.jpg
+
+  * A propos de la vie privée, traçage, tout ça...  //« We want informations » The Prisoner//  http://www.ncf.carleton.ca/~ek867/prisoner.rover.jpg
+  * « Il n'y a d'éthique que lorsqu'il y a liberté. » Jacques Ruffié
+  * C'est aux esclaves, non aux hommes libres, que l'on fait un cadeau pour les récompenser de s'être bien conduits." 
+        (Baruch Spinoza / 1632-1677 / L'Ethique)
+  * Lorsque nos intentions sont égoïstes, le fait que nos actes puissent paraître bons ne garantit pas qu'ils soient positifs ou éthiques.
+        (Dalaï-lama)
+  * L’esprit de l’homme supérieur est familier avec la droiture ; l’esprit de l’homme moyen est familier avec le gain.
+        (Confucius 551 – 479 av. JC, philosophe chinois, Les Analectes, Livre IV, Chapitre XVI)
+  * La maîtrise de soi consiste à garder devant soi sa vision des choses et ses valeurs et d’y conformer sa vie.
+        (Stephen Covey, conseiller en management et écrivain américain)
+  * Le vin rend gai : mais l’argent permet tout.
+        (Ecclésiaste 10:19)
+  * Dans une économie basée sur la connaissance, une bonne entreprise est une collectivité qui a un but et non un titre de propriété.
+        (Charles Handy, Harvard Business Review, décembre 2002)
+  * Le capitalisme est cette croyance étonnante que les plus mauvais des hommes feront les pires choses pour le plus grand bien de tous.
+        (John Maynard Keynes 1883-1946, économiste anglais)
+
+  * Notre intérêt personnel est un merveilleux outil pour nous jeter de la poudre aux yeux d’une manière agréable.
+        (Blaise Pascal 1623-1662, mathématicien et philosophe français)
+
+  * Dans le futur, seul les hors la loi auront droit à une vie privée
+
+  * Le défi est de moderniser sans exclure - Bertrand Schwartz
+
+
+http://www.sxc.hu/

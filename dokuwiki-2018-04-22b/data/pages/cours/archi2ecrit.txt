@@ -1,0 +1,27 @@
+===== Pack de cours: =====
+
+
+==== Examens ====
+  * Juin 2004
+  * Juin 2005
+  * Juin 2007
+  * Septembre 2007
+  * Juin 2008
+  * Septembre 2008
+  * Juin 2009
+
+
+==== Autres documents ====
+  * Formulaire récapitulatif des System Call 
+  * Formulaire de synthèse sur la programmation réseau
+  * Consignes concernant les diagrammes d'activité
+
+==== Prix ====
+0,80€
+
+
+===== Syllabus =====
+Le syllabus consiste en une série de slides présentés lors des TPs.
+
+===== Liens utiles =====
+  * [[http://www.ulb.ac.be/di/info-f-201/| Site du cours.]]

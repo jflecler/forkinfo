@@ -1,0 +1,52 @@
+====== Events chantants d'ici et d'ailleurs ======
+
+
+===== Comment ca marche ? =====
+Cette page a pour vocation de réunir les dates des évènements chantants de l'ULB et d'ailleurs. Elle est tenue à jour par les [[guilde@cerkinfo.be|membres de la Guilde Gates]].
+
+Pour faire passer une info, une date, une fête, ou tout simplement pour rester informé directement dans ta boîte mail, nous avons mis sur pied une mailing liste à l'adresse suivante: [[chant@cerkinfo.be]].
+
+Pour t'inscrire à cette liste, rien de plus simple: clique simplement sur le lien ci-contre et envoie le mail généré en ne changeant RIEN au contenu du message: [[chant-request@cerkinfo.be?subject=subscribe&body=subscribe|chant-request@cerkinfo.be]]. Si tu utilises un client mail en ligne (hotmail ou gmail par exemple), envoie un mail à **chant-request@cerkinfo.be** avec comme sujet le mot **subscribe** et un corps de message vide. Tu recevras ensuite automatiquement un mail de confirmation d'abonnement.
+
+Les membres de la Guilde Gates sont évidemment abonnés à cette liste et dés qu'une nouvelle date arrive, ils mettent cette page à jour.
+
+Enfin, si tu trouves cette initiative intéressante et que tu souhaites la partager avec d'autres, voici un moyen facile d'en faire la pub: 
+
+{{https://forkinfo.be/guildegates/4_Marketing/flyerGG_rc_web.png }}
+
+Tu trouvera [[https://forkinfo.be/guildegates/4_Marketing/chant_at_cerkinfo_marketing_kit.zip|ici]] un package marketing contenant cette image au format carte de visite, flyers ou A4 et le tout en couleur ou noir et blanc.
+
+Au plaisir de te retrouver en guindaille!
+
+
+
+
+===== ULB =====
+^Date^Event^Lieu^PAF^Remarques^
+|Mardi 16 septembre 2008|Guilde de la Robe de Pourpre|Cercle de Droit|?€| |
+|Vendredi 3 octobre 2008|Guilde Polytechnique|CdS|?|Cantus de rentrée|
+|Lundi 20 octobre 2008|Guilde Gates|Cercle Informatique|7€| |
+|Mardi 28 octobre 2008|Guilde Polytechnique|CdS|?|Bleu revint|
+|Jeudi 13 novembre 2008|Guilde Gates|Cercle Informatique|7€|Folklorique|
+|Jeudi 27 novembre 2008|Guilde Polytechnique|CdS|?|Au revoir St V|
+|Jeudi 04 décembre 2008|Guilde Gates|Cercle Informatique|7€|St Nicolas|
+|Lundi 15 décembre 2008|Guilde Polytechnique|CdS|?|St Nicolas Vs Père Noël|
+|Jeudi 29 Janvier 2009|Guilde Polytechnique|CdS|?|Vieilles Bêtes|
+|Vendredi 20 Février 2009|Guilde Polytechnique|CdS|?|Carnaval|
+|Lundi 16 Mars 2009|Guilde Polytechnique|CdS|?|Bonbons et Chocolats : Pâques arrive !!|
+|Mercredi 22 avril 2009|Guilde Polytechnique|CdS|?|Surprise|
+|Jeudi 14 mai 2009|Guilde Polytechnique|CdS|?|Blocus|
+
+
+===== Monde étudiant =====
+^Date^Event^Lieu^PAF^Remarques^
+| | | | | |
+
+===== Belgique =====
+^Date^Event^Lieu^PAF^Remarques^
+| | | | |
+
+
+===== Reste du monde =====
+^Date^Event^Lieu^PAF^Remarques^
+|Septembre-Octobre 2008|Oktoberfest|Allemagne|+- 250/4 jours à la louche|Dates dépendant des lieux (Munich/Stuttgart/...)|

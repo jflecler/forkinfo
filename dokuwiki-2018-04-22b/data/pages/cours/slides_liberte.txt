@@ -1,0 +1,68 @@
+====== La liberté d'expression ======
+
+
+
+===== Peut-on tout dire sur internet? =====
+
+==== Slide ====
+
+  * Pays "ennemis de l'internet"
+  * La Chine
+
+==== Texte ====
+
+  * Chine, Tunisie, Maldives, Turkménistan, Iran, Corée du nord, Cuba,...
+  * ils censurent les sites d’information indépendants et les publications d’opposition, surveillent le Net pour faire taire les voix dissidentes, harcèlent, intimident et parfois emprisonnent les internautes et les bloggers qui s’écartent de la ligne officielle.
+  * En Chine 42 cyberdissidents sont en prison et plus de 300 000 sites sont bloqués (dont CNN, BBC, Amnesty)
+  * instauration par le ministre de l’information et de la Technologie d’une surveillance de l’Internet, notamment des sites d’actualités et… des forums !! Les fournisseurs d’accès de ces « domaines stratégiques et sensibles  » sont tenus de consigner les renseignements sur leurs visiteurs, comme leurs adresses numéros de GSM, mais aussi de mettre en place un système de surveillance des e-mails et de bloquer les messages qui contiendraient des propos « subversifs  ».
+
+
+===== Freenet =====
+
+==== Slide ====
+
+  * But
+  * Décentralisation
+  * Anonymat
+  * Fonctionnement
+
+==== Texte ====
+  * But: publier et consulter sur internet en évitant la censure
+  * La décentralisation est indispensable à la robustesse du réseau
+  * L'anonymat est le seul moyen de garantir la vraie liberté d'expression
+  * Les communications sont cryptées et routées de manière à ne pas savoir qui en est la source ni ce qu'elles contiennent
+  * Les utilisateurs contribuent au réseau en accordant de la bande passante et de l'espace sur leur disque pour les fichiers
+  * Fonctionne comme un "internet dans l'internet", pas limité au P2P
+  * Permet la distribution d'informations censurées dans les pays "ennemis de l'internet" 
+
+===== Philosophie de Freenet =====
+
+
+==== Slide ====
+
+  * Philosophie
+  * "La censure c'est tout ou rien!"
+
+==== Texte ====
+
+  * Importance de la libre de circulation de l'information
+    * La communication est ce qui différencie l'humain
+    * La connaissance c'est bien!
+    * Importance d'être bien informé dans une démocracie
+  * La censure tue la liberté et beaucoup mourraient pour leur liberté
+  * La censure est un moyen de manipulation.
+  * Le problème est que si la censure peut être importante pour certaines choses, on peut laisser les gouvernements appliquer une "bonne" censure sans leur permettre une "mauvaise" censure
+  * Pour assurrer la liberté d'expression il faut l'anonymat, on peut avoir confiance en un pseudonyme signé
+  * L'application du copyright nécessite un contrôle de la communication et est donc contradictoire avec la liberté d'expression
+  * A-t-on besoin d'artistes "professionnels"? La créativité existera toujours...
+
+
+
+
+
+
+
+
+
+
+

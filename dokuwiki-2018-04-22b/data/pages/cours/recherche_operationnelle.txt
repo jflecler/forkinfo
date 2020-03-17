@@ -1,0 +1,21 @@
+===== Module =====
+Pour les débouchés, je crois que si tu veux devenir meilleur en algorithmique et bosser pour des compagnies qui te demanderont autre chose que de l'administration réseau c'est un bon choix. Tu vas y apprendre des principes qui ne sont pas forcément inutiles de connaître et qui un jour pourront être bien pratiques. Concernant l'IA, c'est pas encore trop répandu dans les sociétés je pense mais ça risque d'arriver. J'ai vu il y a quelques années de ça un labo de recherche aéronautique utilisant des réseaux de neurones et des algo génétiques pour créer des modèles pour une nouvelle aile d'avion. Donc, connaître un petit peu d'IA peut devenir intéressant dans les années à venir. Personnellement, je le conseille si vous aimez résoudre des problèmes de la vraie vie ou même faire de la recherche plus tard. On y voit plein d'outils qui ne sont pas inutiles. [[http://www.candiulb.be/forum/index.php?showtopic=21786|yoythebest]]
+
+Top génial cool. Le module le plus adapté aux futurs besoins à mon sens. L'IA est en train d'exploser dans les sociétés privées. [[http://www.candiulb.be/forum/index.php?showtopic=21786|SamForce]]
+
+===== Méthodes numériques d'intelligence artificielle =====
+étant un passionné d'IA je vais dire que c'est un chouette cours. Disons que ça te montre une autre face de l'informatique que celle privilégiée par le département. En gros, Bersini te montre pas mal de trucs en IA (réseau de neurones, algo génétique,automate cellulaire,…) histoire d'en avoir une bonne idée. Par contre il ne va pas trop dans les détails. [[http://www.candiulb.be/forum/index.php?showtopic=21786|yoythebest]]
+
+Le cours d'IA est génial et simple, quoique superficiel (j'ai dû aller compléter mes connaissances en allant suivre un cours de réseau de neurone à Louvain, au programme du DEA en info) [[http://www.candiulb.be/forum/index.php?showtopic=21786|SamForce]]
+
+C'est très sympa, on s'amuse bien, on y voit des trucs rigolos (applets avec des couleurs, des fourmis etc. :-)), des méthodes de programmation un peu exotiques, mais ce cours n'est qu'une introduction, on n'y apprend quasi rien, ça ressemble plutôt à un résumé des techniques les plus utilisées en IA. Pour l'examen: c'est très à l'aise (on présente un sujet au choix et il pose des petites questions sur les liens entre le sujet et le reste de la matière), il faut le vouloir pour rater. Conclusion: très fun si vous savez pas quoi prendre comme option (ou si l'IA vous intéresse évidement). [[http://www.candiulb.be/forum/index.php?showtopic=13519|Mensouille]] Oui IA c'est rigolo mais à l'examen il a des sautes d'humeurs… [[http://www.candiulb.be/forum/index.php?showtopic=13519|kavu0380]]
+
+===== Recherche opérationnelle =====
+On pourrait le qualifier d'AG3 en plus théorique. La théorie des graphes est passée en revue et on y voit même les démonstrations des algo. Ensuite on passe au simplex qui est un algo pour résoudre certains problèmes avec certaines contraintes. C'est assez chouette, un peu casse-tête pour les démonstrations à connaître, mais c'est franchement intéressant. C'est principalement orienté résolution de problèmes avec contraintes multiples. [[http://www.candiulb.be/forum/index.php?showtopic=21786|yoythebest]]
+
+Rech Op est le plus dur du module, celui qu'il y a le plus moyen de rater en tout cas. [[http://www.candiulb.be/forum/index.php?showtopic=21786|SamForce]]
+
+===== Modèles stochastiques 2 =====
+Pendant un semestre, tu vas manger des stats et des slides. Le cours explique les algo nécessaires pour faire de la modélisation d'à peu près n'importe quoi. C'est intéressant aussi bien qu'assez long sur la fin (c'est une grosse revue de l'état de l'art). [[http://www.candiulb.be/forum/index.php?showtopic=21786|yoythebest]]
+
+Mod Stoch 2 est passionnant, pas trop dur (on y apprend que tous les algorithmes d'apprentissage sont des modèles stochastiques, le réseau de neurone y compris est un cas particulier de modèle stochastique) [[http://www.candiulb.be/forum/index.php?showtopic=21786|SamForce]]

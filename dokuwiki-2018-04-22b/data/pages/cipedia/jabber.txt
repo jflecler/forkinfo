@@ -1,0 +1,26 @@
+====== Adresses XMPP/Jabber ======
+
+Insérez ci-dessous votre nom complet, votre surnom et votre(vos) adresse(s) Jabber\\
+Si votre adresse Jabber est une adresse GMail, il serait préférable de la mettre sous une forme complexe à déchiffrer pour les bots, histoire d'éviter les spams.
+
+  * Bruno Dusausoy (Duff) : bdusauso at jabber belnet be, bruno.dusausoy at gmail com ;
+  * Gaëtan Podevijn (herlock) : gpodevij (at) gmail (dot) com ;
+  * Laurent Peuch (Bram) : laurent_bram (at) jabber.belnet.be ;
+  * Mohamed Ali Bacha (subrally) : momo (at) jabber.belnet.be ;
+  * Sandro Tabak (Freesex) : freesex (at) jabber.belnet.be ;
+  * Jonathan Pevenage (SDF) : S.D.F (at) jabber.belnet.be ;
+  * Pierre-Yves Lafleur (Fossile) : psycho_lvlantis (at) jabber.belnet.be ;
+  * Mike (michael pour etre precis) Hebrant (Serveur) : serveur-mike (at) jabber.belnet.be ;
+  * Guillaume Desmottes (Kujovic) : cassidy@jabber.belnet.be ;
+  * Laurent Contzen (Burton) : burton_ci@jabber.belnet.be ;
+  * Laurent Bigonville (Bigon) : bigon (a) jabber belnet be ;
+  * Grégory Gathy (Gigo) : gigo@jabber.belnet.org ;
+  * Remy Bériot (rooony) : depmasta acrobat gmail dot com ;
+  * Artem (WoW) : wow at jabber.belnet.be ;
+  * Xavier Claessens (Zdra) : xclaesse [at] gmail [dot] com ;
+  * Nicolas da Luz Duque (Iceman/Pizza Hut) : iceman [at] jabber.belnet.be ;
+  * [[cipedia:ethyl | K0eune Julien]] (Ethyl) : jk0eune at gmail com ;
+  * Van Hoeck Olivier (Nawak) : chaosoli AT gmail DOT com ;
+  * Duterre Stéphane (kortenberg) : compte fourni par gmail.com avec l'identifiant kortenberg. 
+  * Denis Kestelier (dnz) : dnz@jabber.belnet.be
+  * Romain Noël (3vie) : jehnin (at) gmail 'dot' com

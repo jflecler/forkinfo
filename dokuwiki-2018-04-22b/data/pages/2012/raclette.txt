@@ -1,0 +1,36 @@
+====== Soirée Raclette 2012 ======
+
+**Quand ?** Le jeudi 20 décembre, à 19h30. \\
+**Ou ?** Au CI. \\
+**Nombre de place ?** Max 25 personnes.\\
+**Prix ?** A déterminer selon le fournisseur du vin et de la bouffe.\\
+**Réduction ?** Moins 3 euros si tu rapportes ton appareil.\\
+**Pourquoi ?** Pour vous délecter d'une onctueuse raclette avant une soirée qui s'annonce alcoolisée\\
+
+|**N°**|**Nom**|**Vin (nbr de bouteille (2 max)) ?**|**Appareil ?**|**Payé ?**|
+|1|Crevette|?|non|non|
+|2|Dollars|?|non|non|
+|3|Pokédex|?|-|-|
+|4|Nikita|non|non|non|
+|5|Insta|non|non|non|
+|6|Prostipute|oui|non|oui 13|
+|7|P&B|non|non|oui 9|
+|8|burt|Non|non|ui 9|
+|9|steak|non|non|oui 10|
+|10|maryse|non|non|oui 9|
+|11|Alfed|non|non|oui 9|
+|12|Cocker|non|non|non|
+|13|Kora|non|non|oui 9|
+|14|Max|non|non|non|
+|15|Magali|non|non|oui 9|
+|16|Ragequit|oui|oui|oui 10|
+|17|Obvious|oui|non|oui 13|
+|18|Sheldon|non|non|oui 9|
+|19|Gnap|oui|non|oui 13|
+|20|Quicky|non|non|oui 9|
+|21|Fumier|non|non|oui 9|
+|22|Baby|oui|non|oui 13|
+
+Forfait vin
+|**N°**|**Nom**|**Vin**|**Payé ?**|
+|*|Samy|Vin rouge|oui 10|

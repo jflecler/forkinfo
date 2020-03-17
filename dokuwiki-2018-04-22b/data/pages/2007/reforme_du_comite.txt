@@ -1,0 +1,76 @@
+Cette page a pour vocation d'illustrer les propositions de réforme du comité. N'hésitez donc pas à donner vos idées et à en débattre sur le forum à la page suivante : \\ https://forkinfo.be/phpbb/viewtopic.php?f=2&t=3632
+
+Pour information et rappel, le comité est composé à l'heure actuelle de 20 personnes, à savoir :
+  * Président de cercle
+  * Vice-président extérieur
+  * Vice-président interne
+  * Trésorier
+  * Secrétaire
+  * Président de baptême, délégué folklore
+  * Bar
+  * Bar et propreté
+  * Fosdem
+  * WWW/anciens
+  * Librex et relation premières candi
+  * Sport et culture
+  * Bal et fêtes
+  * MTSM
+  * Affiches
+  * Cours 1
+  * Cours 2
+  * OS
+  * Photos
+  * Forum pour l'emploi 
+
+Etant donné la conjoncture en ACE et le nombre de personnes pouvant potentiellement se présenter dans le cercle, il est illusoire de vouloir augmenter ce nombre. 
+
+Enfin, un dernier rappel, il ne faut pas juger de l'utilité d'un poste par la productivité du délégué de cette année mais bien par ce qu'il apporte au cercle. 
+
+====== Constats et propositions de Gluck ======
+===== Etat actuel du comité =====
+Le travail dans le comité est à l'heure actuelle relativement déséquilibré. En effet, certains délégué n'ont que peu ou pas de travail à fournir alors que d'autres à l'inverse sont surchargés. De plus, certains postes très importants (que ce soit en recettes financières ou en activités réalisées) sont seuls pour travailler, ce qui d'une part fait reposer une grosse responsabilité sur une seule personne, un risque que le cercle ne peut, à mon avis, se permettre.
+
+Il faut aussi garder à l'esprit que certains postes sont obligatoires et ne peuvent être supprimés, tels que trésorier, secrétaire, délégué Librex, propreté.
+
+Partant de ces constats, j'ai l'impression qu'une réforme profonde du comité s'avère indispensable, nous seulement pour redistribuer la charge de travail mais aussi pour assurer la pérennité de certaines activités.
+
+===== Le travail en équipe =====
+Le travail en équipe est par définition une bonne chose. Il permet de garder les gens motivés qui ne sont pas tout seul à assurer une tâche mais aussi parce que les membre de l'équipe se remotivent entre eux. Cela évite donc les baisses de moral qui peuvent rapidement se révéler problématique en cas de travail en solo. Ce sera donc un leitmotiv dans mes propositions, éviter le plus possible que les délégués ne travaillent seuls, afin d'éviter ces écueils. Certains postes seraient donc fusionnés en une équipe, ce qui n'augmenterait pas la charge de travail mais permettrait de mettre en commun les ressources de deux postes.
+
+===== Proposition du changement =====
+Mes propositions vont toucher les postes suivants : 
+  * www/anciens
+  * librex/relations 1e bac
+  * sport et culture
+  * bal et fetes
+  * mtsm  
+  * affiches 
+  * os
+  * photos
+  * Fosdem
+  * Forum pour l'emploi
+
+L'idée étant de renforcer les postes qui amènent quelque chose de productifs pour le cercle, réduire les postes à faible charge de travail (pour libérer des ressources pour les premiers) et enfin de faire travailler en équipe les autres.
+
+==== Forum pour l'emploi ====
+Le Forum pour l'emploi est une activité qui non seulement rapporte pas mal au cercle mais apporte aussi une valeur ajoutée aux étudiants. Cela leur permet de faire connaissance avec le marché de l'emploi, de rencontrer des sociétés... Cependant, comme elle repose énormément sur les entreprises, il est indispensable qu'il aie une bonne réputation auprès des étudiants ainsi que chez les entreprises. Un faux pas est donc interdit. Il mettrait non seulement en péril les bénéfices annuels qu'il nous apporte mais aussi sa pérennité, ce qui est encore plus grave. 
+
+Au vu de ces arguments, et étant donné les possibilités de développement de l'activité (augmentation des visiteurs d'autres facultés, écoles, universités ; augmentation du nombre d'entreprises) il est à mon avis indispensable de dédoubler ce poste en forum 1  et forum 2.
+
+==== Fosdem ====
+Le Fosdem est une activité à laquelle nous collaborons depuis le début. Elle permet au cercle de donner un coup de pouce non négligeable au monde du logiciel libre et un apport financier non négligeable pour le cercle. Cependant, des bruits sont apparus il y a quelques temps dans l'ASBL et des propositions de délocalisation se sont fait entendre. De plus, comme nous avons pu le constater cette année, la responsabilité du délégué est énorme et une erreur de sa part peut vite se révéler catastrophique.
+
+Les solutions sont relativement évidentes. D'une part se rendre indispensable à l'ASBL et d'autre part sécuriser le travail actuel. Enfin, il serait bien de diminuer la charge du délégué qui s'avère fort lourde. Ce qui tendrait à être confirmé par le succès grandissant de l'évènement.
+
+Se rendre indispensable dans une organisation pareille, c'est apporter une plus-value difficilement trouvable autre part. Cela a été pendant les précédentes années les locaux mais il semblerait que ce ne soit plus aussi certain. La seule solution est donc de prendre plus de choses en charge, afin de devenir réellement co-organisateurs et non pas comme à l'heure actuelle intermédiaires entre l'ULB et l'ASBL.
+
+C'est pourquoi, je propose que le poste soit scindé en trois et que l'on voie avec l'ASBL ce que le cercle peut faire de plus pour le Fosdem. Cela permettrait d'une part de diminuer la charge mais aussi de sécuriser la pérennité de l'évènement.
+
+==== Bal, fêtes, MTSM et photos ====
+Partant du constat que ces trois postes n'apportent pas une charge de travail excessive et qu'ils sont tous les trois très proches en terme de responsabilités, il semble logique des les rassembler. Non pas en un poste, ce qui serait, à mon avis, excessif mais bien en deux postes conjoints. Les deux délégués auraient donc pour travail de réaliser ensemble le bal et le MTSM et seraient aussi responsables des photos faites pendant les fêtes.
+
+==== OS et affiches ====
+L'OS a perdu de manière régulière des parts de marchés ainsi que de la régularité ces dernières années. La charge de travail n'est donc  que très faible. D'autre part, affiche, un autre poste avec une responsabilité créative n'est pas non plus très chargé. Leur fusion en un poste unique me parait donc justifiée.
+
+==== Librex, relations 1e bac, sport, culture ====
+Tu veux une carte ACE et un poste où il ne faut rien faire? Voilà le poste poubelle officiel du cercle informatique!

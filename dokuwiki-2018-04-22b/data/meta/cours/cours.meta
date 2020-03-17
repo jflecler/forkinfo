@@ -1,0 +1,24 @@
+a:2:{s:7:"current";a:7:{s:4:"date";a:2:{s:7:"created";i:1543485889;s:8:"modified";i:1290710696;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:5:"title";s:20:"Années de Bachelier";s:11:"description";a:2:{s:15:"tableofcontents";a:8:{i:0;a:4:{s:3:"hid";s:19:"annees_de_bachelier";s:5:"title";s:20:"Années de Bachelier";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:1;a:4:{s:3:"hid";s:13:"ere_bachelier";s:5:"title";s:15:"1ère Bachelier";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:2;a:4:{s:3:"hid";s:13:"eme_bachelier";s:5:"title";s:15:"2ème Bachelier";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:3;a:4:{s:3:"hid";s:14:"eme_bachelier1";s:5:"title";s:15:"3ème Bachelier";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:4;a:4:{s:3:"hid";s:46:"cours_a_option_communs_aux_annees_de_bachelier";s:5:"title";s:50:"Cours à option (communs aux années de Bachelier)";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:5;a:4:{s:3:"hid";s:16:"annees_de_master";s:5:"title";s:17:"Années de Master";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:6;a:4:{s:3:"hid";s:10:"eme_master";s:5:"title";s:12:"1ème Master";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:7;a:4:{s:3:"hid";s:11:"eme_master1";s:5:"title";s:12:"2ème Master";s:4:"type";s:2:"ul";s:5:"level";i:3;}}s:8:"abstract";s:515:"Années de Bachelier
+
+Un acompte de 5€ vous sera demandé lors de la commande du pack.
+
+1ère Bachelier
+
+	*  Mathématique
+	*  Programmation
+	*  Algorithmique
+	*  Physique
+	*  Assembleur
+	*  Langage de programmation
+
+2ème Bachelier
+
+	*  Programmation réseau (socket)
+	*  Analyse et Méthodes en informatique
+	*  Algorithmique
+	*  Mathématiques
+	*  Calcul de probabilités et statistiques
+	*  Calcul formel et numérique
+	*  Discutions sur le projet de langage 2 (2007-2008)
+	*  Langage de programmation 2
+	*…";}s:8:"relation";a:2:{s:10:"references";a:27:{s:10:"cours:math";b:1;s:12:"cours:progra";b:1;s:9:"cours:ag1";b:1;s:14:"cours:physique";b:1;s:9:"cours:asm";b:1;s:11:"cours:lang1";b:1;s:17:"cours:archi2ecrit";b:1;s:9:"cours:ami";b:1;s:9:"cours:ag2";b:1;s:11:"cours:math2";b:1;s:10:"cours:stat";b:1;s:9:"cours:cfn";b:1;s:19:"cours:langage2-2007";b:1;s:14:"cours:langage2";b:1;s:13:"cours:bioinfo";b:1;s:14:"cours:microeco";b:1;s:13:"cours:mathdis";b:1;s:13:"cours:logique";b:1;s:12:"cours:modsim";b:1;s:12:"cours:reseau";b:1;s:9:"cours:bdd";b:1;s:10:"cours:elec";b:1;s:9:"cours:cln";b:1;s:14:"cours:macroeco";b:1;s:10:"cours:hist";b:1;s:12:"cours:rechop";b:1;s:11:"cours:algo3";b:1;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:3:{s:4:"date";a:1:{s:7:"created";i:1543485889;}s:4:"user";s:0:"";s:7:"creator";s:0:"";}}

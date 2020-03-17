@@ -1,0 +1,55 @@
+  * Liste à puce
+====== Trusted Computing ======
+
+===== Qu'est-ce que le Trusted Computing =====
+
+==== Slides ====
+  * Principes de base
+  * Lutte pour la sécurité et contre les virus ?
+
+==== Texte ====
+  * Le principe de base consiste à assigner une signature à chaque objet informatique (logiciel, document), et à déléguer à un tiers de confiance la tâche de vérifier si l’objet manipulé est autorisé à être utililisé sur le système informatique local. Tout élément non signé ou dont la signature n’est pas listée chez le tiers de confiance sera rejeté.
+Cette technique permet donc de centraliser le contrôle effectué sur les applications utilisées. 
+  * Ces technologies sont développées selon les grandes sociétés du TCPA (Plateforme d'Alliance pour une Informatique de Confiance) pour améliorer la lutte contre les virus et la sécurité informatique en général, alors que plusieurs d'entre elles, ne cachent pas que c'est juste un moyen de plus de cadenacer l'informatique (encore une dérive de "sécurité" dans l'inform
+atique).
+
+===== Informatique déloyale et "dérives" =====
+==== Slides ====
+  * "L'informatique déloyale"
+  * Contrôle totale de Votre machine
+
+==== Texte ====
+  * «L'informatique de confiance» ou «L'informatique déloyale» («Treacherous Computing») est un nom plus approprié, parce que le projet est conçu pour s'assurer que votre ordinateur vous désobéira systématiquement. En fait, il est conçu pour que votre ordinateur s'arrête de fonctionner comme ordinateur polyvalent. Chaque opération pourra exiger une permission explicite.
+  * Les logiciels (propriétaires) utiliseront ce dispositif afin de contrôler le lancement de tel ou tel programme, à quels documents ou données vous pourrez accéder, et avec quels programmes vous pourrez lire ou modifier ces documents ou données. Ces logiciels téléchargeront régulièrement de nouvelles règles d'autorisation par Internet, et vous les imposeront. Si vous ne laissez pas votre ordinateur récupérer périodiquement ces nouvelles règles depuis Internet, certaines options cesseront de fonctionner. On devient donc la "sujet" de sa propre machine, elle-même dirigée par une entreprise qui n'est pas spécialement votre amie et surtout, dont le but est de faire de l'argent grâce à vous.
+
+====== DRM ======
+
+
+===== Qu'est-ce que la DRM =====
+==== Slides ====
+  * Hollywood et industrie du disque
+  * Principes
+  * Fonctionnement
+
+==== Texte ====
+  * Naturellement, Hollywood et l'industrie du disque projettent d'employer l'informatique déloyale pour le «DRM» (Digital Restriction Management - gestion de restrictions numériques).La gestion des droits numériques (en anglais Digital Rights Management ou DRM) consiste à permettre la restriction de la diffusion par copie de contenus numériques en s'assurant et en gérant les droits d'auteur et des marques déposées couvrant ces derniers.
+  * Le but de la DRM est de pouvoir paramétrer et contrôler, au moyen d'une mesure technique de protection, un contenu de manière beaucoup plus étroite. En effet, il est d'ores et déjà possible de personnaliser le détail de la diffusion d'un fichier commercialisé, le nombre de copies possibles sur différents supports, le nombre d'ouvertures possibles ou la durée de validité.
+  * Une architecture de gestion des droits numériques est de type client/serveur. Le serveur dispose du contenu protégé par droits d'auteur (par exemple de la musique). Le client est le logiciel ou le périphérique qui permet de consulter ce contenu (par exemple un lecteur multimédia ou un balladeur numérique).
+
+     - Lorsqu'une personne souhaite télécharger un fichier, le client fournit un identifiant unique au serveur. Le serveur chiffre le fichier demandé spécifiquement pour ce client.
+     - Ce fichier chiffré est ensuite transféré du serveur vers le client, probablement via l'Internet.
+   - Lorsque la personne souhaite consulter le contenu qu'elle a ainsi téléchargé, le lecteur établit d'abord une connexion avec le serveur, qui s'assure que la personne dispose d'une licence valide à cet instant. Si c'est le cas, le serveur transmet au client le code de déchiffrement du fichier, ainsi que la liste des droits de l'utilisateur vis-à-vis de ce fichier.
+
+===== Problèmes liés à la DRM =====
+==== Slides ====
+  * Compatibilité / interopérabilité ?
+  * Ca pourrait être pire (dérives)
+  * Encore libre ? Ethique ?
+
+==== Texte ====
+  * Ces protections introduisent un problème majeur : elles créent une incompatibilité potentielle des fichiers protégés avec certains systèmes, certains logiciels ou certains matériels. Ainsi, les mesures de protection sur les fichiers musicaux mises en place par Microsoft interdisent la lecture de ces fichiers protégés sur iPod et vice-versa. Les autres systèmes d'exploitation que Windows risquent également de ne pas pouvoir accéder à ces fichiers protégés.
+  * Rendre impossible le partage des fichiers vidéos et musicaux est une mauvaise chose, mais ça pourrait être pire. Il existe des projets pour généraliser ce dispositif aux messages électroniques et aux documents - ayant pour résultat un email qui disparaîtrait au bout de deux semaines, ou des documents qui pourront seulement être lus sur les ordinateurs d'une société mais pas sur ceux d'une autre.
+  * Imaginez que vous recevez un courrier électronique de votre patron vous indiquant de faire quelque chose que vous pensez risqué ; un mois plus tard, lorsque la situation s'envenime, vous ne pouvez plus utiliser ce message pour prouver que la décision n'était pas de vous. «Obtenir l'ordre par écrit» ne vous protège pas quand l'ordre est écrit avec une encre qui disparaît.
+
+Les logiciels de traitement de texte pourraient employer «l'informatique déloyale» quand ils enregistrent vos documents, pour s'assurer qu'aucun autre traitement de texte concurrent ne puisse les lire. Si le dit traitement de texte chiffre les documents en utilisant «l'informatique déloyale» quand il les enregistre, les aurtres n'auront pas la possibilité de développer un programme capable de les lire ...
+  * On peut donc refuser ce genre de technologie, mais comment le faire si on est dépendant d'un logiciel (ils le savent)?  L'«informatique déloyale» ne permettera donc plus d'installer ce qu'on veut car on aurait besoin d'une authentification pour TOUT! Est-ce que ce genre de manoeuvres motivées par une quelconque protection peuvent être considérées comme éthiques ?

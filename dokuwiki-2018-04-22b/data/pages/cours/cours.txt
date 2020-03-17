@@ -1,0 +1,49 @@
+
+
+=====  Années de Bachelier =====
+
+Un acompte de 5€ vous sera demandé lors de la commande du pack.
+
+==== 1ère Bachelier ====
+  * [[math|Mathématique]]
+  * [[progra|Programmation]]
+  * [[ag1|Algorithmique]]
+  * [[physique|Physique]]
+  * [[asm|Assembleur]]
+  * [[lang1|Langage de programmation]]
+
+==== 2ème Bachelier ====
+  * [[archi2ecrit|Programmation réseau (socket)]]
+  * [[ami|Analyse et Méthodes en informatique]]
+  * [[ag2|Algorithmique]]
+  * [[math2|Mathématiques]]
+  * [[stat|Calcul de probabilités et statistiques]]
+  * [[cfn|Calcul formel et numérique]]
+  * [[langage2-2007|Discutions sur le projet de langage 2 (2007-2008)]]
+  * [[langage2|Langage de programmation 2]]
+  * [[bioInfo|Introduction à la bioinformatique]]
+  * [[microeco|Introduction à la microéconomie]]
+
+==== 3ème Bachelier ====
+  * [[mathdis|Mathématiques discrètes]]
+  * [[logique|Logique informatique]]
+  * [[modsim|Modélisation et simulation]]
+  * [[reseau|Réseaux]]
+  * [[bdd|Bases de données]]
+
+=== Orientations ===
+  * [[elec|Electronique appliquée]]
+  * [[CLN|Circuits logiques et numériques]]
+  * [[macroeco|Introduction à la macroéconomie]]
+
+==== Cours à option (communs aux années de Bachelier) ====
+  * [[hist|Histoire des sciences]]
+
+===== Années de Master =====
+
+==== 1ème Master ====
+  * [[rechop|Recherche opérationnelle]]
+  * [[algo3|Structure de données et algorithmes]]
+
+==== 2ème Master ====
+

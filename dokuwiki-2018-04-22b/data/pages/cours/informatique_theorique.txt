@@ -1,0 +1,15 @@
+===== Module =====
+L'informatique théorique, c'est vraiment très bien à apprendre, mais bon, pour passer l'examen, faut être motivé. [[http://www.candiulb.be/forum/index.php?showtopic=21786|SamForce]]
+
+===== Calculabilité et complexité =====
+c'est très intéressant et question difficulté c'est niveau logique, faut bosser quoi ! [[http://www.candiulb.be/forum/index.php?showtopic=21786|ULB-NicO-]]
+
+Calculabilité et complexité, c'est un cours magique si tu veux comprendre ce que Massart a dit à propos de machines de Turing et de leur utilité. On y apprend aussi ce que P, NP,… veulent réellement dire. L'examen n'est pas très compliqué: il faut comprendre les notions du cours sans énorme démonstration imbuvable et savoir refaire les réductions de problèmes qu'il a demandé de préparer [[http://www.candiulb.be/forum/index.php?showtopic=21786|fresoule_2000]]
+
+===== Spécification et vérification de systèmes distribués =====
+Super! C'est théorique (faut avoir aimé compilo et logique) mais l'examen ne l'est pas. [[http://www.candiulb.be/forum/index.php?showtopic=21786|ULB-NicO-]]
+
+Vérif de système distribués et [[cours_a_options:recherche_operationnelle| développement de systèmes distribués]] ont de la matière en commun (éviter les deadlocks, protocole d'élection, problème d'horloge globale, etc.) sauf que dans le cours de vérif, la matière sera abordé dans le sens, voila un algo est ce qu'il est correct? et comment le vérifier? Le cours théorique est similaire à la théorie des compilos ;-) et aborde les nombreuses théories sur la vérification des algos et protocoles. [[http://www.candiulb.be/forum/index.php?showtopic=21786|Phi Phi]]
+
+===== Preuves automatiques et preuves de programmes =====
+???

@@ -1,0 +1,19 @@
+a:2:{s:7:"current";a:7:{s:4:"date";a:2:{s:7:"created";i:1508138722;s:8:"modified";i:1307709698;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:5:"title";s:11:"Guindailles";s:11:"description";a:2:{s:15:"tableofcontents";a:6:{i:0;a:4:{s:3:"hid";s:11:"guindailles";s:5:"title";s:11:"Guindailles";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:1;a:4:{s:3:"hid";s:51:"guindailles_d_entree_des_membres_de_la_guilde_gates";s:5:"title";s:52:"Guindailles d'entrée des membres de la Guilde Gates";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:2;a:4:{s:3:"hid";s:42:"guindailles_des_membres_de_la_guilde_gates";s:5:"title";s:42:"Guindailles des membres de la Guilde Gates";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:3;a:4:{s:3:"hid";s:18:"guindailles_du_mac";s:5:"title";s:20:"Guindailles du M.A.C";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:4;a:4:{s:3:"hid";s:27:"guindailles_exceptionnelles";s:5:"title";s:27:"Guindailles exceptionnelles";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:5;a:4:{s:3:"hid";s:6:"divers";s:5:"title";s:6:"Divers";s:4:"type";s:2:"ul";s:5:"level";i:2;}}s:8:"abstract";s:509:"Guindailles
+
+Template pour les guindailles
+
+Guindailles d'entrée des membres de la Guilde Gates
+
+	*  Rogis Affone (J-P)
+	*  Katalyn (Bizu)
+	*  Les gars du CI (Pizza Hut)
+	*  la première tournée de cercles  (Foxugly)
+	*  Foxugly est mon ami  (Dash - Gluck)
+	*  Savez vous chanter la loose? (Bigon)
+	*  Tu verras bien qu'un beau matin fatigué (Rasta)
+	*  Hé Bizu (Rony)
+	*  Quand j'étais petit (Kujovic)
+	*  Il est ivre Duff (Rogis)
+	*  Le bar de la jefke (Magali)
+	*  Les filles du Td (Cex)
+	*  Bon ju…";}s:8:"relation";a:2:{s:10:"references";a:63:{s:21:"guilde:template_guind";b:1;s:19:"guilde:rogis_affone";b:1;s:10:"cipedia:jp";b:0;s:14:"guilde:katalyn";b:1;s:12:"cipedia:bizu";b:1;s:21:"guilde:les_gars_du_ci";b:1;s:17:"cipedia:pizza-hut";b:1;s:37:"guilde:la_premiere_tournee_de_cerlces";b:1;s:15:"cipedia:foxugly";b:0;s:26:"guilde:foxugly_est_mon_ami";b:1;s:12:"cipedia:dash";b:1;s:13:"cipedia:gluck";b:1;s:34:"guilde:savez_vous_chanter_la_loose";b:1;s:13:"cipedia:bigon";b:1;s:46:"guilde:tu_verras_bien_qu_un_beau_matin_fatigue";b:1;s:13:"cipedia:rasta";b:0;s:14:"guilde:he_bizu";b:1;s:12:"cipedia:rony";b:1;s:26:"guilde:quand_j_etais_petit";b:1;s:15:"cipedia:kujovic";b:1;s:23:"guilde:il_est_ivre_duff";b:1;s:13:"cipedia:rogis";b:0;s:25:"guilde:le_bar_de_la_jefke";b:1;s:11:"cipedia:mag";b:1;s:23:"guilde:les_filles_du_td";b:1;s:13:"cipedia:david";b:1;s:27:"guilde:ce_bon_jus_de_pinnes";b:1;s:12:"cipedia:bram";b:1;s:20:"guilde:lance_laffond";b:1;s:16:"cipedia:twodeath";b:1;s:19:"guilde:merci_senior";b:1;s:17:"cipedia:morpionne";b:1;s:19:"guilde:le_bar_du_ci";b:1;s:14:"cipedia:maryse";b:0;s:16:"guilde:au_cantus";b:1;s:34:"guilde:la_brabanconne_d_un_poivrot";b:1;s:23:"guilde:le_cantux_clodos";b:1;s:24:"guilde:cri_alternatif_ci";b:1;s:15:"guilde:dechance";b:1;s:20:"guilde:je_suis_clodo";b:1;s:17:"guilde:ma_dignite";b:1;s:17:"guilde:don_miguel";b:1;s:22:"guilde:ode_a_la_guilde";b:1;s:36:"guilde:le_plus_beau_parrain_du_monde";b:1;s:41:"guilde:chandeleur_des_amis_des_animaux_la";b:1;s:38:"guilde:dans_sa_maison_une_p_tite_biche";b:1;s:29:"guilde:twolife_or_not_twolife";b:1;s:26:"guilde:les_pu_de_nos_cantu";b:1;s:40:"guilde:pat_bateman_vs._il_etait_une_fois";b:1;s:33:"guilde:le_proces_de_saint_nicolas";b:1;s:36:"guilde:il_suffit_de_t_caresser_l_con";b:1;s:14:"guilde:whiskey";b:1;s:34:"guilde:les_sales_fossiles_de_merde";b:1;s:13:"guilde:caisse";b:1;s:15:"guilde:stewball";b:1;s:23:"guilde:j_aime_la_guilde";b:1;s:12:"guilde:cobol";b:1;s:29:"guilde:le_compte_de_la_guilde";b:1;s:25:"guilde:anniversaire_motte";b:1;s:25:"guilde:la_precieuse_puree";b:1;s:15:"guilde:suce_moi";b:1;s:11:"guilde:geek";b:1;s:15:"guilde:nosperes";b:1;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:3:{s:4:"date";a:1:{s:7:"created";i:1508138722;}s:4:"user";s:0:"";s:7:"creator";s:0:"";}}

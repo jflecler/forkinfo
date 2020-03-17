@@ -1,0 +1,12 @@
+Voici la composition d'un sandwitch "normal" faite par la moman adorée de bram:
+<code>
+<Tranche de pain - recouvert de St Moret et/ou de purée de tomates sèché>
+  <Salade>
+    <Jambon>
+      <Cornichon>
+    </Jambon>
+  </Salade>
+</Tranche de pain - recouvert de St Moret et/ou de purée d'olives>
+</code>
+
+**bizu** Il manque le DTD !!!!

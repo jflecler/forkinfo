@@ -1,0 +1,7 @@
+====== Livret de présentation ======
+On veut faire un petit livret reprenant une présentation des différentes entreprises présentes.
+
+  * K : J'ai envoyé un mail à un gars du FOSDEM pour avoir les sources du livret.
+  * K : si on le fait (se décider assez vite), il faut demander un mot de présentation à chaque boite.
+  * Gigo : voilà un exemple basé sur celui du fosdem : gigosrv.be/gigo/forum2006/essai_forum.pdf
+  * Julien : j'ai spammé les entreprises pour qu'ils nous envoient leur mot. Espérons qu'ils ne trainent pas trop. 

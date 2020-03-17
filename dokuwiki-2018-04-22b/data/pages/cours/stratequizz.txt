@@ -1,0 +1,19 @@
+Nous avons besoin de vous pour notre projet d'ArchiMI le "Strat&Quizz", càd qu'il nous faut des questions à choix multiple (3) sur le thème de la Belgique, ulb, folklore, étude, ...
+
+faite tourner votre imagination.. :)
+
+veillez à bien séparer les réponses par un * et à mettre la bonne réponse en gras pour qu'il n'y ait pas de confusion, et si possible rester dans les themes mentionné au dessus :)
+
+  * **1*) question? * 1. reponse1 * 2. reponse2 * 3.reponse3**
+  * 1) Combien faut-il de rondelle de salami pour faire 3km en tapis volant ? * 1. 25 * 2. sqrt(pi/e exp25) * 3. la réponse 3
+  * 2) Qui a chié dans la baignoire au ski ? * 1. Zdra ? * 2. Xavier Claessens ? * 3.La bête de pré-td pierrade ?
+  * 3) Quel pays a perdu le plus de finales de coupe du monde de foot ? * 1.Le Brésil ? * 2.L'Allemagne ? * 3. La France ?
+  * 4) Quel pays a perdu le plus de guerres mondiales ? * 1.Le Brésil ? * 2.L'Allemagne ? * 3. La France ?
+  * 5) Les étudiants qui ont fait ce projet sont: * 1. des gros farceurs * 2. des gens pas sérieux qui vont se taper un 0/20 * 3. Toutes les propositions sont correctes.
+  * 6) Lors d'une course, vous venez de doubler le deuxième. Vous êtes maintenant : * 1. 1er * 2. 2ième * 3. 3ième
+  * 7) Quel age avait Rimbaud : * 1. X² * 2. 02/6505488 * 3. 3ième
+  * 8) Finissez cette q : * 1. hein ? * 2. le nazisme * 3. uestion
+  * 9) Monsieur et madame Muda ont un fils : * 1. Jean-Michel * 2. Grégoire * 3. Albert
+  * 10) Monsieur et madame Abipue ont un fils: * 1. Jean-Pierre * 2. Serge * 3. César
+  * 11) Qu'est ce qui a tué des millions de juifs entre 1938 et 1945 ? * 1. Le nazimse * 2. Une météorite * 3. Chuck Norris
+  * 12) Toc toc toc... * 1. ...Sarah Connor ? * 2. ...tic * 3. ...42

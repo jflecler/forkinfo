@@ -1,0 +1,84 @@
+==== Manifest ====
+=== Définition ===
+
+Le hackerspace de l'ULB est un endroit où des étudiants de l'ULB ayant un intérêt pour l'informatique, l'électronique ou d'une manière générale, la technologie, peuvent se rencontrer et collaborer. Les thèmes abordés n'ont pas néssairement de lien direct avec les cours, le but étant d'explorer d'autres domaines, ou d'en approfondir.
+
+Le hackerspace est composé de deux facettes. La première est un workshop, lieu de travail collaboratif où chacun peut construire quelque chose en profitant des installations présentes du hackerspace. La deuxième est un groupe d'organisation de conférences, d'ateliers et d'événements, donnés par des étudiants, assistants ou externes. Le hackerspace s'inscrit dans une continuité des missions de l'ULB (enseignement, recherche et service à la communauté) fournie par des étudiants.
+
+=== Objectifs et méthodes ===
+
+Le hackerspace souscrit au principe du libre examen et aux autres valeurs de l'ULB.
+
+Il souscrit aussi à une idée de liberté plus large en encourageant et en promouvant l'usage de logiciels libres, la neutralité d'Internet, le partage et l'ouverture de l'information et plus généralement l'accès universel, libre et gratuit aux connaissances.
+Le hackerspace est conscient qu'il présente peu d'intérêt si isolé. Il cherche donc à s'inscrire dans une logique de continuité et à s'intégrer aux réseaux d'hackerspaces internationnaux.
+
+Le hackerspace, pour évoluer, doit notamment connaitre sa propre histoire : il est donc très important de disposer d'archives ouvertes et entretenues de manière automatique (cf. incubator). Plus spécifiquement, des statistiques seront conservées pour mettre en évidence les contributions des membres et leurs conséquences. Il doit aussi être à l'écoute de tous ses membres et fournira des moyens simples pour donner un feedback.
+Pour vivre et s'enrichir harmonieusement, le hackerspace doit disposer d'une base règlementaire. Il est évident que le hackerspace respectera les règles de l'ULB (charte horaire, réglementation au niveau du tabac). De plus, il souscrit aux design patterns suivant : http://hackerspaces.org/wiki/Design_Patterns, https://hackerspace.be/Patterns et plus généralement à une éthique, sauf si c'est en contradiction avec sa situation spécifique.
+
+=== Structure ===
+
+Le hackerspace est composé d'un mainteneur, d'un conseil d'administration et des membres.
+
+Le mainteneur est délégué au Cercle Informatique de l'ULB, le hackerspace est une sous structure du dit cercle, principalement pour des raisons d'assurance, de responsabilité et pour avoir le status d'ASBL. Par contre, les deux groupes de membres (membre du cercle, membre du hackerspace) seront séparés, étant donné que les deux populations sont différentes (et indifférentes à l'existence de l'autre). L'élection du mainteneur et du conseil d'administration sera réalisée par les membres du hackerspace.
+
+=== Thèmes ===
+Sujets proposés comme base de travail, pistes purement indicatives, lors des conférences et des workshops (liste non exhaustive) :
+
+  * Programmation avancée
+  * Administration système et réseau
+  * Lifestyle, lifehacking
+  * Hardware hacking
+  * Hacktivisme, hacking the law for greater lulz
+  * Electronique et interfaçage avec un ordinateur (arduino..)
+  * Radio-identification (technologie RFID)
+
+=== Processus ===
+== Incubator ==
+
+Il existe trois genres de personnes potentiellement interessés par le hackerspace :
+
+  * Une personne ayant envie de travailler en groupe sur un projet, mais qui ne sait pas trop quoi (personne motivée mais sans idée)
+  * Une personne qui a une idée précise mais manque de moyen technique, le hackerspace répond à ses besoins
+  * Une personne qui a une idée précise mais manque de moyen humain : la première catégorie de personne répond à ses besoins
+
+Dans le but de faciliter la mise en commun et d'augmenter la chance qu'un projet arrive à terme, il faudra mettre en place un incubator, un service en ligne permettant :
+
+  * de lister l'ensemble des membres motivés avec leurs compétences et leurs centres d'intérêts, pour avoir une vision d'ensemble
+  * de visualiser les projets (définition, explications, roadmap, info utiles...) du hackerspace en cours et en planification
+  * de permettre à tous d'adhérer à un ensemble de projets auquel il est prêt à s'investir.
+  * de lancer les projets qui ont atteint un seuil critique de définition et de gens prêts à bosser dessus
+  * de coordonner la workforce sur plusieurs projets en cas de mise en pause forcée d'un autre
+
+Cette méthode de travail, en plus d'augmenter la productivitée générale, permettra à des gens de rapidement s'intégrer facilement à la structure en place en diminuant le temps de "découverte" du hackerspace.
+
+== Quibossocratie ==
+
+Méthode employée par des groupes au moyen humain très limité : si quelqu'un prend une initiative, travaille, c'est lui qui prend les décisions relatives au projet. Cela part de la constatation que l'immobilisme par peur des conséquences est une plaie dans toute structure associative et qu'il est plus facile de demander pardon que de demander la permission.
+Cette méthode n'implique pas forcément une absence de dialogue ni d'entente. C'est juste pour limiter les "il faut que", "Il n'y a qu'à", "on ne devrait pas lancer...": Just do it.
+
+== Gestion des gens, heures d'ouverture, prise de décision ==
+
+Il y aura une ou deux soirées par semaine de "grosse" hacking party, dont au moins une précédée par une réunion.
+Le reste du temps, le hackerspace sera ouvert en après-midi et soirée selon les besoins et les disponibilités.
+Une fois par mois, le hackerspace organisera une conférence.
+
+=== Gestion de l'argent ===
+== Financement ==
+
+Plusieurs systèmes de financement sont prévus :
+
+  * Cotisation de membres : le prix est faible, annuel et donne le status de membre. Ce status permet de participer au processus décisionnel et d'ouvrir le hackerspace.
+  * Don d'argent de particulier ou d'association voulant soutenir notre action
+  * Levée de fonds pour un projet spécifique (achat de matériel...) C'est le même principe que le précédent, sauf que les généreux donnateurs auront la garantie que leur argent sera employé dans un but précis.
+
+== Ventes ==
+
+Sur place, il sera possible d'acheter des boissons (café, club mate, coca... - pas de boisson alcolisée) ainsi que des collations (snickers, mars, lion, chips..).
+
+Il sera aussi possible d'acheter des composants électroniques pour les besoins des projets.
+
+=== Infrastructure ===
+
+Pour fonctionner, le hackerspace a besoin d'un local. Il faudra de l'électricité (sur plusieurs circuits si possible), de l'eau et internet. Il serait bien d'avoir une certaine indépendance d'ouverture, ne dépendre de quelqu'un pour ouvrir et fermer le local. Le local devra aussi être divisé en deux parties, une partie "sociale", favorisant la communication et une partie "travail", plus studieuse.
+
+Dans la salle sociale, il y aura un frigo, une machine à café, un tableau blanc, des armoires pour stocker le matos. 

@@ -1,0 +1,29 @@
+===== Pack de cours: =====
+
+==== Examens ====
+  * Janvier 2002 - partie pratique
+  * Janvier 2002 - théorie
+  * Septembre 2002 - partie pratique
+  * Septembre 2002 - théorie
+  * Janvier 2003 - partie pratique
+  * Janvier 2003 - théorie
+  * Septembre 2003 - théorie
+  * Aout 2003 - partie pratique
+  * Janvier 2004 - théorie
+  * Janvier 2008 - partie pratique
+  * janvier 2009 - partie pratique
+
+==== Autres documents ====
+  * Correctifs des TPs 2008-2009
+  * Résumé du cours
+
+==== Prix ====
+3€
+
+
+===== Syllabus =====
+Jim Kurose and Keith W. Ross. Computer Networking: A Top-Down Approach, Fifth Edition, Addison-Wesley, 2010
+
+
+===== Liens utiles =====
+  * [[http://www.ulb.ac.be/di/algo/gjoret/reseaux.html|Page des TPs.]]

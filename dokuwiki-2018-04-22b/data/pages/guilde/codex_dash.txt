@@ -1,0 +1,413 @@
+====== Codex de la Guilde Gates 2.0======
+
+===== Chapitre I - DE LA GUILDE ET DE SES BUTS =====
+1. Le 4 novembre 2003 a été fondée une association de fait sous la dénomination «Guilde Gates». Celle-ci est constituée pour une durée illimitée et a son siège à Bruxelles.
+
+2. La Guilde Gates se définit comme une corporation d’étudiants, anciens étudiants ou amis du Cercle Informatique se réunissant autour d’un idéal courtois, guindaillesque et fraternel.
+
+3. La Guilde Gates a pour objets la conservation et la perpétuation des traditions estudiantines les plus anciennes et les plus respectables, la promotion de la Guindaille et l’agrément de ses membres par l’organisation de différentes activités guindaillesques.
+
+4. La Guilde Gates repose sur deux piliers : l'amitié et l'arbitraire. Les membres de la guilde seront initiés à ces piliers.
+
+5. L’Arbitraire est le principe essentiel des réunions de Guindaille sur lequel se fondent les usages, les privilèges,... Chacun tient un rôle dans cette comédie où pour que l’humour et surtout la camaraderie puissent régner, il faut un certain cérémonial et respect des « lois ». Celui qui veut jouer respecte les «règles du jeu», sinon il ne joue pas. Tel est l’Arbitraire. Sa compréhension et son acceptation sont le ciment de notre unité, de notre notoriété et de notre pérennité.
+
+6. La langue véhiculaire de la Guilde Gates est le français a l’exception toutefois des formules latines usuelles.
+
+7. La devise de la Guilde Gates est "La bière de destruction massive, c'est cool!".
+
+8. Le chant de la Guilde Gates est "Guilde Gates que j'aime tant" et se trouve à l'annexe B du présent Codex.
+
+9. L'emblême de la Guilde Gates est le blason repris à l'annexe A du présent Codex.
+
+
+===== Chapitre II - DE LA GUILDE ET DE SA COMPOSITION =====
+
+** II.A Les grades ** (détails au chapitre V)
+
+1. La Guilde Gates possède les 5 grades suivant classés par ordre chronologiques:
+  * le grade de Candidat
+  * le grade de Postulant
+  * le grade d'Impétrant
+  * le grade de Membre de la Guilde Gates
+  * le grade de Membre du Conseil du Kernel
+Les membres d'un même grade sont égaux entre-eux et les membres d'un grade donné prévallent sur les membres d'un grade inférieur.
+
+2. Le Grand Senior est le dépositaire responsable de la Guilde Gates. Il est issu du grade de membre de la guilde et devient automatiquement Membre du Conseil du Kernel lors de sa prise de fonction.
+
+3. Les Membres de la Guilde Gates ainsi que les Membres du Conseil du Kernel sont membres à vie sauf décision extraordinaire du Conseil du Kernel.
+
+4. Un grade particulier de Membre d'honneur de la Guilde Gates existe et peut être attribué par le conseil du Kernel.
+
+
+** II.B Les insctances ** (détails aux chapitres VI & VIII)
+
+1. La Guilde Gates est composée des 2 instances permanentes suivantes:
+  * le Collège des Prévôts
+  * le Conseil du Kernel
+
+2. Le Collège des Prévôts réuni les Membres de la Guilde Gates étant invisti d'une fonction particulière pour l'année courante. Il est composé par le Senior, le Quaestor, le Censeur, Le Cantor Primus, le Cantor Secundus, le Fux et le Scribe.
+
+3. Le Collège des Prévôts est en charge de l'organisation et du bon déroulement des CantuX.
+
+4. Le Collège des Prévôts est convoqué par le Senior ou le Grand Senior.
+
+5. Le Conseil du Kernel est l'organe suprême de la Guilde Gates et réuni les membres fondateurs de la Guilde Gates, d’ancien Grand Senior de la Guilde Gates ainsi que des personnes émérites. 
+
+6. Le Conseil du Kernel a pour but la perpétuation des traditions du folklore estudiantin et sa continuité. Son pouvoir est omniprésent et il n’interférera avec le Collège des Prévôts qu’en cas d’extrême nécessité. 
+
+7. Le Conseil du Kernel est convoqué en réunion par le Grand Senior.
+
+
+===== Chapitre III - DU CODEX ET DE SA GESTION =====
+
+** III.A Le Codex de la Guilde Gates **
+
+1. Le présent Codex contient l'essence de la Guilde Gates, ainsi que toutes les recommandations et injonctions nécessaires pour l'évolution de la Guilde. Tout manquement quand à l'esprit de ce Codex et donc au principe de l'Arbitraire constitue un acte d'irrespect envers la Guilde Gates et doit être sanctionné.
+
+2. Le Codex initial rassemblait en 12 chapitres les statuts originels rédigés par les Fondateurs de la Guilde Gates. Avec le temps, ces statuts ont évolués pour aboutir au présent Codex, certainement perfectible.
+
+
+** III.B La gestion du Codex **
+
+1. Le Conseil du Kernel est la seule instance habilitée à apporter une modification au Codex, mais dans la forme seulement, car le fond, lui, est éternel.
+
+2. La structure de gestion idéale a été définie comme suit:
+  * le codex : document de référence le plus à jour possible
+  * les décrets actifs : décrets édictés après une version mise à jour et arrêtée du Codex
+  * les archives: contiennent le Codex originel, tous les décrets édictés et toutes les versions réactualisées du Codex
+
+3. Les Décrets sont des textes législatifs édictés et approuvés par vote par le Conseil du Kernel. Ils sont typiquement créés lorsqu'une incohérence est décelée dans le Codex.
+
+4. Par souci historique, le Codex est déclaré et toutes les modifications qui pourraient advenir devront être dûment et systématiquement enregistrées et versé aux archives.
+
+5. Les Archives accumuleront dans les fardes prévues à cet effet tout document dont la conservation est jugée nécessaire. Chaque document versé aux Archives est numéroté. Pour des raisons de sécurité, l’archivage d’un document doit intervenir dans les 30jours de sa réception.
+
+6. C’est à l’Archiviste que revient le devoir d’assurer la bonne conservation des documents originaux et/ou certifiés comme tels, à savoir le Codex, les décrets et les archives. L’organisation interne des archives est de sa compétence.
+
+7. A la requête de tout Membre de la Guilde Gates, l'Archiviste peut fournir des duplicatas de documents relevant des archives. Les frais occasionnés sont à charge du demandeur.
+
+8. La fonction d’Archiviste est confié au Grand Senior, sans pour autant que les deux fonctions soient confondues. De plus, la transmission de la fonction d’Archiviste entraîne obligatoirement la transmission des archives.
+
+9. Lorsque le nombre de décret est élevé au point d'embrouiller la compréhention du Codex, celui-ci sera mis à jour. On entends par mise à jour l'insertion homogène de l'intégralité des décrets dans le Codex. Une fois le Codex mis à jour, sa nouvelle version sera soumise au vote du Conseil du Kernel non pas sur le fond qui lui est déjà acquis, mais bien sur la forme. Il s'agit de s'assurer que le nouveau Codex reprends bien l'esprit du précédent ainsi que l'esprit de chacun des décrets intégrés.
+
+10. La version actualisée du Codex est publiée dans un petit ouvrage (de format A5) relié et destiné à l’usage en guindaille.
+
+
+===== Chapitre IV - DE L'HABIT =====
+
+1. Le Band de la Guilde Gates est la tenue vestimentaire que toute personne ayant atteint le grade de Postulant doit porter lors des réunions auxquelles elle participe. Le Band est de couleur mauve aux bords noirs. La taille du Band est de maximum deux mètres, sa largeur est comprise entre huit et dix centimètres et les bords noirs ont une largeur variant de deux à trois centimètres. Le mauve correspond à RVB 128,0,255.
+
+2. Le Band de la Guilde Gates ne portera que les insignes et marques de la Guide Gates.
+
+3. Les Postulants et les Impétrants portent leur Band sur l'épaule gauche.
+
+4. Les Membres portent leur Band sur l'épaule droite.
+
+5. Si le Membre est un Prévôt, il portera les insignes de sa fonction à hauteur de poitrine. Si le Membre a été Prévôt, il portera les insignes de son (ses) ancienne(s) fonction(s) en retrait.
+
+6. Si le Membre est membre du Conseil du Kernel, il portera l’emblème de la Guilde Gates disposé à hauteur de poitrine. Dans ce cas, les insignes de Prévôts actif se placent au dessus de l'emblême et ceux d'une fonction antérieure en dessous.
+
+7. Tout Membre peut porter ses ornementations et récompense d’autre organisme mais les couleurs de la Guilde Gates devront prévaloir.
+
+8. Toute personne apartenant à la Guilde Gates est libre de se rendre à des cantus, des guildes, des coronas ou des ordres extérieurs et sera tenu d'y porter son band de la Guilde Gates dans les formes prescrites dans les articles précédents. Par ailleurs, porter l'Habit de la Guilde Gates est un signe de représentation aux yeux extérieurs. Ainsi, toute personne se rendant en délégation se doit de garder une certaine retenue afin de préserver l’image de la Guilde Gates.
+
+
+===== Chapitre V - DE L'EVOLUTION DANS LA GUILDE =====
+
+** V.x Du candidat **
+  * Conditions d'accès (devoirs, vote, compréhension, appréhension)
+  * L'épreuve (contenu et terminer sur la lecture de la définition du grade)
+  * Définition (droits, compétence, devoir)
+
+
+** V.x Du Postulant **
+  * Conditions d'accès (devoirs, vote, compréhension, appréhension)
+  * L'épreuve (contenu et terminer sur la lecture de la définition du grade)
+  * Définition (droits, compétence, devoir)
+
+
+** V.x De l'Impétrant **
+  * Conditions d'accès (devoirs, vote, compréhension, appréhension)
+  * L'épreuve (contenu et terminer sur la lecture de la définition du grade)
+  * Définition (droits, compétence, devoir)
+
+
+** V.x Du Membre de la Guilde Gates **
+  * Conditions d'accès (devoirs, vote, compréhension, appréhension)
+  * L'épreuve (contenu et terminer sur la lecture de la définition du grade)
+  * Définition (droits, compétence, devoir)
+
+
+** V.x Du Membre du Conseil du Kernel **
+  * Conditions d'accès (devoirs, vote, compréhension, appréhension)
+  * L'épreuve (contenu et terminer sur la lecture de la définition du grade)
+  * Définition (droits, compétence, devoir)
+
+
+CO-12
+Le Diplôme de Membre de la Guilde Gates doit être conforme au modèle original déposé aux Archives sous la dénomination de «2. Diplôme de Membre de la Guilde Gates».
+
+
+CO-13
+Sont Membres de la Guilde Gates, les personnes pouvant se justifier de leur Prise d’Habit.
+
+
+Décret 4
+Le poste d'impétrant est créé.
+Tout postulant ayant réussi son Intronisation devient Impétrant. Il est tenu, comme les postulants, de porter son band sur l'épaule gauche. Il effectuera sa Prise d'Habit l'année suivant celle de son Instruction réussie.
+Ce décret prévaut sur l'article Co-21.
+
+
+CO41Pour promouvoir un Membre au Conseil, un Membre du Conseil doit proposer la candidature d’un autre au Conseil du Kernel. Le Conseil effectuera un vote et une double majorité est nécessaire pour valider le vote. Tout Membre ayant été promu au grade de Membre du Conseil du Kernel sera prévenu au Dies Natalis et recevra un Diplôme conforme au diplôme déposé aux Archives sous la dénomination de « 2. Diplôme de Membre de la Guilde Gates ».
+Tous les Membres du Conseil du Kernel sont élevés à un grade unique et identique, à l’exception du Grand Senior.
+Tout Membre du Conseil a la possibilité de se retirer du Conseil des Kernel. Pour ce faire, il avertira le Conseil de sa décision, le Grand Senior décidera si un vote est nécessaire pour accepter la décision du Membre.
+
+
+
+===== Chapitre VI - DU COLLEGE DES PREVOTS =====
+
+X. Le Collège des Prévôts est en charge de l'organisation et du bon déroulement des CantuX. Il sera le chef d'orchestre d'un Cantux épânouissant pour tous et sera toujours en recherche de nouvelles méthode permettant la communion Guidaillesque entre le Verbe, la Boisson et l'Esprit.
+
+X. Le Collège des Prévôts est convoqué par le Senior ou le Grand Senior. Il se réunira pour préparer les Cantux et arrivera toujours en avance le jour d'un Cantux.
+
+X. Le Collège est un exemple pour l'Assemblée, aussi il restera digne et courtois au cours des Cantux.
+
+X. Le Collège des Prévôts réuni les Membres de la Guilde Gates étant invisti d'une fonction particulière pour l'année courante. Il est composé par le Senior, le Quaestor, le Censeur, Le Cantor Primus, le Cantor Secundus, le Fux et le Scribe.
+
+Rôles de chacun.
+
+===== Chapitre VII - DU CONSEIL DU KERNEL =====
+
+CO15 Le Conseil du Kernel pourra accueillir dans la Guilde des «Membres d’Honneur» pour autant que ceux-ci respectent au mieux les critères d’admission. Ces Membres d’Honneur sont investis par le Grand Senior suite à une décision du Conseil du Kernel. Le Membre d’Honneur de la Guilde Gates n’aura pas accès au Conseil du Kernel et ne pourra jamais représenter la Guilde ni parler en son nom.
+
+CO-44
+Le Conseil du Kernel, sur proposition d’un Membre de la guilde, choisit parmi les candidatures de Postulats, les personnes dignes de recevoir leur Instruction.
+
+CO-45
+Le Conseil du Kernel choisit parmi les Membres de la Guilde ceux qui pourront faire parti du Collège des Prévôts.
+
+CO-46
+Le Conseil du Kernel choisit, sur proposition du Grand Senior sortant, le nouveau Grand Senior. Dès sa nomination, le Grand Senior est ipso facto admis dans le Conseil du Kernel en tant que Membre du Conseil du Kernel.
+
+Décret 1
+Sur demande d'un membre du conseil du Kernel, toute personne extérieure à la guilde peut être présente à une réunion du conseil du Kernel. Cependant elle n'a pas de droit de vote pour toutes les décisions internes de la Guilde.
+Il est également nécessaire de préciser que si un tiers des Membres du Kernel s'oppose à l'invitation d'une personne, cette personne ne sera pas accepté.
+
+X. Il convient de suivre les règles de bon usage en réunion dui concseil du Kernel (chapitre...)
+
+X. Virage de gens
+
+===== Chapitre VIII - DE LA CORONA =====
+La Corona est composée des XX instances permanentes suivantes:
+  * le Collège
+
+
+CO-29
+L’Assemblée est composée de toute personne de toute origine.
+Les Postulants et Impétrants sont ici assimilés à des Membres de la Guilde.
+
+X. Les bancs où prennent place les membres de la corona sont disposés en U, l'ouverture regardant vers le monde extérieur. Ils sont aux nombre de 3.
+  * Banc du Collège qui ou
+  * Banc de gauche
+  * banc de droite
+
+X. Les dispositions prescrites ci-dessus pourront être modifiées en fonction des besoins matériels et de la disposition des lieux.
+
+===== Chapitre IX - DU CANTUX =====
+
+CO-55. CO56 On appelle "CantuX" toute réunion de la Corona se déroulant conformément aux règles définies dans le présent CodeX. Ils ont lieux suivant un calendrier fixé par le Conseil du Kernel. Le nombre de Cantux n'est pas fixé mais la Guilde est consciente que c'est par cette activité qu'elle vit. Il faudra donc tenter d'en maximiser les organisations.
+
+CO55 CO57. Un publicité ciblée sera faite en fonction du type de CantuX organisé. Toutefois, l’ensemble des cantux est ouvert à l’ensemble du public.
+
+CO-56 Les cantux internes telles que l'initiation ne sont pas publics.
+
+X. Les CantuX commenceront à l'heure précisé dans la publicité et toute personne non-présente à cette heure là sera considérée comme retardataire.
+
+X. Les guindailles proposées en Cantux seront datées et signée par l'auteur et ensuite précieusement conservée par l'Archiviste.
+
+X. Rôles particulier : le Grand senior et sa sagesse qui sont le gardien des lois lors des Cantux. Il veillera a ce que des situations identiques soient traitées de la même façon. Délègue si absent. IL n'intervient que si nécessaire.
+
+X Un cantux se déroule en 3 tempus:
+  *
+  *
+  *
+
+** IX.x Tempus 1 **
+  * Tous les Cantux sont ouverts de la même manière, répétée à treavers les âges.
+  * L'assemblée s'assied et demeure silentieuse
+  * Le GS proclame la bioenvenue et entame les chjants sacré
+  * ...
+
+** IX.x Tempus 1 **
+
+** IX.x Tempus 1 **
+
+
+
+===== Chapitre X - DES BONS USAGES =====
+
+Décret 3
+Toute sonnerie intempestive en réunion du Conseil du Kernel ou en cantux entrainera 5 affonds de pénitence pour le détenteur du-dit objet bruyant.
+
+Décret 5
+L'ensemble des réunions de la Guilde Gates est non-fumeur. Cependant le Senior peut demander un vote à la Corona pour ne pas tenir compte de ce décret.
+Une simple majorité est nécessaire pour ce vote, toute personne de la corona n'ayant qu'une voix, et le Senior ne pourra pas s'opposer au résultat du vote.
+
+** X.A De la parole **
+
+x. Le Senior a seule autorité en question de prise de la parole: lui seule accorde, refuse ou interromp le droit d'intervenir.
+
+x. pour demander la parole, un membre de l'Assemblée lève la main droite (la gauche tenant généralement son verre). Le Senior lui accorde la parole en citant son nom.
+
+x. une certaine discipline est nécessaire afin de maximiser la pertinence des intervention. Ainsi, aucun membre de l'assemble à l'exception du Senior et uniquement en cas de besoin, n'interrompra l'orateur ni ne prendra la parole sans en avoir reçu l'autorisation.
+
+Décret 2
+Il convient de parler de soi à la troisième personne du singulier lors des réunions du conseil du Kernel (pour les cantux cfr Co-66).
+
+
+** X.B De la chanson **
+
+** X.C De la boisson **
+
+** X.D Du retard **
+X. Tous retardataire devra suivre la procédure suivante:
+  * attendre
+  * se faire appeler
+  * déclamer sa défence
+  * écouter le Senior
+  * Se plier à sa volonté.
+  * rejoidre son banc dédié
+
+** X.E Des perturbations **
+Ressort du censeur
+affond pénitence
+affond à l'eau
+5 min dehors
+éjecté de la corona
+
+===== Chapitre XI - DU VOTE =====
+
+x. Lors de toute décision concernant les mouvements ou la composition de la Guilde Gates, les Membres de la Guilde procèdent à un vote secret répondant à une question claire dont la réponse ne peut-être qu'affirmative ou négative.
+
+x. Le conseil du Kernel dispose du droit de vote en tout points.
+
+x. Le Collège dispose d'un droit de vote en tout point à l'excpetion des décisions relevant du Conseil du Kernel
+
+x Pour qu'un vote soit positif, il faut la réunion des deux condiutions suivantes:
+  * une majorité simple est obtenue dans le Conseil du Kernel et dans le Collège
+  * Une majorité au 2/3 est obtenue de façon générale.
+
+x. l'abstention d'un vote est qqch qui doit rester exceptionnel. Toutefois, le membre désirant s'abstenir demandera la parole, expliquera les raisons de son absention et se retirera du processus de vote.
+
+
+
+===== ANNEXES =====
+** ANNEXES A Emblème de la Guilde Gates **
+
+** ANNEXES B Chant de la Guilde Gates **
+
+** ANNEXES C Diplôme... **
+
+** ANNEXES D Diplôme... **
+
+** ANNEXES E Diplôme... **
+
+===== Tables de concordance Codex 1.0 Vs 2.0 =====
+^1.0^2.0^
+|CO-1|I.1|
+|CO-2|I.2 & I.6|
+|CO-3|I.3|
+|CO-4|I.4|
+|CO-5|I.5|
+|CO-6|I.4 & I.5|
+|CO-7|I.7|
+|CO-8|I.8|
+|CO-9|II.A.2|
+|CO-10|II.A.1 & II.A.2|
+|CO-11|I.9|
+|CO-12|.|
+|CO-13|.|
+|CO-14|II.A.3|
+|CO-15|II.A.4|
+|CO-16|.|
+|CO-17|.|
+|CO-18|.|
+|CO-19|.|
+|CO-20|.|
+|CO-21|.|
+|CO-22|.|
+|CO-23|.|
+|CO-24|IV.1 & IV.5 & IV.6|
+|CO-25|IV.1|
+|CO-26|IV.7|
+|CO-27|IV.6|
+|CO-28|II.B.1|
+|CO-29|.|
+|CO-30|.|
+|CO-31|.|
+|CO-32|.|
+|CO-33|.|
+|CO-34|.|
+|CO-35|.|
+|CO-36|.|
+|CO-37|.|
+|CO-38|.|
+|CO-39|.|
+|CO-40|.|
+|CO-41|II.B.5 & II.B.6|
+|CO-42|II.B.7|
+|CO-43|II.B.5 & II.B.6|
+|CO-44|.|
+|CO-45|.|
+|CO-46|.|
+|CO-47|III.B.4|
+|CO-48|III.B.2|
+|CO-49|III.A.2|
+|CO-50|III.B.3|
+|CO-51|III.B.5|
+|CO-52|III.B.6 & III.B.7|
+|CO-53|III.B.8|
+|CO-54|III.B.10|
+|CO-55|.|
+|CO-56|.|
+|CO-57|.|
+|CO-58|.|
+|CO-59|.|
+|CO-60|.|
+|CO-61|.|
+|CO-62|.|
+|CO-63|.|
+|CO-64|.|
+|CO-65|.|
+|CO-66|.|
+|CO-67|.|
+|CO-68|.|
+|CO-69|.|
+|CO-70|.|
+|CO-71|.|
+|CO-72|.|
+|CO-73|.|
+|CO-74|.|
+|CO-75|.|
+|CO-76|.|
+|CO-77|.|
+|CO-78|IV.8|
+|CO-79|IV.8|
+|D-1|.|
+|D-2|.|
+|D-3|.|
+|D-4|.|
+|D-5|.|
+
+===== Tables des articles ajoutés dans le Codex 2.0 =====
+^2.0^
+|I.9|
+|II.B.2|
+|II.B.3|
+|II.B.4|
+|III.A.1|
+|III.B.1|
+|III.B.9|
+|IV.2|
+|IV.3|
+|IV.4|

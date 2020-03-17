@@ -1,0 +1,38 @@
+Comptabilité de la Guilde Gates
+
+^  objet  ^  montant  ^  total  ^
+| départ    |    |  119,14  |
+| achat cantux 21/02/2007 facture colruyt |  -122,9  |  -3,76  |
+| recette cantux 21/02/2007               |  +116    |  112,24  |
+| achat cantux 21/02/2007 1 bac au cerk   |  -10     |  102,24  |
+| Fred2k : achat Tux                      |  +10     |  112,24  |
+| achat portion mixte A la bécasse        |  -10     |  102,24  |
+| Tarkan 2 cantux                         |  +10     |  112,24  |
+| vente 10 bacs au cerk cantux 21/02/2007 |  +45     |  157,24  |
+| consommation au cerk (avant cantux)     |  -22     |  135,24  |
+| Achat 4 bacs et vente vidanges 18 bacs  |   +33    |  168,24  |
+| recette interne 29/03/2007              |   +27    |  195,24  |
+| Vente 3 bacs et 4 vidanges au cerk      |  +40,5   |  235,74  |
+| Achat 19 bacs/ vente 5 vidanges au Colruyt  |  -220,31   |  15,43  |
+| recette cantux 19/04/2007               |  133     |  148,43  |
+| achat (reboursement Mag)                |  -23     |  125,43  |
+| vente 2 bacs au cerk                    |  +20     |  145,43  |
+| recette cantux 26/04/2007               |  +313    |  458,43  |
+| cantux Becasse 26/04/2007               |  -386,1  |  72,33  |
+| Interne 19/06 (course)                  |  0 (-44,83)  |   72,33    |
+| PH : PAF Externe du 27/06               |   +5    | 77.33   |
+| Interne du 17/08/2007 chez Dash         |     0   |  77.33  |
+| Interne du 31/08/07                     |     0   |  77.33  |
+| Interne 19/09 - Externe 06/10 - Interne Dies 22/11   |   +53.3  |     130.63 |
+| Achat Externe 06/12 + retour vidanges   |  -155.36  |  -24.73 |   
+| PAF Externe 06/12                        | + 166    |  141.27 |
+| JP : Interne 11/05/2007 Bénéfice         |   +9,5   |  150.77  |
+| JP : retour vidange 19 * 4.5             |   +85.5  |   236.27 |
+| JP : Achat Interne Dies 22/11            |  -74.87  |   161.4 |
+| JP : remboursement à la Guide différence |  +21     |  182.4  |
+| Interne 06/02                            |    ??   |   ??  |
+**Total caisse = 182.4€**
+
+^  créances  ^  montant  ^  total  ^
+
+| Bar : retour 15 Bacs à 4.5€ pour le 06/12   |   +67,5  |  183  |

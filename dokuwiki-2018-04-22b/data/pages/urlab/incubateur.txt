@@ -1,0 +1,27 @@
+====== 1ère vague =====
+  * [[Rénovation 131]]
+  * [[urlab:ledcube|Cube LED arduino]]
+  * [[urlab:site|Site web]]
+  * [[urlab:musee|Restauration musée DI]]
+  * [[Serveur]]
+  * [[urlab:motd|Music Of The Day]]
+  * [[urlab:confs|Conférences]]
+  * [[urlab:p402|Proj402]]
+  * Visite
+    * du CC/DC de l'ULB
+    * des caniveaux de l'ulb (http://tchorski.morkitu.org/5/caniveaux-01.htm)
+    * ...
+  * [[urlab:backupcluster|Cluster de backup]]
+  * VPS ?
+  * [[urlab:panic|Panic button]]
+====== 2ème vague =====
+  * Voiture électrique (Charles, François)
+  * projet open source (Bouska - Géohol)
+  * Système de vidéo pour les conférences
+  * Robot aspirateur
+  * Robot mappeur
+  * RepRap (en attente d'une makerbot): [[http://reprap.org/wiki/RepRap|Wiki]]
+  * Utilisation d'arduino dans le cadre de projet de robotique (Julien)
+  * Editeur d'équation WYSIWYG (François R)
+  * Lobbying des profs pour rendre leurs cours libres et dispo pour tout le monde (et pourquoi pas leur proposer un remplacement à l'uv...)
+  

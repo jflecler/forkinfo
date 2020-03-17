@@ -1,0 +1,146 @@
+**Légende des flags:**
+^ **Flag** ^ **Nom** ^ **Description** ^
+^D|Dynamique|Ce chant est long et pas compliqué: c'est l'occasion de jouer avec la corona (gauche, droite, vieux, CI, filles, guilde, ...).|
+^Tx|Tempus x|Ce chant a sa meilleure place pendant le tempus x.|
+^B|Bleu|Ce chant est typiquement à faire lors d'un cantux initiatique avec des bleus.|
+^E|Entraînant|Ce chant met une chouette ambiance et est super chouette à chanter!|
+^S|Soporifique|Ce chant est à éviter par tous les moyens.|
+^!| |Version différente entre le Carpe et les Fleurs.|
+^GG|Guilde Gates|Ce chant est sacré, pas touche.|
+
+^ **Titre** ^ **Fleurs** ^ **Carpe** ^ **Flag** ^ **Lien mp3** ^ **Commentaires sur le mp3** ^ **Notes** ^
+| [[guilde:A fond Liégois]]|106|98| | | |Avant la fin d'un tempus => ambiance et vidage de verres!|
+| [[guilde: Absurde n'éthyle pas (L')]]|463|344| | | | |
+| [[guilde: Ad fundum per jaar]]|/|391|D | [[http://fred2k.be/stuff/cisingles/folklore/_Ad%20Fundum%20per%20Jaar.mp3|[1] ]] | |Quand ya pas trop de vieux!|
+| [[guilde: Ah ! Que nos pères étaient heureux]]|88|99| |[[http://www.wikignole.be/guindaille/02-Ah%20!%20Que%20nos%20p%c3%a8res%20%d0%92taient%20heureux%20!.mp3|[1] ]] [[http://www.wikignole.be/guindaille/musiciens%20de%20surface/05%20-%20Ah!%20que%20nos%20p%c3%a8res.ogg|[2] ]] | |Quand on est pleins|
+| [[guilde: Alexandre]] | 84 | 100 | | | | |
+| [[guilde: À l'hôpital Saint-Louis]] | 289 | 227 | | | | |
+| [[guilde: Artilleur de Metz (L')]]|123|202| | [[http://fred2k.be/stuff/cisingles/folklore/_L'Artilleur%20de%20Metz%20(CHR).mp3 | [1] ]] | | |
+| [[guilde: Avez-vous chanté la lune]]|/|370| S| | | |
+| [[guilde: Bal de l'Hôtel-Dieu (Au)]]|281|156| | [[http://fred2k.be/stuff/cisingles/folklore/_Chanson%20de%20l'H%f4tel-Dieu%20(LFJ).mp3|[1] ]] | | Si Julien est là et qu'on est en train de nettoyer les tables |
+| [[guilde: Ballade des cocus (La)]]|130|108|D | [[http://fred2k.be/stuff/cisingles/folklore/_La%20balade%20des%20cocus%20(CDB).mp3 | [1] ]] | | |
+| [[guilde: Ballade du mutant (La)]]|129|328|B | | | |
+| [[guilde: Bandais-tu ?]]|132|109|D | | | |
+| [[guilde: Berger fidèle (Le)]]|146|223|S | [[http://fred2k.be/stuff/cisingles/folklore/_Oh%20!%20Mon%20berger%20fid%e8le%20(CHR).mp3 | [1] ]] \\ [[http://cooky.club.fr/mp3/DiscBacchus/disc1/13BergerFidel.mp3 | [2] ]] \\ [[http://cooky.club.fr/mp3/DiscBacchus/disc2/BergerFidel.mp3 | [3] ]] | **1 :** Version avec voix de tête habituelle \\ **2 et 3 :** Deux autres versions qui montrent qu'il n'est pas nécessaire d'être un castrat | |
+| [[guilde: Bière (La)]]|92|112|GG| | | |
+| [[guilde: Bite à Dudule (La)]]|137|161|T2 | [[http://www.wikignole.be/guindaille/La%20grosse%20bite%20%c3%a0%20Dudule.mp3|[1] ]] | | |
+| [[guilde: Bite d'Acier]]|150|128| | [[http://www.wikignole.be/guindaille/Bite%20D'acier.mp3| [1] ]] \\  [[http://www.wikignole.be/guindaille/Bite%20d'acier.mp3| [2] ]] | | |
+| [[guilde: Bleu revint (Le)]]|/|316|E | | | |
+| [[guilde: Bordel a fermé ses volets (Le)]]|152|132|S | | | |
+| [[guilde: guilde:Boisson extraordinaire (Une)]] | | 491 | | | | |
+| [[guilde: Boudins et tequila]]|/|318|E | | | |
+| [[guilde: Bourguignonne (La)]]|94|135|T2 | [[http://www.wikignole.be/guindaille/la_bourgogne.mp3|[1] ]] | | |
+| [[guilde: Brabançonne d'une putain (La)]]|158|97|E | | | |
+| [[guilde: Branleuse de taureaux (La)]]|159|69|S | [[http://www.wikignole.be/guindaille/La%20branleuse%20de%20taureaux.mp3| [1] ]] | | |
+| [[guilde: Bubons (Les)]]|162|/| | | | |
+| [[guilde: Caca Hola!]] | 172 | 340 | | | | |
+| [[guilde: Capote anglaise (La)]]|170|67| |[[http://www.wikignole.be/guindaille/La%20capote%20anglaise.mp3|[1] ]] \\ [[http://fred2k.be/stuff/cisingles/folklore/_La%20capote%20anglaise%20(CHR).mp3 | [2] ]] |**1 :** (Air original. L'air connu du CI est le nouvel air, tel que chanté par le Groupe Christopharius, ainsi que renseigné en note de bas de page du Carpe Diem) \\ **2 :** Air communément chanté au CI (Christopharius) | |
+| [[guilde: Caroline la putain]]|164|65| | [[http://fred2k.be/stuff/cisingles/folklore/_Caroline%20la%20putain%20(CHR).mp3|[1] ]] | | |
+| [[guilde: Ceinture (La)]]|173|218|E | | |Prévenir les gens d'enlever la leur|
+| [[guilde: Cent louis d'or (Les)]]|174|114| | | | |
+| [[guilde: Chanson à l'alcool]]|87|/| | | | |
+| [[guilde: Chanson à boire]] | |??| D |[[http://www.wikignole.be/guindaille/Chanson%20%C3%A0%20boire.mp3|[1] ]] [[http://www.wikignole.be/guindaille/musiciens%20de%20surface/10%20-%20Qui%20veut%20chasser%20une%20migraine.ogg| [2] ]] |La version 2 ne correspond pas exactement à ce qui se chante et est nettement moins rythmée alors que la 1 est fidèle| |
+| [[guilde: Chanson du Bicetre]] | 184 | 127 | | | | |
+| [[guilde: Chantons pour passer le temps]]|198|142|S |[[http://www.wikignole.be/guindaille/chantons128.mp3|[1] ]] | | |
+| [[guilde: Chevaliers de la table ronde]]|104|148|D |[[http://www.wikignole.be/guindaille/Les%20chevaliers%20de%20la%20table%20ronde.mp3|[1] ]] \\ [[http://fred2k.be/stuff/cisingles/folklore/_Chevaliers%20de%20la%20table%20ronde%20(STE).mp3|[2] ]]| |A faire plus souvent|
+| [[guilde: Ciao Bella Ciao!]] | | 496 | | | | On fait une spéciale chants politiques/révolutinnaires ?? ;) |
+| [[guilde: Clémentine]]|202|334| S| | | |
+| [[guilde: Cockles an mussels]]|/|453| | [[http://www.youtube.com/watch?v=vdxLxnhGnvo| [1] ]] | | |
+| [[guilde: Cocu de Paramé (Le)]]|196| 246| | [[http://www.wikignole.be/guindaille/Le%20cocu%20de%20Parame.mp3| [1] ]] | | |
+| [[guilde: Comme les autres font]] | 207 | 123  | | | | |
+| [[guilde: Cordonnier Pamphyle (Le)]]|213|214| | [[http://fred2k.be/stuff/cisingles/folklore/_Le%20Cordonnier%20Pamphyle%20(CHR).mp3 | [1] ]] \\ [[http://fred2k.be/stuff/cisingles/folklore/_Le%20cordonnier%20Pamphile%20(LFJ).mp3 | [2] ]] | |Pas être saoul car ca va sacrément vite!|
+| [[guilde: Cul de ma blonde (Le)]]|222|217| | | | |
+| [[guilde: De Profundis Morpionibus]]|225|205| | [[http://www.wikignole.be/guindaille/De%20profiundis%20morpionibus.mp3| [1] ]] \\ [[http://fred2k.be/stuff/cisingles/folklore/_De%20pronfundis%20morpionibus%20(CHR).mp3 | [2] ]] |**1 :** Pas la meilleure version mp3 que j'ai entendue | |
+| [[guilde: Digue du cul (La)]]|230|157| |[[http://www.wikignole.be/guindaille/La%20digue%20du%20cul.mp3|[1] ]] \\ [[http://fred2k.be/stuff/cisingles/folklore/_La%20digue%20du%20cul%20(CHR).mp3|[2] ]] \\ [[http://fred2k.be/stuff/cisingles/folklore/_La%20digue%20du%20cul%20(LFJ).mp3|[3] ]] | | |
+| [[guilde: Dimanche (Un)]]|232|158|E | | | |
+| [[guilde: Du haut de la montagne]]|239|204| |[[http://www.wikignole.be/guindaille/Trou%20du%20cul%20champignon.mp3|[1] ]]| | |
+| [[guilde: Drunken Sailor (The)]] | | 454 | | [[http://www.youtube.com/watch?v=Eh6AWAzrRJI| [1] ]] | | |
+| [[guilde: Elephant story]]|465|333|E |  | | |
+| [[guilde: En descendant la rue Tronchet]]|246|78| |[[http://www.wikignole.be/guindaille/En%20descendant%20la%20rue%20cuvier.mp3|[1] ]]| (Version loooongue)| |
+| [[guilde: En revenant du Piémont]]|100|95| | | | | 
+| [[guilde: Fanchon]]|91|63|B | | | |
+| [[guilde: Femme du roulier (La)]]|253|82|S | [[http://fred2k.be/stuff/cisingles/folklore/_La%20femme%20du%20roulier%20(STE).mp3| [1] ]]| |Si on a la permission de minuit |
+| [[guilde: Femme du vidangeur (La)]]|255|72| | | | |
+| [[guilde: Femme est morte (Ma)]]|256|168| | [[http://fred2k.be/stuff/cisingles/folklore/_Ma%20femme%20est%20morte%20(STE).mp3 | [1] ]] | | |
+| [[guilde: Filles de Camaret (Les)]]|258|140| | [[http://www.wikignole.be/guindaille/Le%20cur%c3%a9%20de%20Camaret.mp3| [1] ]] \\ [[http://fred2k.be/stuff/cisingles/folklore/_Les%20Filles%20de%20Camaret%20(CHR).mp3| [2] ]] \\ [[http://fred2k.be/stuff/cisingles/folklore/_Les%20filles%20de%20Camaret%20(LFJ).mp3 | [3] ]] | | |
+| [[guilde: Fille de Gonthier (La)]] | 494 | 177 | | | | |
+| [[guilde: Filles de la Rochelle (Les)]]|261|???|!| [[http://www.wikignole.be/guindaille/Les%20filles%20de%20la%20Rochelle.mp3| [1] ]] | | |
+| [[guilde: Filles des forges (Les)]]|262|171| | | | |
+| [[guilde: Fraises et les Framboises (Les)]]|95|172| | | | |
+| [[guilde: Frégate “La Danaé” (La)]]|270|154| | | | |
+| [[guilde: Frère Guillaumette]] | | 179 | | | | |
+| [[guilde: Gaudeamus igitur]]|263|175|GG| | | |
+| [[guilde: Gayolle (La)]]|70|176|S | | | |
+| [[guilde: Grand métingue du métropolitain]]|276|200|S | [[http://www.wikignole.be/guindaille/chants_revolutionnaires/le_grand_metingue_du_metropolitain.mp3 | [1]]] | | |
+| [[guilde: Grand vicaire (Le)]]|278|73|D |[[http://www.wikignole.be/guindaille/Le%20grand%20vicaire.mp3|[1] ]] \\ [[http://fred2k.be/stuff/cisingles/folklore/_Le%20grand%20vicaire%20(CHR).mp3 | [2] ]]| | |
+| [[guilde: Homme au puissant braquemart (L')]]|275|255| | | | |
+| [[guilde: Hussard de la garde (Le)]]|285|181| | [[http://fred2k.be/stuff/cisingles/folklore/_Le%20hussard%20de%20la%20garde%20(CDB).mp3 | [1] ]] | | |
+| [[guilde: Ile des pucelles (L')]]|474|/| | | Fin | |
+| [[guilde: Io Vivat]]|295|184| | | | |
+| [[guilde: J'encule à sec]] | | 492 | | | | |
+| [[guilde: Je cherche fortune]]|302|236| | | | |
+| [[guilde: Jean-Gilles]]|297|221|D | [[http://fred2k.be/stuff/cisingles/folklore/_Jean-Gilles%20mon%20gendre%20(CHR).mp3 | [1] ]] | | |
+| [[guilde: Jeanneton]]|312|/| |[[http://www.wikignole.be/guindaille/18-Jeanneton%20prend%20sa%20faucille.mp3 | [1] ]]| | |
+| [[guilde: Jeune fille du métro (La)]]|304|234|T2 | [[http://fred2k.be/stuff/cisingles/folklore/_La%20jeune%20fille%20du%20m%e9tro%20(CHR).mp3 | [1] ]] | | |
+| [[guilde: Jeune homme de Besançon (Le)]] | 305 | 258 | | | | |
+| [[guilde: Joueur de luth (Le)]]|308|61|D T1 | [[http://fred2k.be/stuff/cisingles/folklore/_Le%20joueur%20de%20luth%20(STE).mp3 | [1] ]] | | |
+| [[guilde: Krambambouli]] | | 413 | | | | |
+| [[guilde: Kyrie des moines]]|313|188|T2 | [[http://fred2k.be/stuff/cisingles/folklore/_Le%20Kyrie%20des%20moines%20(CDB).mp3| [1] ]] | | |
+| [[guilde: Lézard (Le)]]|521|/| | | | |
+| [[guilde: Lied van geen taal]]|77|50|GG| [[http://fred2k.be/stuff/cisingles/folklore/_Lied_van_geen_taal.mp3 | [1] ]] | | |
+| [[guilde: Lolotte]]|/|191|T1 | | | |
+| [[guilde: Madelon des étudiants]]|326|56| | [[http://www.wikignole.be/guindaille/La%20Madelon2.mp3| [1] ]] \\  [[http://www.wikignole.be/guindaille/Quan%20Madelon%20vient%20nous%20servir%20%c3%a0%20boire.mp3| [2] ]] |Paroles non détournées| |
+| [[guilde: Marche des étudiants]]|326|18| | | | |
+| [[guilde: Margot]]|330|59| | [[http://fred2k.be/stuff/cisingles/folklore/_Margot%20(CHR).mp3 | [1] ]] | | |
+| [[guilde: Marteaux (Les)]]|85|196| | | | |
+| [[guilde: Mère Gaspard (La)]]|107|174|GG| | | Ne pas oublier de remplir son verre avant le triptyque final |
+| [[guilde: Messine]] |111|199| | [[http://www.wikignole.be/guindaille/Allons%20%c3%a0%20Messine.mp3| [1] ]] | | |
+| [[guilde: Minuit Bourgeois]]|348|238| | | | |
+| [[guilde: Moines de Saint-Bernardin (Les)]]|343|126|E |[[http://www.wikignole.be/guindaille/Saint%20Bernardin.mp3|[1] ]] \\  [[http://www.wikignole.be/guindaille/Chansons%20Paillardes%20-%20Les%20Moines%20De%20St%20Bernardin%20(Ray%20Ventura).mp3| [2] ]] \\ [[http://fred2k.be/stuff/cisingles/folklore/_Les%20moines%20de%20Saint-Bernardin%20(STE).mp3 | [3] ]] | | |
+| [[guilde: Moorsoldaten (Die)]] | | | | [[http://www.wikignole.be/guindaille/chants_revolutionnaires/die_moorsoldaten.mp3 | [1] ]] | | |
+| [[guilde: Musée d'Athènes (Le)]] |352| | | [[http://www.wikignole.be/guindaille/au%20mus%c3%a9e%20d'Ath%c3%a8nes.mp3|[1] ]] | | |
+| [[guilde: Nini-peau-d'-chien]]|355|211| | [[http://fred2k.be/stuff/cisingles/folklore/_Nini%20peau%20de%20chien%20(STE).mp3 | [1] ]] | | |
+| [[guilde: On va gerber]] | | 504 | | | | |
+| [[guilde: Ode à une féministe]] | | 541 | | | | |
+| [[guilde: P'tite Annick]]|477|NA| | | | |
+| [[guilde: Parcours santé]]|/|319| | | | |
+| [[guilde: Paris-Nantes]] (Tiens, voilà mon zob)|366|238| | [[http://www.wikignole.be/guindaille/Tiens%20voil%c3%a0%20mon%20kiki.mp3| [1] ]] | | |
+| [[guilde: Patrouille (La)]]|362|260|T2 | [[http://fred2k.be/stuff/cisingles/folklore/_La%20Patrouille%20(CHR).mp3|[1] ]] | | |
+| [[guilde: Paysages antiques]]|500|226|S | | | |
+| [[guilde: Petite Charlotte (La)]]|374|144| |[[http://www.wikignole.be/guindaille/Branle%20la%20Charlotte.mp3|[1] ]] \\ [[http://fred2k.be/stuff/cisingles/folklore/_La%20petite%20Charlotte%20(CDB).mp3 | [2] ]] \\ [[http://fred2k.be/stuff/cisingles/folklore/_La%20petite%20Charlotte%20(CHR).mp3 | [3] ]] | **1 :** Attention, puristes ! Ceci est un remix **vraiment** pourri ! \\ **2 et 3 :** Enfin, ça va mieux avec les versions un peu plus classiques | |
+| [[guilde: Petite Huguette (La)]] (Gnouf, Gnouf, Gnouf)|273|180| | [[http://www.wikignole.be/guindaille/La%20petite%20Huguette.mp3| [1] ]] | | |
+| [[guilde: Plaisir des dieux (Le)]]|382|91|E |[[http://www.wikignole.be/guindaille/Le%20plaisir%20des%20Dieux.mp3|[1] ]] \\ [[http://fred2k.be/stuff/cisingles/folklore/_Le%20plaisir%20des%20dieux%20(CHR).mp3 | [2] ]] | | |
+| [[guilde: Quatre jouissances (Les)]]|524|147| | | | |
+| [[guilde: Red River Valley]] | | 460 | | | | |
+| [[guilde: Romance du 14 juillet (La)]]|400|186|S | | | |
+| [[guilde: Russian Submarine]] | / | 526 | | | | |
+| [[guilde: Saint Nicolas]] | 402 |  | | | | |
+| [[guilde: Salope (La)]]|409|82| |[[http://www.wikignole.be/guindaille/La%20nympho.mp3| [1] ]] \\ [[http://www.wikignole.be/guindaille/La%20salope.mp3| [2] ]] | | |
+| [[guilde: Salsa des vieux cons (La)]]|/|513|E | | | |
+| [[guilde: Saut du morpion (Le)]]|414|/| | [[http://www.wikignole.be/guindaille/Le%20saut%20du%20morpion.mp3| [1] ]] | | |
+| [[guilde: Semeur (Le)]]|3|17|GG| | | |
+| [[guilde: Si j' t'encule]]|412|163| | | | |
+| [[guilde: Sobriété]]|/|377| | | | |
+| [[guilde: Stances à Sophie (Les)]]|410|80| | | | |
+| [[guilde: Tape ta pine]] |416|79| | [[http://www.wikignole.be/guindaille/Tape%20ta%20pine.mp3| [1] ]] \\  [[http://fred2k.be/stuff/cisingles/folklore/_Tape%20ta%20pine%20(LFJ).mp3| [2]]] | | |
+| [[guilde: La Terre Jaune]] | 501 | 229 | | | | |
+| [[guilde: Tich, oh mon tich]]|436|328| | | | |
+| [[guilde: Tour de Londres (La)]]|427|194|S | | | |
+| [[guilde: Trente et un du mois d'août (Au)]]|428|120| S| [[http://www.wikignole.be/guindaille/31moisdaout128.mp3|[1] ]] [[http://www.wikignole.be/guindaille/musiciens%20de%20surface/12%20-%20Buvons%20un%20coup.ogg| [2] ]] | |NUL, STOP|
+| [[guilde: Trois orfèvres (Les)]]|434|213| |[[http://www.wikignole.be/guindaille/Les%20trois%20orf%c3%a8vres.mp3|[1] ]] \\ [[http://fred2k.be/stuff/cisingles/folklore/_Les%20trois%20orfv%e8res%20(LFJ).mp3 | [2] ]] \\ [[http://fred2k.be/stuff/cisingles/folklore/Les%20trois%20orf%e8vres%20(CHR).mp3 | [3] ]] | | |
+| [[guilde: ULBlues|437|326|S | | | |
+| [[guilde: Vive la Bretagne]] |451|/| | [[http://www.wikignole.be/guindaille/Les%20bretons.mp3|[1] ]] | | |
+| [[guilde: Wild Rover (The)]] | | 462 | | [[http://www.youtube.com/watch?v=siQtzrI5w88|[1] ]] | | |
+| [[guilde: Zobi d'Ali Pacha (Le)]]|458|233|S | | | Faut s'arranger pour que Subrally soit là pour qu'il soit mort après la chanson |
+
+
+
+===== Chansons ne se trouvant pas dans les chansonniers conventionnels =====
+
+
+^ **Titre** ^ **Lien mp3** ^ **Commentaire** ^
+| Gaillardise | [[http://www.wikignole.be/guindaille/05-Gaillardise.mp3|[1] ]] | Les paroles peuvent être trouvées page 1301 du Florex (tome II) et [[http://www.recmusic.org/lieder/get_text.html?TextId=17229|ici]] |
+| Colin et Colinette | [[http://www.wikignole.be/guindaille/17-Colin%20et%20Colinette.mp3| [1] ]] | |
+| Ôde à la vétuste (soixante-neuf) | [[http://www.wikignole.be/guindaille/69.mp3| [1] ]] | Poème de Guy de Maupassant. Les paroles peuvent être trouvées page 940 du Florex (tome II). |
+| Vide-nous ce verre | [[http://www.wikignole.be/guindaille/Chanson%20%c3%a0%20boire.mp3| [1] ]] | Page 646 du Florex (II) ou [[http://www.geocities.com/foursov/triyann/chanson_boire.html|ici]]|
+| Mais si t'as pas de capote... | [[http://www.wikignole.be/guindaille/La%20capote.mp3| [1] ]] | Encore plus drôle avec [[http://www.pere-vert.com/2007/01/14/mais-si-tas-pas-de-capote/|la vidéo]] |

@@ -1,0 +1,19 @@
+
+En début de partie, un joueur reçois gratuitement un gang et un niveau 1.
+
+^ Niveau ^ Actions ^ Effets permanents ^
+| Level 0 : Bitch | - **Acheter une nouvelle faction** : X $ | Les actions contre les bitches coûtent deux fois moins cher. | 
+| Level 1 : Petite frappe | - XXXXX: 5 $ \\ - XXXX:  X $ \\ - Tueurs à gage(1) :  35 $ \\ - **Level up**: 12 $ | Les petites frappes ne peuvent pas être foutues à poil. |
+| Level 2 : Soldat | - XXXXXX: X $ \\ - Glory Hole(2): X $ \\ - XXXXXX(3): X $ \\ - **Level up**:  XX $ |
+| Level 3: Capitaine | - À poil !!:  X $ \\ - Paquet de chips: X$ \\ - XXXXXXX: X$ \\ - XXXXXXX:X$  \\ - **Level up**: XX $ | En nombre limité: Pour devenir capitaine on prend la place d’un capitaine existant qui retombe soldat. |
+| Level 4 : Chef de gang | - LOCKDOWN: 20 $, max une fois toutes les 25 minutes. \\ - Corruption des gardiens $X (4).| - Un seul par gang, il faut battre le chef en cours à l’affond « pick up the soap » pour prendre sa place. \\ Le chef déchu redevient soldat. Si le challenger échoue il devient une bitch ! \\ - Immunisé contre les attaques. \\ - A le droit de prendre 1$ à chaque membre de son gang qui gagne des $ à la roulette. |
+
+  - Le tueurs à gage vont brouillarder la victime, lui retirer ses titres et son gang, la victime devient une bitch ! Le(s) commanditaire(s) resteront anonymes.
+  - Glory Hole : XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.
+  - XXXXXXXXXXXX: XXXXXXXXXXXXXXXXX !
+  - Corruption des gardiens: XXXXXXXXXXXXXXXXXXXXX
+  - On ne peut refuser un affond contre un grade supérieur de n'importe quel gang.
+  - On peut envoyer un grade inférieur de son gang chercher un refill de bières.
+  - Si on perd des fetodollars à la roulette et qu’on ne sait pas payer, on devient une bitch !!
+  - XXXXXXXXXXXXXXXXXXXXXXx
+  - Les actions level n-1 sont bien-entendu accessibles au level n. 

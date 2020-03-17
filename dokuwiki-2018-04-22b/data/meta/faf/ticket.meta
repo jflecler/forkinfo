@@ -1,0 +1,8 @@
+a:2:{s:7:"current";a:7:{s:4:"date";a:2:{s:7:"created";i:1508138722;s:8:"modified";i:1168616399;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:5:"title";s:16:"Ticket d'à-fond";s:11:"description";a:2:{s:15:"tableofcontents";a:1:{i:0;a:4:{s:3:"hid";s:15:"ticket_d_a-fond";s:5:"title";s:16:"Ticket d'à-fond";s:4:"type";s:2:"ul";s:5:"level";i:1;}}s:8:"abstract";s:257:"Ticket d'à-fond
+
+Origine chez bernardu
+concept à développer
+
+	*  Le membre désigné par le ticket ne peut refuser l'à-fond , question d'honneur.
+	*  l'a-fond est a réglé tout de suite quelque soit l'heure du jour .
+	*  Il existe un ticket par membre.";}s:8:"relation";a:2:{s:10:"references";a:1:{s:11:"cipedia:faf";b:1;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:3:{s:4:"date";a:1:{s:7:"created";i:1508138722;}s:4:"user";s:0:"";s:7:"creator";s:0:"";}}

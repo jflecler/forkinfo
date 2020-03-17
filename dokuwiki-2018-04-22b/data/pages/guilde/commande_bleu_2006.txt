@@ -1,0 +1,50 @@
+====== Commande groupée de "Fleurs du mâle" ======
+
+===== Prix =====
+
+<code c>
+if (g_slist_length (orders) >= 10)
+    price = 9;
+else
+    price = 13;
+</code>
+
+
+
+
+===== Deadline =====
+
+Les commandes seront cloturées le **lundi 4 décembre** et l'argent aura du nous parvenir avant le **lundi 11 décembre** !
+
+Payement de **9 €** soit, et de préférence, par virement **270-0303246-77** soit en cash (mais débrouillez vous pour me trouver).
+
+
+
+
+
+
+
+
+
+===== Commandes =====
+  - Nawak **PAYÉ**
+  - Bram **PAYÉ** (cash)
+  - SDF **PAYÉ**
+  - herlock **PAYÉ**
+  - Freesex **PAYÉ** (cash)
+  - Cex **PAYÉ** (cash)
+  - Fossile **PAYÉ**
+  - Serveur **PAYÉ**
+  - Tuning **PAYÉ**
+  - Chef chaudard **PAYÉ**
+  - Jmtaket **PAYÉ** (cash)
+  - twolife **PAYÉ** (cash)
+  - Jérémie alias (k-way) brother  **PAYÉ** (cash)
+  - Yasmina **PAYÉ**
+  - bizu **PAYÉ**
+  - ren0 (c'est pas pour moi!!) **PAYÉ** (cash)
+  - Amélie **PAYÉ**
+  - SubRally **PAYÉ** (cash)
+  - Ethyl **PAYÉ** (cash)
+
+ 

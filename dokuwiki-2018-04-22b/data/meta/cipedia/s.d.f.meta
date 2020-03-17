@@ -1,0 +1,23 @@
+a:2:{s:7:"current";a:7:{s:4:"date";a:2:{s:7:"created";i:1508138721;s:8:"modified";i:1194902090;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:5:"title";s:3:"SDF";s:11:"description";a:2:{s:15:"tableofcontents";a:9:{i:0;a:4:{s:3:"hid";s:3:"sdf";s:5:"title";s:3:"SDF";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:1;a:4:{s:3:"hid";s:5:"infos";s:5:"title";s:5:"Infos";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:2;a:4:{s:3:"hid";s:19:"parcours_academique";s:5:"title";s:20:"Parcours académique";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:3;a:4:{s:3:"hid";s:16:"comite_de_cercle";s:5:"title";s:17:"Comité de cercle";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:4;a:4:{s:3:"hid";s:20:"parcours_folklorique";s:5:"title";s:20:"Parcours folklorique";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:5;a:4:{s:3:"hid";s:7:"famille";s:5:"title";s:7:"Famille";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:6;a:4:{s:3:"hid";s:8:"parrains";s:5:"title";s:8:"Parrains";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:7;a:4:{s:3:"hid";s:8:"filleuls";s:5:"title";s:8:"Filleuls";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:8;a:4:{s:3:"hid";s:6:"divers";s:5:"title";s:6:"Divers";s:4:"type";s:2:"ul";s:5:"level";i:2;}}s:8:"abstract";s:317:"SDF
+
+Infos
+
+Nom: Pevenage 
+
+Prénom: Jonathan 
+
+Surnom(s): SDF ; Friends (le bleu qui a des amis et une gourmette)  
+
+Date de naissance: 18/05/88 
+
+
+Parcours académique
+
+	*  2006-2007 BA1 en informatique
+	*  2007-2008 BA1 en informatique again
+
+Comité de cercle
+
+* 2007-2008: Délégué photos
+
+Parcours folklorique";}s:8:"relation";a:2:{s:10:"references";a:17:{s:20:"cipedia:anniversaire";b:1;s:12:"cipedia:2006";b:1;s:12:"cipedia:2007";b:1;s:17:"cipedia:montaigus";b:1;s:12:"cipedia:duff";b:1;s:12:"cipedia:rony";b:1;s:15:"cipedia:kujovic";b:1;s:12:"cipedia:ren0";b:1;s:15:"cipedia:gumbuls";b:0;s:16:"cipedia:subrally";b:1;s:13:"cipedia:gonbi";b:0;s:12:"cipedia:staz";b:1;s:12:"cipedia:bram";b:1;s:13:"cipedia:brice";b:1;s:12:"cipedia:kway";b:0;s:14:"cipedia:tuning";b:1;s:12:"cipedia:bori";b:1;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:3:{s:4:"date";a:1:{s:7:"created";i:1508138721;}s:4:"user";s:0:"";s:7:"creator";s:0:"";}}

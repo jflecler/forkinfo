@@ -1,0 +1,85 @@
+==== Projet de langage2 c++ de 2007-2008 ====
+
+===== Presentation =====
+
+Bon voici une page ou l'on peut discuter du projet, idées, remarques et conseils a partager avec les autres pour s'aider a avancer mutuellement !
+Structure de la page : chaotique (joke) :: plus serieusement, je propose qu'on ajoute nos remarques l'une a la suite de l'autre dans un premier temps, un peu comme dans un chat irc a l'avantage ici c'est que les remarques restent consultables par apres !
+
+
+
+
+
+
+
+
+
+
+===== Conseils/Chat =====
+
+
+  template <typename Elem>
+  Table<Elem>& Table<Elem>::operator= (const Table& table) {  
+    if (this != &table)    this->Liste<Elem>::operator=(table);
+    return *this;
+  };
+
+  *Boris : Pour moi la structure physique la plus optimisée serait un arbre mais dans mon projet j'utilise une liste pour une raison de facilité, ma classe table utilise directement la liste de la classe liste dont elle herite, la liste est plus souple que le vecteur meme si elle ne permet pas un acces direct a un element ! Elle permet notament d'etre convertie facilement en un arbre optimisé composé des element de la liste (changement des pointeurs etc ...). C'est pourquoi je l'utilise plutot qu'un vecteur !
+
+  *Boris : Dans l'enoncé Roggy dis qu'il faudra evidement mofidier les classes Liste et Vec pour notre heritage, si j'ai bien compris on ne doit pas du tout modifier ces classes a part rajouter le mot clé "virtual" devant les fonctions qui seront redefinis. 
+
+  *Boris : VIRTUAL : Utilisé pour les fonctions qui seront redéfinis dans les sous classes. (classes herités) Exemple pour une classe B herité d'une classe A, si l'on a pointeur de type pointeur vers A qui pointe en realité vers une zone memoire dans laquelle se trouve un element de de type B sans le virtual la fonction de base de A sera executé tandis qu'avec le virtual il remarquera que l'objet en memoire est de type b et executera la fonction redefini dans la classe B ! (à verifier -> pas certains)
+
+  *Boris : Les constructeur ne sont jamais redefini(VIRTUAL) dans une classe et les destructeurs le sont toujours !
+
+  *Boris : Dans mon cas (utilisation de la liste comme structure) les fonctions ne renvoyant pas une liste et ne prenant pas une liste en parametre ne doivent pas etre redefinis !
+
+  *Boris : EXPLICIT : est utilisé quand l'on souhaite que les parametre de la fonction soit fourni exactement du type demandé lors des appels (pas de convertion implicite du style on passe en parametre un "double" alors que la fonction attend un "int" ) // Merci a bram pour l'info
+
+  *Boris : INLINE : bien expliqué ici : http://www.ann.jussieu.fr/courscpp/Sections/Sect05-D0.html
+
+
+
+
+
+===== Discusions/Chat =====
+Comme dit Bram, la liste est plus flexible ! (meilleur choix)
+  Laurent && Bram dit :
+  mais je me demandes toujours pourquoi tu veux utiliser un arbre en faite  
+  Laurent && Bram dit :
+  ça serai faire abstraction des deux autres classes
+  Boris dit :
+  la structure physique est caché a l'utilisateur ...
+  Boris dit :
+  l'heritage permet de reprendre les element de la liste pour en creer directement un arbre rapidement
+  Boris dit :
+  et facilement (avantage de l'arbre vu au cours d'algo1)
+  Laurent && Bram dit :
+  oui mais dans ce cas la
+  Laurent && Bram dit :
+  pourquoi faire un héritage ?
+  Laurent && Bram dit :
+  on a pas à se casser le cul on fait simplement une classe qui utilise un arbre
+  Boris dit :
+  l'arbre permet un accer en log( n) aux element (la liste en acces en N et le vec en acces direct) -> gain en acces par rapport a la liste
+  Laurent && Bram dit :
+  ouai je sais que l'arbre déchire mais bon
+  Laurent && Bram dit :
+  c'est pa
+  Laurent && Bram dit :
+  trop ça le problème
+  Boris dit :
+  l'arbre permet d'inserer en acces direct un elem (et supprimer ) (la liste aussi mais le vec requiert un acces en N) donc gain par rapport au vecteur
+  Boris dit :
+  l'heritage est debile bien entendu
+  Boris dit :
+  l'heritage est un exercice  
+  Boris dit :
+  utiliser un arbre dans lequels on rajoute les 2-3 fonctions demandés serait  bien plus simple  
+  Boris dit :
+  mais (comme tu dis) on perd l'idée d'heritage dans ce cas la .... l'heritage devient presque inutile et donc c'est pour ca que j'utilise une liste ... pour que le projet reste coherent  
+  Boris dit :
+  ouais t'as raison une liste c'est mieux
+  Laurent && Bram dit :
+  mouarf ça va ressembler à rien ta page  
+  Boris dit :
+  mais l'idée de l'arbre permet de defendre le pourquoi le choix de la liste devant roggy  

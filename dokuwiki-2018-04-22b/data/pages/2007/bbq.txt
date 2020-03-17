@@ -1,0 +1,23 @@
+====== Barbecue CI-Babbage 25/06 : Horraire ======
+
+Inscrivez-vous dans une seule case (sauf si vous voulez vraiment bosser plus que les autres ;) )
+
+| Tranche horraire : | Caisse/Bar : | BBQ |
+| 15.15 - 16.45 | Fossile | Tarkan |
+| | Souillon | Tuning |
+| 16.45 - 18.15 | Bram | herlock |
+| | Manouchka | Allblack |
+| 18.15 - 19.45 | Bram | herlock |
+| | 3vie | Allblack|
+| 19.45 - 21.15 | Twix | Bori |
+| | burton|  |
+
+
+
+
+====== TD du 24/06 : Horraire ======
+
+^ Heure ^  Bar  ^ Tickets ^ Porte Bar  ^  Entrées ACE  ^  Entrées normales  ^ Sortie ^  Porte chiottes  ^  Porte Philo  ^  Porte Psycho  ^  Porte Hermès  ^
+^ 10h  -  00h |Twix(CI)-Manouch(CI)  |Burton(CI) |   |Cyrielle(CI)   |Tarkan(CI)  |   |   |Lénine(CI)-Antonio(CI)   |  |  |
+^ 00h  -  2h |Twix(CI)-Bram(CI)-Tarkan(CI)   |   |Allblack(CI)   |Romain(CI)   |   |Manouch(CI)   |   |   |Staz(CI)-Tunning(CI)  | |
+^ 2h  -  3h30 |Bram(CI)-Herlock(CI)  |BLC(CI) |   |   |   |   |Allblack(CI)   |   | | |

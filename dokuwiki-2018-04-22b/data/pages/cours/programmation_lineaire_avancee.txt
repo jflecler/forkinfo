@@ -1,0 +1,28 @@
+====== Programmation linéaire avancée (Martine Labbé) ======
+
+Le but de ce cours est d'apprendre des techniques de programmation linéaire basées sur le simplexes, pouvant résoudre des problèmes plus élaborés que ce qui est vu dans le cours de [[Recherche opérationnelle]] : des programmes linéaires de grande taille et à structure particulière.
+
+
+===== Le cours =====
+
+Après un bref rappel de l'algorithme classique du simplexe et de la notion de dictionnaire, on étudie la version révisée du simplexe, son utilisation pour des problèmes de grande taille et la prise en compte efficace de bornes inférieures et supérieures sur les variables. La deuxième partie du cours est consacrée aux problèmes de flots (transbordements) dans les réseaux. On présente la méthode du simplexe pour réseaux, comment tenir compte de capacités sur les arcs et quelques applications du problème de transbordement. On termine le cours par l'étude du principe de décomposition de Dantzig-Wolfe. 
+Ce cours est assez ardu pour quelqu'un qui a uniquement suivi [[Recherche opérationnelle]]. Un excellent préambule à ce cours serait plutôt le cours de [[http://www.ulb.ac.be/di/gom/teaching/ROPE024/index.html| ROPE024 Mathématique de la Recherche Opérationnelle]].
+Le cours se donne à peu près toutes les 2 semaines : un ou deux chapitres du cours sont à lire pour la séance. Une fois dans la classe, on discute des chapitres qui ont été préparés et des explications sont apportées aux points les moins limpides.
+
+===== Le projet-examen =====
+
+La note de l'année est déterminée par la réalisation d'un projet. Le but du projet est l'implémentation d'une des méthodes vues au cours à l'aide d'un langage de programmation linéaire et d'un solveur ad hoc. Avant l'implémentation, il est demandé de réaliser des instances du problème présenté dans l'énoncé (bibliothèque d'instances, random, ou encore "fait à la main") pour tester l'implémentation et donc comparer les résultats obtenus. Finalement, la solution proposée et les résultats sont présentés devant la prof; une ou deux questions bateaux sont également posées, pour vérifier que l'on savait ce que l'on faisait.
+
+===== La prof =====
+
+[[http://www.ulb.ac.be/rech/inventaire/chercheurs/6/CH1376.html|Martine]] est une des profs les plus cools et sympathiques de l'ulb (une espèce d'anti-Emplit). Elle attend de ses étudiants une compréhension globale de ses cours et ne cherche absolument pas la petite bête.
+
+===== Lien utile =====
+
+Toutes les infos utiles pour ce cours sont disponibles sur [[http://www.ulb.ac.be/di/gom/teaching/ROPE022/index.html|la page du cours]], qui fait également office de valves électroniques pour le cours
+
+
+ --- //[[branger_fred@hotmail.com|bizu]] 2005/09/15 21:52//
+
+
+

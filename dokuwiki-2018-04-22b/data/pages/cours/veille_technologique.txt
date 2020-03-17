@@ -1,0 +1,7 @@
+====== Veille technologique ======
+
+Au niveau informations pratiques, [[http://www.ulb.ac.be/di/map/gbonte/Info079.html|la page du cours]] est amplement suffisante. Je vais plutôt donner mes impressions sur ce cours. 
+
+L'intérêt du cours est fonction des présentations qui sont données et des orateurs. Cela peut aller du jeune cadre dynamique et sympathique au sourire blinquant qui présente ce qui se fait de neuf en telecom au cofondateur d'une PME de pointe en passant par la présentation de frameworks ou encore la révélation que le simple fait de l'utilisation (même pas les specs, seulement savoir qu'il y en a) de méta-données de descriptions de bases de données pérennes était un secret OTAN il y a quelques années. C'est très rafraîchissant (tout comme micropro) d'apprendre des trucs qui ont assez peu de rapport avec le contenu des cours traditionnels.
+
+ --- //[[branger_fred@hotmail.com|bizu]] 2005/09/15 22:05//

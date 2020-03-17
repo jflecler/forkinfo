@@ -1,0 +1,23 @@
+Voici un petit aide mémoire concernant l'utilisation des quelques mailings listes disponibles.
+
+
+==== cercle-informatique@cerkinfo.be ====
+Cette mailing liste peut être utilisée dans le but d'avertir le maximum de personnes lorsqu'un événement est organisé avec, ou par des gens du CI. Par exemple, pour prévenir des gens qui ne fréquentent pas le forum une semaine ou deux avant le bal, le mtsm, les V², ...
+
+**fred2k** : Selon moi, l'idéal serait qu'une personne responsable (par exemple le délégué concerné) envoie déjà un mail dès que l'organisation est validée (ratification par le comité, date bloquée et confirmée) pour que les anciens bloquent leur agenda, quitte à envoyer des mails ultérieurement pour raffiner l'information (par exemple en mail dès que la date et la salle du bal sont connues puis un mail plus tard pour le banquet). Cela serait encore mieux d'avoir en plus un bulletin régulier bimensuel avec un rappel des nouvelles importantes.
+
+==== comite@cerkinfo.be ====
+Celle-ci est à utiliser pour contacter le comité de cercle.
+
+==== guilde@cerkinfo.be ====
+Celle-ci est à utiliser pour contacter les membres de la Guilde Gates.
+
+==== chant@cerkinfo.be ====
+Elle informe des activités centrées sur le chant. Que ce soient les cantus de la Guilde Gates, d'autres guildes ou encore des coronas. En bref, [[guilde:events|les activités chantantes d'ici et d'ailleurs]].
+
+Cette mailing liste est ouverte à tous afin de permettre un maximum d'échange de dates et d'informations.
+
+Pour t'inscrire à cette lite, rien de plus simple: clique simplement sur le lien ci-contre et envoie le mail généré en ne changeant RIEN au contenu du message: [[chant-request@cerkinfo.be?subject=subscribe&body=subscribe|chant-request@cerkinfo.be]]. Si tu utilise un client mail en ligne (hotmail ou gmail par exemple), envoie un mail à **chant-request@cerkinfo.be** avec comme sujet le mot **subscribe** et un corps de message vide. Tu recevra ensuite automatiquement un mail de confirmation d'abonnement.
+
+==== vieuxcons@cerkinfo.be ====
+Permet aux anciens de s'organiser lors du baptême.

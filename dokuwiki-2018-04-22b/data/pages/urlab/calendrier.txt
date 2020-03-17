@@ -1,0 +1,10 @@
+====== Avril ======
+^ Jour      ^ Ouverture       ^ Fermeture          ^Commentaires          ^
+| Lundi 2    | 8h     | 18h        | /       |
+| Mardi 3    | 8h     | 18h        | /       |
+| Mercredi 4    | 6h     | 18h        | /       |
+| Jeudi 5    | 8h     | 18h        | /       |
+| Vendredi 6    | 8h     | 14h        | /       |
+| Mardi 10    | 8h     | 18h        | Installation du serveur       |
+| Mercredi 11    | ?h     | ?h        | Ouvert       |
+| Jeudi 12    | ?h     | ?h        | Ouvert       |

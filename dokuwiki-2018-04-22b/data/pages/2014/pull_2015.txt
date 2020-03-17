@@ -1,0 +1,42 @@
+====== CLOTURÉ ======
+
+
+Bonjour à tous, et à toutes,
+
+Le FOSDEM approche et à cette occasion nous faisons une commande de t-shirt et de polos pour le cercle, on a décidé de vous laisser la possibilité de vous en procurez vous aussi,
+le modele sera le suivant:
+
+{{http://i.imgur.com/p8NPkO2.png}} 
+{{http://i.imgur.com/TjMMZ5Y.png}}
+
+Le texte "SOME TEXT" sera remplacé par qqch, mais on ne sait pas encore quoi
+
+Voici le logo:
+
+{{http://i.imgur.com/VKnCG1v.jpg?400}}
+
+Contrairement a la commande précédente de pull, il n'y a pas de différent choix de couleur pour le t-shirt ou le polo c'est noir.
+
+**Prix**
+
+Le T-Shirt coute 16€ et le Polo coute 22€
+
+**Taille**
+
+Ce sont des T-shirt/Polo de la marque FruitLoom (marque assez fréquente dans les impressions personnalisées) donc ils ont a partir du S jusquau XL
+
+**Technique d'impression**
+
+Les logos seront transférés et non brodés sur les t-shirt/polos car on ne brode pas un t-shirt, et ensuite le transfert est d'une qualité supérieure et nous avons jugé cela suffisant.
+
+Si vous ne voulez pas avoir le texte "CATERING" ecrit sur votre commande nous pouvons le faire changé en "VIEUX CONS" ou ne rien mettre, il n'y aura pas d'autres changements possible
+
+**Commande**
+
+^Nom^Prénom^Choix^Logo^Texte^Taille^Payement reçu^Item reçu^
+| Le Thanh Duong|Olivier|Polo| |sans texte|L|Non|Non|
+**Payement**
+
+Le payement se fait sur le compte du cercle BE 02 0014 0193 5340 avec comme communication "Nom-Prénom-Commande Janvier 2015".
+
+Cela doit etre fait avant vendredi 09/01, vous pouvez envoyer un screenshot ou une preuve de virement à fosdem [at] cerkinfo [dot] be

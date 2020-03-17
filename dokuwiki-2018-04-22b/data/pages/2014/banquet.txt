@@ -1,0 +1,76 @@
+====== Banquet 2015 ======
+
+Pour son traditionnel banquet pré-bal, le Cercle Informatique vous propose le menu suivant :
+===== Menu =====
+
+=== Accueil ===
+
+    * Le mousseux brut Champs Elysée
+    * Vin blanc et rouge : domaine de l'Orangerie
+    * Olives et cacahuètes
+
+=== Boissons ===
+
+    * Vin blanc et rouge ; Domaine de l'Orangerie.
+    * Les eaux.
+
+=== Entrées ===    
+//Choisir l'un des trois// :
+    * Le saumon mariné maison sauce gravlax
+    * Le toast au pain d'épice et foie gras
+    * Carpaccio de Veaux à l'huile de truffe
+
+=== Plats ===
+//Choisir l'un des trois// :
+    * Le boeuf wellington croquignole de pomme de terre et bouquetière de légumes
+    * La roulade de sole et saumon sauce Nantua pomme vapeur
+    * Le suprême de pintade au champignon des bois
+
+=== Desserts ===
+//Choisir l'un des deux// :
+    * Le moelleux au chocolat
+    * La crème brulée
+    
+Service thé, café au bar.
+
+===== Infos pratiques =====
+
+Lieux : UAE, Campus de la Plaine, Boulevard du Triomphe.\\
+Date : Vendredi 13 Mars, à 19h.
+
+===== Inscription =====
+
+La deadline pour l'inscription est fixée au **11 mars, 10h**. Toute inscription se fait par e-mail à fetes@cerkinfo.be. Chaque email sera considéré comme définitif, que vous veniez ou pas, nous vous demanderons de payer. N'oubliez pas de préciser dans votre email d'inscription quelle entrée/plat/dessert vous prendrez.
+
+===== Payement =====
+
+Le menu ET l'entrée au bal sont à 35 euro (ceux qui désirent juste participer au banquet ne devront payer que 30 euro). 
+Vous pouvez verser cet argent sur le compte **BE 02 0014 0193 5340** en mettant comme commentaire : reservation bal Prenom Nom (Surnom).
+
+
+Le personnes participant au banquet recevront l'entrée au bal.
+
+===== Participants =====
+
+^ Nom     ^ Entrée    ^ Plat   ^ Dessert       ^ Vin       ^ Payé ^
+| Péri | foie gras | boeuf | moelleux | rouge | OUI |
+| Staz | foie gras | boeuf | moelleux | rouge | OUI |
+| Maxime Pétein | foie gras | pintade | moelleux | rouge | NON |
+| Fossile | foie gras | boeuf | moelleux | rouge | OUI |
+| Coralie Villeret | foie gras | pintade | moelleux | ? | OUI |
+| 3vie | saumon | boeuf | moelleux | ? | NON |
+| Maryse | foie gras | pintade | moelleux | rouge | NON |
+| Hastake | carpaccio | boeuf | crème brûlée | "rouge" | NON |
+| Mag | foie gras | pintade | moelleux | rouge | OUI |
+| Baby | carpaccio | pintade | moelleux | rouge | OUI |
+| Burton | carpaccio | boeuf | crème brûlée | rouge | OUI |
+| M18 | carpaccio | boeuf | moelleux | rouge | NON |
+| Xav | foie gras | boeuf | moelleux | rouge | NON |
+| Myte | carpaccio | boeuf | crème brûlée | rouge | NON |
+| Sébastien | foie gras | pintade | moelleux | rouge | OUI |
+| Camille | saumon | pintade | crème brûlée | rouge | OUI |
+| Simon | foie gras | boeuf | moelleux | blanc | OUI |
+| Fred | foie gras | pintade | moelleux | rouge | OUI |
+| Morpionne | foie gras | pintade | moelleux | rouge | OUI |
+| Yannick | foie gras | pintade | crème brûlée | rouge | OUI |
+| Bill Gates | carpaccio | boeuf | moelleux | rouge | OUI |

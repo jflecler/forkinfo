@@ -1,0 +1,7 @@
+  * 10 : La Poste
+  * 10h30 : ING  
+  * 11h : WSL
+  * 11h30 : Accenture
+  * 12h : IBM
+  * 13h30 : Smals
+  * 14h15 : Zope

@@ -1,0 +1,50 @@
+===== Pack de cours: =====
+
+==== Warning ====
+Cette année le langage utilisé pour le cours de programmation sera le python et non plus le C++.  Le pack reste à votre disposition pour voir le genre d'exercices demandé et quelle en est la solution mais la syntaxe n'est plus correcte.
+
+==== Examens ====
+  * janvier 2003 + correction
+  * Juin 2003
+  * Septembre 2003
+  * Janvier 2004 + correction
+  * Janvier 2005
+  * Septembre 2005
+  * Janvier 2006
+  * Juin 2006
+  * Septembre 2006
+  * Janvier 2007
+  * Juin 2007
+  * Septembre 2007
+  * Janvier 2008
+  * Juin 2008
+  * Septembre 2008
+
+
+
+
+==== Interrogations ====
+  * Novembre 2003 + correction
+  * Novembre 2004
+  * Novembre 2005
+  * Novembre 2006
+  * Novembre 2007
+  * Novembre 2008
+  * Novembre 2009
+
+==== Autres documents ====
+  * Exercices supplémentaires 2005 - 2006 - série 1
+  * Exercices supplémentaires 2005 - 2006 - série 2
+  * Exercices supplémentaires 2005 - 2006 - série 3
+
+==== Prix ====
+3,50€
+
+===== Syllabus =====
+Deux syllabus sont disponibles aux PUB:
+  * Le premier contient l'ensemble de la matière du cours.
+  * Le deuxième est une copie des slides du cours.
+
+===== Liens utiles =====
+  * [[http://www.ulb.ac.be/di/ssd/tmassart/Prog/|Sites du cours.]]
+  * [[http://www.ulb.ac.be/di/info-f-101/|Site des TPs.]]

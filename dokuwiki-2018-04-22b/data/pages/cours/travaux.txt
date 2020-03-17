@@ -1,0 +1,76 @@
+===== Travaux des étudiants ======
+
+Le but de cette page consiste à répertorier les différentes productions des étudiants désirant publier le fruit de longues heures de travail.
+
+==== MA2 - Mémoire de fin d'études ====
+
+=== 2009-2010 ===
+
+=== 2008-2009 ===
+
+=== 2007-2008 ===
+
+|| Sujet || Auteur ||
+|| [[http://www.cerkinfo.be/memoires/2008/ethyl.pdf|Méthodes d'apprentissage supervisé appliquées à la conception d'un outil d'aide à la décision en anesthésie]] || Julien KOEUNE ||
+
+=== 2006-2007 ===
+
+|| Sujet || Auteur ||
+|| [[http://www.cerkinfo.be/memoires/2007/simon.pdf|Sécurité dans les smartphones]] || Nicolas SIMON ||
+|| [[http://www.cerkinfo.be/memoires/2007/vanderlinden.pdf|Sécurité dans les systèmes temps réel]] || Thomas VANDERLINDEN ||
+
+=== 2005-2006 ===
+
+|| Sujet || Auteur ||
+|| [[http://www.cerkinfo.be/memoires/2006/carbone.pdf|Routing protocols for interconnecting cellular and ad-hoc networks]] || Bayani CARBONE ||
+|| [[http://www.cerkinfo.be/memoires/2006/desmottes.pdf|Déploiement et configuration des intergiciels européens de grilles de calcul.]] || Guillaume DESMOTTES ||
+|| [[http://www.cerkinfo.be/memoires/2006/gathy.pdf|Toll Setting Problem : présentation théorique et développement d'heuristiques pour un cas particulier.]] || Grégory GATHY ||
+|| [[http://www.cerkinfo.be/memoires/2006/hamache.pdf|Techniques de Composition Musicale Automatique et Perspectives de Modélisation à travers la Dynamique Complexe des Réseaux de Neurones Récurrents.]] || Samuel HAMACHE ||
+|| [[http://www.cerkinfo.be/memoires/2006/heck.pdf|Implémentation d'une métaheuristique pour l'inférence phylogénétique]] || Julien HECK ||
+|| [[http://www.cerkinfo.be/memoires/2006/marot.pdf|L'animation d'algorithmes en programmation orienté aspect.]] || Antoine MAROT ||
+|| [[http://www.cerkinfo.be/memoires/2006/nelis.pdf|Ordonnancement de processus dans les systèmes temps réel monoprocesseurs sous contraintes de temps et d'énergie.]] || Vincent NELIS ||
+|| [[http://www.cerkinfo.be/memoires/2006/teheux.pdf|Algorithme d’optimisation par colonie de fourmis : développement et application à la prédiction ab initio de la structure native des protéines]] || Fabien TEHEUX ||
+|| [[http://www.cerkinfo.be/memoires/2006/tocino.pdf|Développement d'un programme d'amarrage protéine-protéine.]] || Juan Carlos TOCINO DIAZ ||
+|| [[http://www.cerkinfo.be/memoires/2006/verhaegen.pdf|Requètes OLAP sur une base de données XML natives.]] || Boris VERHAEGEN ||
+
+=== 2004-2005 ===
+
+|| Sujet || Auteur ||
+|| [[http://www.cerkinfo.be/memoires/2005/sangwo.pdf|Apprentissage inductif appliqué à la conception d'un Workflow Intelligent]] || Yves SANGWO ||
+
+=== 2002-2003 ===
+
+|| Sujet || Auteur ||
+|| [[http://www.cerkinfo.be/memoires/2003/branger.pdf|Approches non Probabilistes pour la Simulation de Systèmes Dynamiques en Présence d'Incertitude : Etude Expérimentale.]] || Frédéric BRANGER ||
+
+==== MA1 - Travaux préparatoires au mémoire ====
+
+=== 2009-2010 ===
+
+FIXME upload les fichiers sur le site du cerk.
+
+|| Sujet || Auteur ||
+|| [[http://www.cerkinfo.be/travaux/ma1/2010/paolillo_tpm.pdf|Analyse multicritère appliquée à la conception de systèmes embarqués]] || [[cipedia:m18|Antonio PAOLILLO]] ||
+|| [[http://www.cerkinfo.be/travaux/ma1/2010/svoboda_tpm.pdf|Partage de ressources dans les systèmes temps réel]] || [[cipedia:lenine|Vladimir SVOBODA]] ||
+
+=== 2008-2009 ===
+
+=== 2007-2008 ===
+
+=== 2006-2007 ===
+
+==== BA3 - Projet de recherche et communication scientifique ====
+
+=== 2009-2010 ===
+
+=== 2008-2009 ===
+
+FIXME upload les fichiers sur le site du cerk.
+
+|| Sujet || Auteur ||
+|| [[http://www.cerkinfo.be/travaux/ba3/2009/paolillo_rechcomm.pdf|Global Positioning System]] || [[cipedia:m18|Antonio PAOLILLO]] ||
+|| [[http://www.cerkinfo.be/travaux/ba3/2009/svoboda_rechcomm.pdf|Les systèmes embarqués]] || [[cipedia:lenine|Vladimir SVOBODA]] ||
+
+=== 2007-2008 ===
+
+=== 2006-2007 ===

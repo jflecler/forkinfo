@@ -1,0 +1,36 @@
+===== Pack de cours: =====
+
+==== Examens ====
+  * Juin 2000
+  * Septembre 2000
+  * Juin 2001
+  * Septembre 2001
+  * Juin 2002
+  * Juin 2003
+  * Septembre 2003
+  * Juin 2004
+  * Septembre 2004
+  * Juin 2005
+  * Septembre 2005
+  * Juin 2006  
+  * Septembre 2006
+  * Juin 2007
+  * Septembre 2007
+  * Juin 2008
+  * Septembre 2008
+
+
+==== Interrogations ====
+  * Mars 2006
+  * Mars 2008
+  * Mars 2009
+
+==== Prix ====
+1,70€
+
+===== Syllabus =====
+Un syllabus est disponible aux PUB.
+
+===== Liens utiles =====
+  * [[http://www.ulb.ac.be/di/scsi/markowitch/algo1/index.html|Sites du cours.]]
+  * [[http://www.ulb.ac.be/di/info-f-103/tp.html|Site des TPs.]]

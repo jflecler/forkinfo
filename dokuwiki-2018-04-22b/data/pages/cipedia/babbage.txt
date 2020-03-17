@@ -1,0 +1,29 @@
+====== L'ordre de Babbage ======
+L'Ordre de Babbage réunis les Vlekkés du Cercle Informatique.\\
+Il regroupe principalement des anciens étudiants (et professeurs) ayant terminé avec succès leurs études en informatique.
+
+===== Mission =====
+L'Ordre de Babbage a pour noble mission de:
+  * Créer un lien inter-générationnel entre les étudiants actuels et les anciens étudiants en informatique.
+  * Permettre aux anciens étudiants en informatique de garder le contact
+
+===== Création =====
+L'Ordre fut fondé en 1997-1998 sous l'impulsion des Présidents Grand Phil et Enghien.
+
+
+===== Membres =====
+La composition de l'Ordre suit la structure suivante:
+  * Les Commodores : membres ayant terminés leurs études en informatique avec succès, qui se sont investis dans la vie estudiantine de manière positive (dans le cadre du Cercle ou non) et s'investissent dans l'Ordre.
+  * Les Vlekkés : membres n'ayant pas fini leurs études. Il s'agit généralement d'étudiants socialement méritants qui deviendont automatiquement Commodore une fois leur diplôme obtenu.
+  * Le GRAND Commodore : le guide et le garant de la pérénité de l'Ordre. Il s'agit pour le moment du Professeur Raymond Devillers.
+  * L'Oracle : ce messager est le secrétaire de l'Ordre. Il a aussi à charge de créer un pont entre le Cercle ("les jeunes débauchés") et l'Ordre ("les vieux bourgeois véreux et parvenus"). Ce poste créé en 2007, est actuellement tenu par [[cipedia:julien|Julien Heck]].
+
+===== Activités =====
+Babbage organise une série d'évènements:
+  * Un banquet annuel pour tous les anciens étudiants en informatique à l'ULB, Commodore ou non, diplômés ou non (auquel les étudiants sont les bienvenus).
+  * Les rencontres du troisième type. Une activité durant laquelle des anciens viennent présenter leur parcours professionnel aux étudiants de licence (ou de master).
+  * Les vendredi de vieux.
+  * Des [[Babbage:archives|retrouvailles diverses]]  
+
+===== Comment devient-on membre? =====
+Le système retenu pour faire partie de cet ordre est la cooptation. Un informaticien est élu Vlekké ou Commodore par la grande assemblée des Commodores qui décident entre-eux des nouveaux membres qu'ils vont accueillir. L'Ordre choisi volontairement de limiter le nombre d'entrants annuels à de rares privilégiés. Les critères de sélection sont les suivants: être étudiant ou ancien étudiant en informatique au moins arrivé en licence (ou en master) ET avoir eu un rôle d'exception dans l'organisation du cercle OU au sein du département informatique.

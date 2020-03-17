@@ -1,0 +1,10 @@
+a:2:{s:7:"current";a:7:{s:4:"date";a:2:{s:7:"created";i:1553003071;s:8:"modified";i:1553003079;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:5:"title";s:40:"Le jeu des 40 Doigs (ou les 1000 Prones)";s:11:"description";a:2:{s:15:"tableofcontents";a:6:{i:0;a:4:{s:3:"hid";s:38:"le_jeu_des_40_doigs_ou_les_1000_prones";s:5:"title";s:40:"Le jeu des 40 Doigs (ou les 1000 Prones)";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:1;a:4:{s:3:"hid";s:8:"materiel";s:5:"title";s:9:"Matériel";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:2;a:4:{s:3:"hid";s:13:"regles_du_jeu";s:5:"title";s:14:"Règles du jeu";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:3;a:4:{s:3:"hid";s:6:"cartes";s:5:"title";s:6:"Cartes";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:4;a:4:{s:3:"hid";s:18:"deroulement_du_jeu";s:5:"title";s:19:"Déroulement du jeu";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:5;a:4:{s:3:"hid";s:10:"historique";s:5:"title";s:10:"Historique";s:4:"type";s:2:"ul";s:5:"level";i:2;}}s:8:"abstract";s:275:"Le jeu des 40 Doigs (ou les 1000 Prones)
+
+Matériel
+
+	*  Une quantité astronomique de Pils (ou de Blanche, voire de Chimay Bleue pour les Hardcore Warriors).
+	*  Les Cartes officielles du jeu.
+
+Règles du jeu
+
+Les règles du jeu sont similaires aux règles du “1000 Bornes";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}s:8:"relation";a:1:{s:10:"firstimage";s:0:"";}}s:10:"persistent";a:3:{s:4:"date";a:1:{s:7:"created";i:1553003071;}s:4:"user";s:0:"";s:7:"creator";s:0:"";}}

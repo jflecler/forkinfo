@@ -1,0 +1,6 @@
+====== Les vieux travaillent ======
+
+  * Rien à faire au travail?: [[boulot:fun games]] est là pour toi! 
+  * Tu es handicapé moteur et tu n'as rien à faire? Que dire d'une petite bande dessinée?: [[boulot:fun comics]] te permettra de passer la journée plus vite!
+  * Tu aimerais t'embetter au travail mais tu n'es encore qu'un oisif inutile qui ne bosse toujours pas ? Ne t'en fais pas <del>bigon</del> staz, grâce à la page [[boulot:entretiens d embauches]] tu vas mettre toutes les chances de ton coté pour trouver le job de tes rêves ! 
+  * Tu aimerais aller voir les derniers ragots ou glander sur facebook mais la politique réseau de ton bureau est paranoïaque-nazi à faire envier les censures internet de Chine et Australie, ce how-to est fait pour toi http://michauko.org/docs/ssh_au_boulot/index.html

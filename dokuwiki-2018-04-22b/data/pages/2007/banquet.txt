@@ -1,0 +1,56 @@
+====== Banquet du cerle informatique 2008 ======
+  * Quand ? 14 mars 2008 
+  * Num. Cpte: 001-4019353-40
+  * Prix : 35 euro
+
+^N°^Qui^Mode de payement ^Payement reçu^ 
+| 1| Amélie         | Virement | oui  |
+|2 | herlock     | Virement | oui |
+|3 | Magg        | Virement | oui |
+|4 | Pierre Alexis    | virement | oui  |
+|5 | Fossile          | ? | ? |
+|6 | John     | virement | oui |
+|7 | Coralie         | ? | Le jour même  |
+|8 | Bernardu   | ? | Le jour même  |
+|9 | Anorak | cash pistache | Le jour même |
+|10 | Souillon | cash pistache | Le jour même |
+| 11| Bram      |virement | oui |
+|12 |Burton          | ? |? |
+|13 | Chaudard  | Virement | oui |
+|14 | Tarkan          | virement |oui |
+|15 | Dash       | Virement | oui |
+|16 | Fred2k       | Virement | oui |
+|17 | Camille Henne      | virement | oui  |
+|18 | Lucie Lannoye     | Virement | oui |
+|19 | Stewball       | virement | oui  |
+|20 | Ethyl        | Virement | oui  |
+|21 | Marc     |Virement | oui |
+|22 | Zdra     | Virement | oui  |
+|23 | Mélanie Forget      | virement | oui |
+|24 | Gluck        | virement  | oui  |
+|25 | ren0        | virement | ?  |
+|26 | Nawak        | virement | oui  |
+|27 | Julien      | virement | oui  |
+|28 | FB | Virement | oui |
+|29 | Markus Lindström | virement | oui |
+|30 | Julie de Raad | ? | ? |
+|31 | Twix | virement | oui |
+|32 | Afrique | virement | oui |
+|33 | Cex | virement | oui |
+|34 | Rémi | virement | oui |
+|35 | K-way | virement | oui |
+|36 | Kujovic | virement | oui |
+|37 | Allblack | virement | oui |
+|38 | Lindsay | virement | oui |
+|39 | Yannick Barthol| virement | oui |
+|40 | Denis Petitfrère(x2) | virement | oui |
+|41 | Rogis | virement | oui |
+|42 | Bichoute | virement | oui |
+|43 | Nil (x2) | virement | oui |
+|44 | Philippe Le Marchand | Virement | oui |
+|45 | Manouchka | Virement | ? |
+|46 | Tuning | Virement | ? |
+|47 | Hawaii | Virement | ? |
+|48 | Vladimir | ? | ? |
+|49 | M18 | ? | ? |
+|50 | Anais | Virement | oui |

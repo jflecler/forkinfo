@@ -1,0 +1,29 @@
+==== MusicOfTheDay ====
+
+L'idée est simple, chaque jour quelqu'un propose un lien vers une musique jugée intéressante et que tout le monde devrait écouter. Le lien devrait pointer si possible vers du contenu html5. L'endroit de proposition est le topic du chan #urlab@freenode. Règle de base : une musique par jour. Le lien doit rester dans le topic jusqu'a la fin de la journée (23h59:59 donc). Premier arrivé premier servi, le premier qui change le lien après minuit gagne le MOTD pour le jour restant. Si vous ne savez pas depuis combien de temps le lien est dans le topic, la commande /topic sur irc permet de savoir quand il a été modifié pour la dernière fois, c'est une bonne heuristic de départ.
+
+=== History ===
+
+Faudrait coder un script qui rajoute chaque MOTD proposée sur irc, date, auteur et titre de la vid si c'est un site connu.
+
+Historique jusqu'au 29 Avril:
+
+  * hsteak THIS IS #GAYLAB https://www.youtube.com/watch?v=twQlpFrm5iM
+  * hsteak https://www.youtube.com/watch?v=NhheiPTdZCw 
+  * hsteak https://www.youtube.com/watch?v=N--vIvatK2Y 
+  * C4ptainCrunch http://youtu.be/hHkKJfcBXcw 
+  * hsteak http://youtu.be/hHkKJfcBXcw
+  * hsteak http://youtu.be/hHkKJfcBXcw
+  * hsteak http://youtu.be/watch?v=oJ-ldcnhsLY
+  * hsteak http://youtu.be/watch?v=oJ-ldcnhsLY
+  * hsteak https://www.youtube.com/watch?v=oJ-ldcnhsLY
+  * haxe http://www.youtube.com/watch?v=PdaAHMztNVE
+  * haxe http://www.youtube.com/watch?v=PdaAHMztNVE
+  * hsteak https://www.youtube.com/watch?v=2DLq4EtSfzU
+  * hsteak https://www.youtube.com/watch?v=qpMvS1Q1sos
+  * C4ptainCrunch http://youtu.be/o018byLnMFM
+  * hsteak https://www.youtube.com/watch?v=sOpVH5c9WLA
+  * haxe http://www.youtube.com/watch?v=yUN8Z6QCQfc
+  * hsteak https://www.youtube.com/watch?v=H15Zq72lu3k
+  * Bram https://www.youtube.com/watch?v=c8PPKvc7OOI
+  * AlterSid http://www.youtube.com/watch?v=R2F-GF3Hx7s

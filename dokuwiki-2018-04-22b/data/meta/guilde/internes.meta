@@ -1,0 +1,13 @@
+a:2:{s:7:"current";a:7:{s:4:"date";a:2:{s:7:"created";i:1543485890;s:8:"modified";i:1290763609;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:5:"title";s:8:"Internes";s:11:"description";a:2:{s:15:"tableofcontents";a:1:{i:0;a:4:{s:3:"hid";s:8:"internes";s:5:"title";s:8:"Internes";s:4:"type";s:2:"ul";s:5:"level";i:1;}}s:8:"abstract";s:468:"Internes
+
+ Template pour Guilde Interne
+
+	* Mercredi 7 avril 2010 : Interne
+	* Jeudi 4 mars 2010 : Interne elective
+
+	* Mercredi 10 février 2010 : Interne elective
+	* Mardi 29 décembre 2009 : Interne Noël avec Cadeaux pour tout le monde
+	* Mercredi 25 Novembre 2009 : Dies Natalis 
+	* Mercredi 18 Novembre 2009 : Interne préparative au Dies Natalis
+	* Mercredi 14 Octobre 2009 : Débriefing du CantuX Initiatique
+	* Mercredi 23 Septembre 2009 : Interne de rentrée";}s:8:"relation";a:2:{s:10:"references";a:36:{s:19:"guilde:template_int";b:1;s:13:"guilde:070410";b:0;s:13:"guilde:040310";b:1;s:13:"guilde:100210";b:1;s:13:"guilde:091229";b:1;s:13:"guilde:091125";b:1;s:13:"guilde:091118";b:1;s:13:"guilde:091014";b:1;s:13:"guilde:090923";b:1;s:13:"guilde:090617";b:1;s:13:"guilde:090504";b:1;s:13:"guilde:090408";b:1;s:13:"guilde:090210";b:1;s:13:"guilde:081126";b:1;s:13:"guilde:081118";b:1;s:13:"guilde:081008";b:1;s:13:"guilde:080917";b:1;s:13:"guilde:080909";b:1;s:13:"guilde:080523";b:1;s:13:"guilde:080430";b:1;s:13:"guilde:080402";b:1;s:13:"guilde:080310";b:1;s:13:"guilde:080206";b:1;s:13:"guilde:071122";b:1;s:13:"guilde:071119";b:1;s:13:"guilde:070831";b:1;s:13:"guilde:070817";b:1;s:13:"guilde:070619";b:1;s:13:"guilde:070511";b:1;s:13:"guilde:070329";b:1;s:13:"guilde:070227";b:1;s:13:"guilde:070205";b:1;s:13:"guilde:061127";b:1;s:13:"guilde:060913";b:1;s:13:"guilde:060616";b:1;s:13:"guilde:0605xx";b:1;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:3:{s:4:"date";a:1:{s:7:"created";i:1543485890;}s:4:"user";s:0:"";s:7:"creator";s:0:"";}}

@@ -1,0 +1,116 @@
+====== Rénovation 131 ======
+
+  * Vider les locaux
+  * Faire les mesures/plans --> Done
+  * Réparer l'appui de fenêtre
+  * Fabriquer des tables + les fixer au mur
+  * Fabriquer un white-board
+  * Changer l'ampoule du palier
+  * Avoir un accès internet
+===== Pièces =====
+==== Void====
+  * Slience complet
+  * Dans un premier temps, on met les armoires dedans
+==== CINoise ====
+  * Tables le long des murs
+==== Vortex ====
+  * Indisponible pour l'instant
+
+===== Peinture/Décoration =====
+
+Il faudra premièrement repeindre quelques murs trop crades (à déterminer)
+Puis on pourra décorer.
+Idées de déco à peindre su les murs : 
+   * http://i.imgur.com/WBwJ3.jpg
+   * http://imgur.com/a/pJrAt#1P34B
+   * https://www.google.be/search?q=stencil&hl=fr&prmd=imvns&tbm=isch&tbo=u&source=univ&sa=X&ei=pkXrT5esDMWu8AOC1YDNBQ&ved=0CGYQsAQ&biw=1366&bih=652
+   * Samurai jack
+     * http://accel21.mettre-put-idata.over-blog.com/3/00/76/01/SJ_litho.jpg
+     * http://accel21.mettre-put-idata.over-blog.com/3/00/76/01/sj19_4.jpg
+     * http://bp0.blogger.com/_20El0OWwyn4/R7AXn0m3yxI/AAAAAAAAAts/_KoMfkOmPcc/s1600-h/sj32_16.jpg
+     * http://3.bp.blogspot.com/_20El0OWwyn4/Rxr1JAnqcPI/AAAAAAAAAkM/pfvy1BCAQ30/s1600/sj24_2.jpg
+     * http://2.bp.blogspot.com/_20El0OWwyn4/R57zMVqUY9I/AAAAAAAAArc/KzdkTDa7LEI/s1600/sj30_23.jpg
+     * http://a402.idata.over-blog.com/3/00/76/01/040_006_B.jpg
+   * inscriptions en language bizarre
+   * la méthode avec les pastilles
+   * les beads
+   * les stickers super mario bros
+===== Plans =====
+Plans réalisés à l'aide du logiciel gratuit multiplateforme "Sweet Home 3D"
+
+  * PDF: https://docs.google.com/open?id=0B3PFeXi-C50vVWxKUExPckZnT2M
+  * fichier source cinoise: https://docs.google.com/open?id=0B3PFeXi-C50vRXJBYUJ6djQxV3c
+  * fichier source corridor: https://docs.google.com/open?id=0B3PFeXi-C50vd1o2TFhwck50cms
+  * fichier source void: https://docs.google.com/file/d/0B3PFeXi-C50venQ2RGhjZHllVG8
+
+<code>
+--------------------------------------------------------------------------------
+
+
+    -----     -----     -----     Avenue Buy    -----     -----     -----     -
+
+                                                                    
+--------------------------------------------------------------------------------
+
+
++------__________--------------------------------__________-_________--------+
+|                           |                                                |
+|                           |                                                |
+|                           |                                                |
+|                           |                                                |
+|                           |                                                |
+|                           |                                                |
+|                           |                                                |
+|          Void             |                                                |
+|                           |                                                |
+|                           |                                                |
+|                           |                                                |
+|                           |                                                |
+|                           |                   Vortex                       |
+|                           |                                                |
+|                           |                                                |
++---------        ----------+                                                |
+|                           |                                                |
+|                           |                                                |
+|                           |                                                |
+|                           :                                                |
+|                           :                                                |
+|                           :                                                |
+|                           |                                                |
+|                           |                                                |
+|                           +------------------------------------------------+
+|                           |                                                |
+|                           |                                                |
+|                           |                                                |
+|                                                                            |
+|         Couloir                                                            |
+|                                                                            |
+|                                                                            |
+|                           |                                                |
+|                           |                                                |
+|                           |                                                |
+|                           |                   CINoise                      |
+|                           |                                                |
+|                           |                                                |
++------------+              |                                                |
+             | ------------ |                                                |
+             | ------------ |                                                |
+             | ------------ |                                                |
+             | ------------ |                                                |
+             | ------------ |                                                |
+             | ------------ |                                                |
+             | --Escaliers- |                                                |
+             | ------------ +----------------_______________-----------------+
+             | ------------ |                                                |
+             | ------------ |                                                |
+             | ------------ |                                                |
+             | ------------ |                                                |
+             | ------------ |                                                |
+             +--------------+                    Terrasse                    |
+                            |                                                |
+                            |                                                |
+                            |                                                |
+                            |                                                |
+                            +------------------------------------------------+
+             
+</code>     

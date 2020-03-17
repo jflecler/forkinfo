@@ -1,0 +1,86 @@
+========= Project 402 =========
+
+
+===== Infos =====
+
+  * Plateforme d'echange de cours
+  * url : http://cours.cerkinfo.be/
+  * dépot : https://github.com/ekatsah/proj402
+  * comment contribuer :
+    - explorer, trouver des bugs et les rapporter (ici en bas ou sur le forum intégré)
+    - uploader des docs
+    - rajouter des cours
+    - développer (voir avec hsteak)
+
+
+===== Bugs =====
+
+**Pour reporter un bug, n'oubliez pas de préciser votre navigateur, la page problématique et le comportement qui déclenche l'erreur!**
+  * sous chrome les overlays plus grand que la page bug
+    * Besoin de détails/précisions
+
+===== Suggestions =====
+  * Allez-y, lâchez vous...
+  * ...
+
+===== Suggestions pour le long terme =====
+Pour attirer soit les users, soit les bureaux.
+  * Canneaux de com' (=news, agenda, ml)
+    * Pour les bureaux
+    * Pour les facs
+    * Pour les profs
+    * Pour les assistants/TP
+    * Pour les délégués (!=bureaux ex: annonces de points, horaires d'exam)
+    * Si on devient assez puissants, pour l'ULB en entier
+
+        
+        
+====== Migrés sur GitHub ======
+==== Bugs ====
+  * "This document is really in ..." faudrait auto-compléter pour que les gens qui ont pas envie de regarder ne prennent pas systématiquement le premier de la liste
+  * utiliser le cache broswer!!
+  * dans l'admin (testé sous chrome) la box des liens (ex : add,detach,...) continue jusqu'au bord droit de la page donc si on clique dans le vide à la même hauteur qu'un lien, bah, en fait, on clique dessus...
+  * Les liens pour éditer et supprimer une catégorie ne marchent pas (testé sous chrome uniquement)
+  * Quand on change le zoom sur un pdf (avec le input: text) on se fait rediriger sur la home (testé sous chrome uniquement)
+    * UPDATE : maintenant, le pdf se met à la bonne taille pour on se fait rediriger vers http://cours.cerkinfo.be/zoidberg?#
+  * les slides du cours de réseaus ont une résolution bien trop petite: http://cours.cerkinfo.be/zoidberg#/document/v/103/
+  * auto remplir la form qui permet d'éditer les informations d'un document
+  * trier les cours dans home/cours/<faculty>/... par ordre alphabétique
+  * ajouter un lien retour à la page /course/view_all
+==== Suggestions ====
+  * Modifier les catégories des pdf (idée : http://piratepad.net/EWO6zIYJVJ)
+  * option pour changer son vote
+  * option pour editer son message
+  * affichage du nom complet au lieu du netID
+  * up/down vote pour les thread et les posts
+  * un markup pour les forums et les commentaires : pourquoi pas un ulb flavored markdown ? (un http://github.github.com/github-flavored-markdown/ adapté à nos besoins + support de latex)
+  * Intégrer les horaires des cours (Pourquoi pas lier geholimport et p402 ?)
+  * si on a du cpu/gpu à cramer, générer 2 aperçus du pdf, d'abord loader le moins bon, puis, si l'utilisateur reste longtemps sur une page ou zoome dessus, charger celui de meilleure qualité
+  * taper un systeme de tableau triable
+  * pouvoir unfollow un cours
+  * auto suggest quand on tape le début du slug d'un cours
+  * remplacer info, close, + et - par des icones sur la page cours
+  * revoir la gestion du fork/document processing pour ne pas butter le server en cas de mass upload
+  * (pour l'année prochaine) pouvoir donner des accès en lecture seule pour ceux qui n'ont pas de netid
+  * Cacher le "Activity" dans "users/templates/user_show.tpl" ou alors remplir la colonne (le tiret peut porter à confusion)
+  * Flux d'actualité pour pas devoir chercher les nouveautés dans chaque cours
+  * Pouvoir s'abonner à plein de cours à la fois (en disant juste la section dans laquelle on est) 
+  * montrer quand y a des commentaires pas lu (par exemple en changeant la barre bleu en orange)
+  * Webmail joli (roundcoube)
+  * Geholimport intégré + export en ical/autre offert
+  * App mobile (surtout pour les horaires)
+  * Ancres:
+
+        <Bram> c'est un truc tout bête en faite mais ça devrait pouvoir être sympa
+        <Bram> là où y avait ton ancien carré pour les commentaires, en haut à gauche
+        <Bram> tu mets une image d'ancre
+        <Bram> quand on clique dessus ou passe la souris dessus ça présente 4 possibilités
+        <Bram> (ou 3, je sais plus, ma mémoire est mauvaise)
+        <Bram> 0. lien vers cette page
+        <Bram> 1. j'ai arrêté ma lecture ici (-> ça sauve cette endroit là pour ce document là, quand le type réouvre le document ça l'envoie ici ou lui propose d'aller ici)
+        <Bram> 2. sauver cette position (-> c'est comme un bookmark pour cette page avec la possibilité de rajouter une description style "exercice sur la chimie qui tombe TOUT LE TEMPS à l'examen" ou "démonstration machin truc pouetpouet" et LA feature chouette en plus: rendre cette ancre publique -> tout le monde partage les endroits clefs d'un texte -> win tout le sait où est tout ce qui est important)
+        <Bram> 3. voir mes ancres pour ce document (-> popup avec la liste des ancres, possibilités de les éditers, les virers et modifier leur visibilité)
+        <Bram> ah ouai
+        <Bram> manque la possibilité de voir le nombre d'ancre publique sur chaque page et de rajouter une ancre publique dans ses ancres à soit
+        <Bram> et de voir au debut/à un autre endroit toutes les ancres publiques sur un document
+        <Bram> hsteak: voilà une killer feature de plus qui permettra à proj402 de gagner la guerre des platforms !

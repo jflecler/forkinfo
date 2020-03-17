@@ -1,0 +1,95 @@
+====== Mardi 10 octobre 2006: Cantus Bleu 2006 ======
+
+
+
+===== Liste des chants =====
+
+TODO : les Cantors mettent la liste des chants qu'ils veulent chanter et l'ordre.
+Si ceux-ci ne se trouvent pas dans leur chansonnier, il faudra les imprimer.
+
+[[https://forkinfo.be/guildegates/3_Documents/chansonnier.pdf|chansonnier de l'an passé (mais qui va peut-être changer)]]
+
+Mettez aussi les no de pages fleurs / carpé pour pas perdre de temps avec ça.
+
+^  titre  ^  Fleurs du male  ^  carpe diem ^ Bleu ^
+| La Bite à Dudule  |  137  |  161  | ?? |
+| Ah que nos pères étaient heureux  |  88  |  99  | |
+| Petite Annick  |  477  |  NA  | |
+| 31 du mois d'aout  |  428  |  120  | ?? |
+| Bal de l'Hôtel-Dieu (Le)  |  281  |  156  | |
+| ballade des cocus  |  130  |  108  | |
+| la femme du vidangeur  |  255  |  72  | |
+| jean gilles  |  297  |  221  | |
+| le cul de ma blonde  |  222  |  217  | |
+| bourguignone  |  94  |  135  | ?? |
+| la ceinture  |  173  |  218  | |
+| hussard de la garde  |  285  |  181  | ?? |
+| la petite charlotte  |  374  |  114  | |
+| clémentine  |  202  |  334  | |
+| nini peau d'chien  |  355  |  211  | |
+| un dimanche  |  232  |  158  | ?? |
+| les fraises et les framboises  |  95  |  172  | |
+| plaisir des dieux  |  382  |  91  | |
+| elephant story  |  465  |  333  | |
+| les moines de st bernardin  |  343  |  126  | |
+| kyrie des moines  |  313  |  188  | |
+| jeanneton  |  312  |  NA  | |
+| joueur de luth  |  308  |  61  | |
+| jeune fille du métro  |  304  |  234  | |
+| hussard de la garde  |  285  |  181  | |
+| le grand vicaire  |  278  |  73  | |
+| le grand metingue du metropolitain  |  276  |  200  | |
+| l'homme au puissant braquemart  |  275  |  255  | |
+| gaudeamus  |  263  |  175  | |
+| les filles des forges  |  262  |  171  | |
+| ma femme est morte  |  256  |  168  | ?? |
+| la femme du roulier  |  252  |  82  | |
+| la digue du cul  |  230  |  157  | |
+| chantons pour passer le temps  |  198  |  142  | ?? |
+| en revenant du piémont  |  100  |  95  | |
+| les marteaux  |  85  |  196  | |
+| La tour de Londes | ?? | ?? | ?? |
+| la bière  |  92  |  112  | ?? |
+| L'aimable fanchon | ?? | ?? | ?? |
+| Bandais-tu ? | ?? | ?? | ?? |
+| La Brabanconne d'une putain | ?? | ?? | ?? |
+| Avez-vous chanté la lune |  NA  |  370  | | 
+| Lied van geen taal |  77  |  50  | |
+| Marche des étudiants |  4  |  18  | |
+
+
+===== Pseudo ordre des chants =====
+
+**Intro**
+  - gaudeamus (**TODO**)
+  - CI
+
+**1er Tempus**
+  - le cul de ma blonde (**TODO**)
+  - bourguignone 
+  - la digue du cul (**TODO**)
+  - jean gilles (**TODO**)
+  - Avez vous chanté la lune //(histoire de montrer qu'on fait aussi des chants ainsi en cantus)// (**TODO**)
+  - elephant story (**TODO**)
+  - La Brabanconne d'une putain 
+  - joueur de luth (**TODO**)
+  - un dimanche 
+  - La Bite à Dudule
+  - chantons pour passer le temps
+  - les marteaux (**TODO**)
+
+**2nd Tempus**
+
+  - La bière
+  - bourguignone
+  - la ceinture (**TODO**)
+  - La tour de Londres
+  - hussard de la garde
+  - Bandais tu ?
+  - L'aimable Fanchon
+  - les moines de st bernardin (**TODO**)
+
+  - Lied Van Geen Taal (**TODO**)
+  - Marche des étudiants (**TODO**)
+  - Semeur
+  - Mère Gaspard

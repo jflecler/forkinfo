@@ -1,0 +1,7 @@
+====== Wikification ======
+Utiliser le wiki pour toute l'organisation.
+
+  * K : Il faut compléter le tableau des entreprises.
+  * K : J'ai créé une [[accenture|ébauche]] de template pour la page de chaque entreprise. Elle contiendrait l'adresse de contact du reponsable, le mot de description de l'entreprise pour le livret ainsi que les éventuelles remarques organisationnelles liée à cette boite. N'hésitez pas à l'améliorer avant qu'on le déploit sur les pages de chaque boite.
+  * K : Le reponsable de chaque tâche doit créer une page avec les infos inhérentes à cette tâche.
+  * K : Essayons de rester clair et concis afin d'éviter que cela ne devienne un bordel. 

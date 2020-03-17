@@ -1,0 +1,20 @@
+a:2:{s:7:"current";a:7:{s:4:"date";a:2:{s:7:"created";i:1508138722;s:8:"modified";i:1288096664;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:5:"title";s:5:"David";s:11:"description";a:2:{s:15:"tableofcontents";a:9:{i:0;a:4:{s:3:"hid";s:5:"david";s:5:"title";s:5:"David";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:1;a:4:{s:3:"hid";s:5:"infos";s:5:"title";s:5:"Infos";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:2;a:4:{s:3:"hid";s:19:"parcours_academique";s:5:"title";s:20:"Parcours académique";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:3;a:4:{s:3:"hid";s:16:"comite_de_cercle";s:5:"title";s:17:"Comité de cercle";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:4;a:4:{s:3:"hid";s:20:"parcours_folklorique";s:5:"title";s:20:"Parcours folklorique";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:5;a:4:{s:3:"hid";s:7:"famille";s:5:"title";s:7:"Famille";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:6;a:4:{s:3:"hid";s:8:"parrains";s:5:"title";s:8:"Parrains";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:7;a:4:{s:3:"hid";s:8:"filleuls";s:5:"title";s:8:"Filleuls";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:8;a:4:{s:3:"hid";s:6:"divers";s:5:"title";s:6:"Divers";s:4:"type";s:2:"ul";s:5:"level";i:2;}}s:8:"abstract";s:310:"David
+
+Infos
+
+Nom: Scory 
+
+Prénom: David 
+
+Surnom(s): Cex, Kwet 
+
+Date de naissance : 22/02/1985 
+
+
+Parcours académique
+
+	*  2004-2005 Première BAC 1 en Informatique à l'ulb.
+	*  2005-2006 Deuxième BAC 1 en Informatique à l'ulb.
+	*  2006-2007 Troisième BAC 1 en Informatique à l'esi.
+
+Comité de cercle";}s:8:"relation";a:2:{s:10:"references";a:21:{s:20:"cipedia:anniversaire";b:1;s:12:"cipedia:2004";b:1;s:12:"cipedia:2005";b:1;s:12:"cipedia:2006";b:1;s:12:"cipedia:2007";b:1;s:12:"cipedia:2008";b:1;s:17:"cipedia:gargantua";b:0;s:17:"cipedia:edith_cps";b:0;s:19:"cipedia:barbara_cps";b:0;s:16:"cipedia:stewball";b:1;s:12:"cipedia:zdra";b:1;s:15:"cipedia:herlock";b:1;s:15:"cipedia:serveur";b:1;s:23:"cipedia:braine-le-comte";b:1;s:17:"cipedia:parachute";b:0;s:15:"cipedia:mpokora";b:0;s:15:"cipedia:dollars";b:1;s:19:"cipedia:starterpute";b:0;s:24:"cipedia:tintin_et_dupont";b:0;s:13:"cipedia:16ans";b:0;s:16:"cipedia:caranova";b:0;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:3:{s:4:"date";a:1:{s:7:"created";i:1508138722;}s:4:"user";s:0:"";s:7:"creator";s:0:"";}}

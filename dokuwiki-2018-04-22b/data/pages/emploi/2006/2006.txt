@@ -1,0 +1,42 @@
+====== Forum pour l'emploi 2006 ======
+
+===== Résumé des entreprises =====
+
+^ Nom   ^  Contrat signé ^ Facture envoyée ^ Facture payée ^ Mot présentation ^
+| [[accenture|Accenture]] | oui | oui | oui | oui |
+| [[wsl|WSL]] | oui | oui | oui | oui |
+| [[ing|ING]] | oui | oui | oui | oui |
+| [[arhs|ARHS]] | --- | --- | --- | --- |
+| [[ibm|IBM]] | oui | oui | **non** | oui |
+| [[smals|SmalS]] | oui | **non** | oui | **non** |
+| [[poste|La poste]] | oui | oui | oui| **non** |
+| [[toyota|Toyota]]  | --- | oui | **non** | oui |
+| [[zope|Zope]]  | --- | oui | **non** | -- |
+| [[neos|Néos]]  | --- | oui | oui | -- |
+| [[cellule emploi|Cellule Emploi ULB]]  |  |  |  |  |
+
+===== Tâches =====
+
+==== À faire ====
+^ Nom ^ Responsable ^
+| [[ sup | Pub école sup ]] | Chaudard |
+| [[ spam | Spam aux valves et étudiants ]] | John |
+| [[ annonce2 | Annonce auditoire 2e licence ]] | Gigo John |
+| [[ annonce1 | Annonce auditoire 1ère licence ]] | Chaudard |
+
+
+==== Fait ====
+^ Nom ^ Responsable ^
+| [[ wiki | Wikification ]] | Kujovic |
+| [[ etat | État des entreprises ]] | Julien |
+| [[ horraire | Vérifier horraire ]] | Kujovic |
+| [[ plan | Plan du Hall ]] | Kujovic |
+| [[ presentation | Faire un mot de présentation ]] | John |
+| [[ programme | Définir ordre de passage des entreprises ]] | Julien |
+| [[ stands | Faire un plan des différents stands et l'envoyer aux boîtes ]] | Gigo |
+| [[ elec | Connexions électriques ]] | Kujovic |
+| [[ audio | Micro et projecteur ]] | Kujovic |
+| [[ panneaux | Panneaux ]] | Julien |
+| [[ livret | Livret de Présentation ]] | Gigo Kujovic |
+| [[ tables | Tables et chaises ]] | Julien |
+| [[ traiteur | Traiteur ]] | ALL |

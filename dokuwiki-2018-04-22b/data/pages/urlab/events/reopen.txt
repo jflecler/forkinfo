@@ -1,0 +1,40 @@
+===== (Ré-)ouverture d'été =====
+
+==== Date ====
+[[http://www.doodle.com/5cvg2ri7ny3y3tyb#table|Décidons là !]]
+
+==== Programme ====
+  * Réunion
+  * Conférence de présentation de p402 (et ateliers p402/django pour les intéressés + coordination de la workforce)
+  * autres conférences et altiers ?
+    * hsteak : robots ?
+    * cassidy : git ?
+    * burton : nosql ?
+    * ...
+  * atelier amélioration du 131
+  * BBQ + clubmate \o/
+  * lan-party :
+    * Urban Terror : [[http://www.urbanterror.info/home/]]
+    * <insert idea here>
+  * <insert idea here>
+
+
+---------
+
+Bonjour à tous,
+
+Certains d'entre nous sont encore en examens mais voici venu le temps de penser un peu à nos activités pour ce début d'été.
+
+Afin de bootstraper tout ça, je me rend compte qu'avec toutes nos démarches administratives, puis avec les examens, nous n'avons pas vraiment eu l'occasion de fêter l'ouverture de notre hackerspace.. le temps est donc venu de le faire, et un petit BBQ semble donc se profiler à l'horizon :)
+
+Pour compléter le tout, Bram proposes de nous présenter le framework de développement web Django (utilisé notamment pour le projet de plateforme étudiante, dont nous parlerons aussi à cette occasion) via l'organisation d'un workshop sur le sujet.
+
+Je vous demanderais donc de bien vouloir remplir le doodle suivant histoire que l'on puisse voire quel est le jour le plus propice pour organiser tout ça:
+
+http://www.doodle.com/5cvg2ri7ny3y3tyb
+
+En attendant, le hackerspace est actuellement ouvert durant la journée (comme d'hab, contactez-nous sur IRC (#urlab sur irc.freenode.net) ou par sms (O4868O8858) si vous voulez vérifier), n'hésitez donc pas à venir y faire un tour.. nous sommes toujours à la plaine mais déménagerons d'ici peu vers l'avenue Buyl.
+
+A bientôt!
+
+Cédric

@@ -1,0 +1,16 @@
+====== Ticket d'à-fond ======
+
+Origine chez bernardu
+concept à développer
+
+
+  * Le membre désigné par le ticket ne peut refuser l'à-fond , question d'honneur.
+  * l'a-fond est a réglé tout de suite quelque soit l'heure du jour .
+  * Il existe un ticket par membre. 
+  * une fois que la victime a a-fonné elle garde le ticket.
+  * le nombre d'à-fond infatigable avec les ticket n'est pas cumulable.
+  *  ...
+
+
+----
+** < Un commentaire, un ajout, une modification => [[cipedia:faf|par ici...]] >**

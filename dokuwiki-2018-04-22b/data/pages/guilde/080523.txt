@@ -1,0 +1,147 @@
+====== Interne du vendredi 23 mai 2008 ======
+
+===== Ordre du jour =====
+** !!! Faire la fête paske c'est vendredi !!! **
+
+== 1. Interne, fonctionnement et décision ==
+  * Qu'est-ce qu'une interne
+  * Réunion du Collège
+  * Gestion des ML
+
+**Message originel**
+
+Lors de la dernière interne, certains camarade m'ont fais par de leur sentiments quand aux prises de têtes, au trop sérieux, à la non adéquation des internes par rapport à ce qu'elles étaient et ce qu'elles devraient être. Un doigt a aussi été mis sur le fait que la majorité des débats concerne une minorité des camarades présents (minorité ayant le droit de vote). BREF et en clair, notre fonctionnement actuel n'est pas optimal et il faudrait y penser.
+
+Après quelques jours de réflexions, je dois admettre qu'il est vrai que c'est pas génial du tout au vu des axes suivants:
+  - Il existe un collège et un grand senior reprennant des élus à qui la gestion journalière a été confiée
+  - Ces personnes ont le pouvoir de prendre des décision et il leur reste loisible de s'informer AVANT ou d'informer APRES afin que la communication reste optimale.
+  - Passer en revue un OJ dans la structure d'une interne telles qu'on les connait actuellement devient lourd, long et chiant, surtout pour ceux qui ne se sentent pas concernés (et ca ne fait que renforcer le sentiment de déresponsabilisation vu que de toute façon ces personnes ne voteront pas)
+  - Une interne est par essence un moment fédérateur, constructeur et éducatif interne et un long débat ne va pas en ce sens quand tout le monde a juste envie de boire et chanter.
+  - se prendre la tête dans une configuration corona en buvant des bières, ca n'abouti jamais.
+
+Ainsi, l'heure est venue de fonctionner différemment et de simplifier la chose pour le plus grand bonheur de tous. Comme le disait ce bon vieux Léonard de Vinci, "la simplification est la sophistication suprême"!
+
+Voici ma vision de la simplicité:
+  - Une externe, c'est un Cantux avec des peoples extérieurs, mené à la sauce Guilde Gates
+  - Une interne, c'est un Cantux avec que nous sauce que nous. On s'y amuse sans éléments pertubateurs extérieurs, on se prends des délire, on apprend, et ce parfois avec un invité. 
+  - Pour organiser tout cela, ya les perévôts et le grand senior. C'est EUX les élus, c'est EUX qui gèrent. Ainsi, ils ont évidemment besoin de faire des réunions mais pas spécialement lors d'une interne.
+  - Pour ne pas tomber dans des problèmes de communication, il faut quand même un moment ou les élus tiennent les autres au courant, et ça, ca peux se faire en 10 minutes lors d'une phase informative en interne, moment qui rassemble la majorité des camarades actifs.
+
+Une autre chose intéressante découle de ce constat, l'utilisation de la ML doit aussi être cohérente. Ca fait longtemps que je (et je ne suis pas le seul) me demande si tous les mails que nous nous envoyons (pour une minorité) doivent polluer la boite de tous les Camarades... L'avantage évident c'est qu'on est sur que tout le monde à tout mais il est clair, et certains le vivent au jour le jour, que tout n'est pas lu (voir directement redirigé vers SPAM)! Dés lors, un mail récapitulatif serait bien plus intéressant. (oui Fox tu peux dire que tu l'avais bien dit).
+
+Il va évidemment y avoir des problèmes suite à ce changement: certaint auront peur de ne pas pouvoir s'exprimer, d'autres contesteront des idées ou des faits à postériori car ils n'auraient pas fait comme ca et enfin, il y aura ceux qui auront peur de la manipulation, des décisions secretes sans demander l'avis de personne,... On en revient donc à la confiance placée lors des élections. Par ailleurs, le vote est effectué par les même personnes, qu'il y ait eu discussion ou non... Enfin, 'faut pas etre parano, c'est une Guilde et on a tous envie qu'elle aille bien.
+
+Ainsi je propose le fonctionnement et les modifications suivantes:
+  - Externes: rien ne change
+  - Internes: l'OJ ne sera plus orienté débat/décision mais aura uniquement un rôle informatif envers les Camarades vis-à-vis des récentes décisions impactant la Guilde.
+  - Réunion du Collège/GS: les OJ tels qu'on les connait aujourd'hui seront passé en revue lors d'une réunion de type réunion de comité de cercle. C'est a dire que tout le monde pourra toujours y ajouter un point et que le Collège/GS pourront se renseigner au besoin chez les camarade. Enfin, lors de cette réunion, ils (les élus) prendront une décision. Il y aura toujours des PVs. En clair, on fait juste du moment sétrieux d'une interne, un moment à part exécuté par les concernés. L'interne retrouve son essence et le travail retrouve son sérieux.
+  - ML Guilde@cerkinfo.be: servira pour communiquer les OJ, les dates, les informations, bref comme maintenant SAUF QUE l'organisation pratique des interne et des externe n'y seront plus débatue.
+  - ML Collège@cerkinfo.be (je dois évidemment encore la demander): reprendra tous les membres élus et leur permettra d'organiser le détail des activités sans polluer tout le monde.
+
+Dernière chose, j'ai regardé si le CodeX devait etre changé pour cela et il aparait que non:
+  - on ne change en rien des droits et devoirs de qui que ce soit
+  - on ne change en rien les externes
+  - on ne change pas les interne, il y a toujours une partie "sérieuse" mais uniquement informative. Et dans le codex on a juste mis "parcours de l'OJ". Ainsi, il appartient encore une fois aux élus de faire un OJ d'information, d'informer les camarades et c'est torché.
+  - pas besoin de définir le concept de réunion du collège/GS, ca relève de la gestion journalière, c'est une méthode de fonctionner, pas besoin de la définir.
+
+
+**Afin d'aider à la réflexion, voici quelques brides de la discussion sur la ML. Dans un souci de clarté et paske trop d'info tue l'info, j'ai du coupé certaines interventions, merci de ne pas vous baser UNIQUEMENT sur la table ci-dessous en reprennant les maiols originaux au besoin :-)**
+
+^Nom^Commentaire^
+|JP|... Est ce bien l'orientation que nous voulons prendre, et separer reunions des internes pour pouvoir faire des cantus entre nous, ou n'allons nous faire de vrais cantus que pendant les externes ? la deuxieme option a l'avantage d'avoir une transparence complete et que tout le monde est toujours au courant de tout mais si ca passe parfois pour du spam. ce phenomene engendrait un esprit d'equipe et de cohesion vu que tout le monde s'impliquait fortement dans tous les debats, allant de la refaction du codex a la question de " le bureau est il dans la corona". mais bien sur on ne chante pas beaucoup ... en ce qui concerne mon avis personnel, vous l'avez peut etre remarque dans mon argumentation, ben je suis pour faire des cantux purs et durs uniquement pendant les externes, on aura ainsi des peto cantum massifs devant les delegations|
+|Rony, Cecs, Rougis|on ne pourrait pas plutot avoir Guilde@cerkinfo.be et GuildeLight@cerkinfo.be par exemple ? afin que ceux qui désirent quand meme participer aux discutions ayant actuelement lieu sur la ml (ou simplement se tenir "plus" informé puissent le faire sans pour autant etre dans le Collège? avec GuildeLight = subset de Guilde (ou un autre nom...).|
+|Rougis|Le truc qui m'embête réellement est que pendant les internes, on a le cul assis entre deux chaises. J'ai l'impression qu'on a plus assez de temps pour parler sérieusement et qu'on a plus assez de temps pour chanter. En clair, on fait les trucs à moitié!|
+|Cecs|Je pense que le problème est du au nombre de gens présent en interne. Il y a de plus en plus de monde, des gens qui s'en foutent un peu des discutions et beaucoup plus d'avis aussi. Bref cela prend beaucoup plus de temps qu'avant.|
+|Chaudron|Le probleme je trouve c'est surtout quand les discutions prennent tout le temps de l'interne. Ceci est du à des OJ trop charger. Serait-il possible de les aléger -> plus d'interne ... à voir. La dernière interne a pour ma part assez bien concilier les deux. Pas trop de blabla, même si c'etait pas toujours super efficace (mais quelle discution l'es) et plein de chants.|
+|JP|quelle que soit la solution, on a le probleme global du melange reunion - cantus.il faut donc soit (1) chanter aux externes, reunioner aux internes et prevenir ensuite les gens absents par mail de ce qui s'est passe soit (2)chanter aux externes avec les deleg, reunioner en comite restreint , chanter en interne ente nous et informer les gens de ce qui a ete decide a la reunion precedente et ensuite informer par mail vu qu'il y a toujours des absents.|
+
+== 2. Calendrier (N'oubliez pas de prendre vos agendas avec vous.) == 
+  * Prochaines internes et externes (E 25 avril? I 1er Aout?)
+  * On fait quoi pendant les vacances?
+  * Banquet (décembre ou février)
+
+== 3. Divers ==
+  * T-Shirts (projet de Fox) [116/20 < 6€]
+  * Festival (Julien)
+  * Drapeau (projet de Gluck)
+
+
+===== Procès verbal =====
+
+== 0. Compte rendu de la réunion du Kernel ==
+Le Codex 2.1 voit le jour, les modifications suivantes ont eu lieux:
+  * approbation du logo couleur vectorialisé et du nouveau logo noir et blanc. Documents disopnibles à l'annexe A
+  * Liste récapitulative des formules d'usages acceptées et présente à l'annexe D 
+  * Modification de la prière de l'impétrant chap III.C.2
+  * Approbabtion du chapitre IX: Us et coutumes
+La Guilde Gates dispose donc maintenant d'un CodeX consolidé complet, fêêêêête!
+
+== 1. Interne, fonctionnement et décision ==
+La discussion fut courte et précise: les internes ne peuvent plus se passer comme avant, il faut que les gens élus (Collège+Grand Senior) prennent leurs responsabilité et limitent au minimum les phases débat + décision en interne. Ainsi, il devrait se réunir de temps en temps afin d'effectuer le travail de gestion journalière nécessaire (organisation des interne/externes, évolution de la guilde, gestion des comptes, des PV, tout ca...
+
+LE point important est que la volonté suivante existe: si un membre non élu veut pouvoir donner son avis ou etre tenu au courant de ces réunions et de ce qu'il s'y dit, ca doit etre possible. Ainsi, ces réunions seront poubliques à tous les membres désireux de s'y rendre (et donc pas Impétrants et postulants, pas la peine de les surcharger ni  de surcharger nos débats.
+
+Un nouveau médium de communication va donc voir le jour: une seconde mailing liste: guilde-orga@cerkinfo.be. Celle-ci sera initiallement une copie conforme de la ML Guilde@cerkinfo.be et les gens qui ne souhaitent pas etre pollué par les discussions, débat, décision, pourront simplement se désinscrire. Pour le futur, les nouveaux memebres seront toujours ajouté aux deux ML et devront se désinscrire manuellement, ce qui garanti un chois individuel et personnel.
+
+**En conclusion:**
+  * ** Création du concept de réunion comité pour le Collège, le Grand Senior et tout ceux qui veulent.**
+  * ** La ML Guilde@cerkinfo.be ne servira dorénavant plus que pour les infos générales et la pub/réaction sur les internes, externes.**
+  * ** La ML Guilde-orga@cerkinfo.be est créée pour tout ce qui est organisation, discussion, débats, décision, réunion de Collège etc. Y seront inscrits par défaut tous les nouveaux membres. Si ceux-ci ne souhaitent pas etre tenu informé, ils pourront toujours se désinscrire.**
+  * ** Nos internes seront dorénavant des CantuX avec un petit point informatifs lors de la première partie en cas de besoin.**
+
+== 2. Calendrier (N'oubliez pas de prendre vos agendas avec vous.) == 
+  * prochaine externe: le **26** juin
+  * prochaine interne le **8** aout
+  * Banquet à préparer le 13 ou 20 Février
+
+== 3. Divers ==
+  * T-Shirt: Toujours 116 EUR / 20, on les attends de la part de Fox...¨
+  * Festival: Julien est passé nous donner queqleus photocopies de chants présentés par le passé, Rony va mettre ca on line, et on en reparle plus en profondeur après les exams...
+  * Drapeau: Gluck s'en occupe et en fera un cousu, Kujo s'engage à mettre un bac de leffe radieuse si cela se fait! Il faudra évidemment que le drapeau ressemble à qqch.
+
+
+===== Organisation =====
+  * <del>Bloquer une date</del>
+  * Fixer un RDV: \\
+18h30: Réunion du Conseil du Kernel à l'endroit choisi\\
+19h30: Retrouvaille entre camarade et on mange comme ca c'est fait?\\
+20h00: Début de l'interne avec un seul vrai point à l'OJ.\\
+00h30: Fin de l'Interne et nettoyage\\
+01h00: Fermeture de la rabelais.\\
+  * Réserver un lieu (cercle, rabelais2, ...): **Au cerk**
+  * Récupérer les clefs: **Dash**
+  * Arriver à l'avance pour tout préparer: **Le conseil du Kernel**
+  * Rangement/nettoyage: **Tout le monde**
+  * Comptage des stocks restants: **FUX**
+
+=== Infrastructure sur place ===
+  * Pompe fonctionnelle (si on fait ça aux fûts)
+  * Bières (décider, par rapport à l'ampleur de l'évènement, de quelle quantité on va avoir besoin) **Mag et Bram**
+  * Bouffe: **Mag et Bram**
+  * Cruches: **On s'en branle**
+  * Tables/Chaises: **Le Conseil du Kernel**
+  * Bougies: **pas de bougies, JP n'est pas la**
+  * Briquet: **Dash**
+  * Fond de caisse: **Mag**
+
+=== Je ferai des affonds récompenses paske je viens ===
+  * Dash
+  * Kujo
+  * Gluck
+  * fred2k
+  * Chaudard
+  * Géraldine (invitée)
+  * Pizza Hut
+  * Stradivarius
+  * Rony
+
+=== Je ferai des affonds pénitences car je ne viens pas ===
+  * Cecs
+  * Fox (qui fera aussi des affonds si son équipe devient championne de water polo)
+  * Mag
+  * Régis
+  * JP
+  * BLC
+
+
+===== Commentaires =====

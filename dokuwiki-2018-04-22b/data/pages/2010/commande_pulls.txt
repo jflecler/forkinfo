@@ -1,0 +1,96 @@
+====== Commande de pulls, t-shirts et polo pour le cercle: ======
+
+__**Les pulls sont arrivés. Ils ne seront délivrés que s'ils ont été payé au préalable.**__
+
+Le prix d'un pull s'élève à 20€ et d'un T-shirt à 5€. Veuillez payer par virement sur le compte du cercle (001-4019353-40
+) avec la communication "x Pull - x t-shirt pochtron/cercle - Nom avec lequel vous vous êtes inscrit sur cette page".
+
+====== Commande ouverte ======
+
+
+
+===== Pulls (racaille): =====
+
+Légende : X = ok; M² = Au Mercredi Méchant
+
+==== De cercle: ====
+^Nom^Taille^Payement reçu^Reçu^Délivré^
+|Lise |M |oui | X | oui |
+|Kevin Chentout | M | oui | X | oui |
+|Kevin Chentout | XL | oui | X | oui |
+| E. Baleine | XXL | oui | X | non |
+| Seizan | L | non | X | Non |
+| Bidet | XL | non | X | Non |
+| Vitaly | L | oui | X | oui |
+|Marie GHYSBRECHT | L | oui | X | oui |
+| Pejman | M | oui | X | oui |
+
+==== De comité: ====
+(avec votre poste + l'année marqué dessus)
+^Nom^Taille^Payement reçu^Inscription^Reçu^Délivré^
+| Crevette | M | oui | Crevette | X | oui |
+| Simon Says | XL | oui |Simon Says | X | oui |
+|Florent Outang| M | oui | Flu | X | oui |
+|Aim| S | oui| Aims | X | oui |
+| hastake | L | oui | hastake - /bar/ - 2009-2010 | X | oui |
+| hastake | L | oui | hastake - The Game | X | oui |
+| Anorak | L | oui | Anorak - <del>Vice-Panda</del> Comitard Pignouf - 2009-2010 | X | Non |
+| DeluXe. | L | oui | DeluXe. - Casse pieds officiel du forum 2009-2010 | X | oui |
+| M18 | L | oui | M18 - Délégué cours 2009-2010 | X | oui |
+| M18 | L | oui | The Beast - Comitard de baptême 2009-2010 | X | oui |
+| Morpionne | M | oui | Morpionne - Déléguée Photos - 2009-2010 | X | oui |
+| Morpionne | M | oui | Morpionne - Comitarde de cercle 2009-2010 | X | oui |
+| Jordy | M | oui | Jordy - Délégué Cours 2009-2010 | X | oui |
+| Duff  | XXL | oui | Duff - Président 2002-2003 | X | Non |
+|Steph| S | oui | Steph - Déléguée Bal et Fêtes 2009-2010| X | oui |
+| LaCrampe | L | oui | LaCrampe - Comitard de cercle - 2009-2010 | X | Non |
+| Gnap | L | oui | gnap - Comitard de Cerk 2009-2010 | X | oui |
+| Gnap | L | oui | gnap - The Game | X (connard) | oui |
+| Dollars | XL | oui | Dollars - Comitard de cercle 2009-2010 | X | oui |
+| Dollars | XL | oui | Dollars - The Game | X | oui |
+| BLC | L | oui | Bois-la-Cara - Comitard de Baptême 2009-2010 | X | oui |
+| Starter | L | oui | Starter - Comitard de cerk 2009-2010  | X | oui |
+| Chuck_Norris | XL | oui | Chuck Norris - Comitard de cerk 2009-2010  | X | oui |
+| Chuck_Norris | XL | oui | Chuck Norris - Conteur de Cerk  | X | oui |
+| Morticia | L | non | Morticia - Déléguée Bal et MTSM 2009-2010 | X | Non |
+| Cex | XL | oui | Cex - Glandeur de cercle et de baptême 2006-2009 | X | oui |
+| twolife | XL | oui | twolife - Bleu 20xx | X | oui |
+| twolife | XL | oui | twolife - The Game | X | oui |
+| burton | XL | oui | burton - Panda de Baptême 2009 | X | oui |
+| burton | XL | oui | Panda - The Game | X | oui |
+| Giulia | M | oui | Giulia - Castratrice de panda | X | oui |
+| Porno | L | oui | Porno - Comitard de Cercle 2009-2010 | x | oui |
+| 3vie | L | oui | 3vie - Secrétaire 2009 - 2010 | X | oui |
+| Modération | XL | oui | Modération - Forum de l'emploi 2009-2010 | X | oui |
+| Lénine | L | non | Lénine - Délégué FOSDEM 2009-2010 | X | non |
+| M18 | XL | oui | Le Roux - The Reaper | X | oui |
+| Moefty | L | oui | Moefty - Délégué FOSDEM 2009-2010 | X | oui |
+| Allblack | XXL | oui | Allblack - (Vice)Président de Cercle 2009-2010| X | oui |
+| Allblack | XXL | oui | Allblack - Comitard de Baptême 2009-2010 | X | oui |
+| Olivier Sputael | XL | oui | Geekson - #entity programmer 2007-20?? | X | oui |
+| Mag | XXL | oui | Mag - Présidente de baptême 2008-2009 | X | oui |
+
+===== T-shirt: =====
+
+==== De cercle: ====
+^Nom^Taille^Payement reçu^Reçu^Délivré^
+| M18 | L | oui | X | oui |
+|Kevin Chentout | M | oui | X | oui |
+|Kevin Chentout | XL | oui | X | oui |
+| Modération | XL | oui | X | oui |
+| Péjmann | M| oui| X | oui |
+
+==== Falculté de pochtron: ====
+^Nom^Taille^Payement reçu^Reçu^Délivré^
+| M18 | L | oui | X | oui |
+| M18 | XL | oui | X | oui |
+| M18 | L | oui | X | oui |
+| Gnap | M | oui | X | oui |
+| Dollars | L | oui | X | oui |
+| BLC | L | oui | X | oui |
+| Chuck_Norris | XL | oui | X | oui |
+| hastake | XL | oui | X | oui |
+| Bidet | XL | non | X | Non |
+| Seizan | L | non | X | Non |
+| Moefty | L | oui | X | oui |
+| Vitaly | L | oui | X | oui |

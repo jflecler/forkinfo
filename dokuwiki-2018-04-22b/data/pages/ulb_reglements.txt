@@ -1,0 +1,14 @@
+===== Ensemble des règlements auxquels le Cercle Informatique est <del>malheureusement</del> soumis =====
+
+==== Récapitulatif ====
+|Le Vade Mecum 08-09 de l'ACE rédigé en collaboration avec les autorités|[[http://www.cerkinfo.be/~vpe/200809/divers/VADEMECUM0809.pdf|PDF]]|
+|Charte horaire 08-09 de l'ACE|[[http://www.cerkinfo.be/~vpe/200809/divers/charte%20horaire%202009.doc|DOC]]|
+|Amendes à la jefke 08-09 |[[http://www.cerkinfo.be/~vpe/200809/divers/amende%20a%20la%20jefke.doc|DOC]]|
+|Autre informations (charte ACE, formulaires jefke)|[[http://www.ace-ulb.be/|site]]|
+
+====ResUlb:====
+__Remarque:__ ResUlb passe par BELNET et est par conséquent soumis à son règlement ce qui n'est pas signalé de manière très évidente sur leur site.
+
+  * http://www.ulb.ac.be/ulb/resulb/reglement.html
+  * http://www.belnet.be/fr/index2.php?upnr=122
+  * http://www.ulb.ac.be/ulb/greffe/docs/regle-communaute.html

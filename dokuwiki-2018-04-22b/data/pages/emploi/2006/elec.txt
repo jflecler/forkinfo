@@ -1,0 +1,4 @@
+====== Connexion électriques ======
+Il faut s'assurer d'avoir des connections électriques disponibles avec multi prises pour chaque stand.
+
+Il y a 4 prises derrières chaque pillier, ça devrait être bon.

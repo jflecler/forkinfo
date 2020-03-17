@@ -1,0 +1,35 @@
+===== Pack de cours: =====
+
+
+==== Examens ====
+  * Janvier 2001
+  * Septembre 2001
+  * Janvier 2002
+  * Septembre 2002
+  * Janvier 2003 + correction
+  * Septembre 2003
+  * Janvier 2004
+  * Septembre 2004
+  * Juin 2005
+  * Septembre 2005
+  * Juin 2006
+  * Septembre 2006
+  * Juin 2007
+  * Juin 2008
+
+
+==== Autres documents ====
+  * Résumé des algorithmes du cours
+
+==== Prix ====
+1,60€
+
+===== Syllabus =====
+Deux syllabus sont disponibles aux PUB:
+  * Le premier concerne le cours théorique.
+  * Le second concerne les TPs et inclut, outre les énoncés, la correction de certains exercices.
+
+===== Liens utiles =====
+  * [[http://homepages.ulb.ac.be/~bfortz/INFO-F-203.html| Site du cours.]]
+  * [[http://www.ulb.ac.be/di/scsi/markowitch/algo2/| Ancien site du cours.]]
+

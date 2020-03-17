@@ -1,0 +1,91 @@
+====== Introduction ======
+Cette page a pour but d'expliquer comment remplir les papiers à remettre au tribunal de commerce pour la mise en ordre des statuts d'une ASBL.
+
+====== Site internet utile ======
+http://www.ejustice.just.fgov.be/tsv_pub/index_f.htm : le site du moniteur belge, on peut ici trouver les différents formulaires a remplir, certaines explications et les différents actes postés par les ASBLs.
+
+====== Changement dans le conseil d'administration ======
+===== Payement =====
+Il faut premièrement effectuer un virement à l'attention du moniteur belge, les informations peuvent être trouvée ici : http://www.ejustice.just.fgov.be/tsv_pub/tarif_f.htm\\
+Il faut ensuite imprimer un extrait de compte.
+===== Formulaires =====
+Il vous fait remplir les formulaires I et II comme indiqué ici : http://www.ejustice.just.fgov.be/tsv_pub/asbl_2013.pdf
+==== Formulaire I ====
+=== Volet A ===
+Il s'agit simplement du nom de l'ASBL, sa localité et du numéro d'entreprise (828629131 pour le CI)
+
+== Exemple ==
+http://www.hapshack.com/images/QLM01.png
+
+=== Volet B ===
+Il faut remplir l'en-tête, c'est assez simple, dans "Objet de l'acte" notez : "P.V. de l'assemblée générale du JJ/MM/AAAA : démissions d'administrateurs, nominations d'administrateurs, composition du conseil d'administration"\\
+Dans le grand espace en dessous, il faut remplir comme ceci :
+<code>1 AG du JJ/MM/AAAA
+
+1.1 Démissions d'administrateurs :
+-  Nom, Prénom, Adresse
+
+1.2 Réélections d'administrateurs :
+-  Nom, Prénom, Adresse
+
+1.3 Nominations d'administrateurs :
+-  Nom, Prénom, Adresse, date et lieu de naissance
+
+1.4 Le conseil d'administration est donc composé des personnes suivantes, aux fonction de :
+-  Nom, Prénom, Fonction
+
+
+Fait à Bruxelles, le JJ mois AAAA
+
+	Prénom Nom,					Prénom Nom,			Prénom Nom
+	Président					Secrétaire			Trésorier</code>
+Démissions d'administrateurs : les membres du bureau qui quittent le bureau.\\
+Réélections d'administrateurs : les membres du bureau qui reprennent un poste dans le bureau.\\
+Nominations d'administrateurs : les nouveaux membres du bureau.\\
+\\
+Note : Si vous le souhaitez vous pouvez aussi nominer tout le comité en tant qu'administrateur.\\
+\\
+Si vous devez noter les changements pour plusieurs années, répétez cette structure pour chaque AG.\\
+
+Ce volet doit être remis en trois exemplaires et signé au dos de la dernière par les personnes mentionnés
+
+== Exemple ==
+http://www.ejustice.just.fgov.be/tsv_pdf/2013/06/10/13087258.pdf
+
+=== Volet C ===
+Il n'y a rien a remplir ici sauf le nom et prénom du secrétaire, pour le champ "Agissant comme" sélectionnez "administrateur", notez le lieu et la date de la création du document, imprimez et signez.
+
+== Exemple ==
+http://www.hapshack.com/images/oUEB.png
+==== Formulaire II ====
+=== Volet A ===
+Pareil que pour le formulaire I.
+=== Volet C ===
+Il ne faut remplir que le petit 3°
+Il faut y noter tout les changements que vous avez notez dans le volet B du formulaire I.
+  * Dans la colonne à l'extrême gauche, indiquez "C" si l'administrateur démissionne (donc pour toutes les personnes notées dans le point "Démissions d'administrateurs" du volet B du formulaire I), "N" si l'administrateur est élu (donc pour toutes les personnes notées dans le point "Nominations d'administrateurs" du volet B du formulaire I).\\
+  * S'il s'agit d'une nomination, inscrivez le numéro de registre nationale de la personne (laissez vide si c'est une démission)
+  * le nom et le prénom
+  * Dans "Qualité", notez Administrateur
+  * Notez la date de fin ou de début de l'exercice de l'administrateur (la date de l'AG)
+Si vous n'avez pas assez de place, utilisez plusieurs volets C.\\
+
+Les personnes inscrite dans le point "Réélections d'administrateurs" ne doivent pas figurées dans le volet C.\\
+Enfin, notez le nom et prénom du secrétaire, pour le champ "Agissant comme" sélectionnez "administrateur", notez le lieu et la date de la création du document, imprimez et signez.
+
+== Exemple ==
+http://www.hapshack.com/images/dZ1m.png
+===== Transmission =====
+Il faut ensuite transmettre le tout par recommandé à l'adresse :\\
+Tribunal de commerce de Bruxelles\\
+Boulevard de la deuxième Armée Britannique 148\\
+1190 Bruxelles\\
+Belgique\\
+\\
+
+L'enveloppe devrait contenir :
+  * Une lettre d'introduction
+  * L'extrait de compte
+  * Le formulaire I dont le volet B en trois exemplaire
+  * Le formulaire II
+Tout les document doivent être signé par le secretaire, et n'oubliez pas les signatures au verso des volets B.

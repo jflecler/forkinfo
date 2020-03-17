@@ -1,0 +1,48 @@
+====== Pizza-Hut ======
+
+===== Infos =====
+
+**Nom:** da Luz Duque \\
+**Prénom:** Nicolas \\
+**Surnom(s):** Pizza Hut, Iceman \\
+**[[cipedia:Anniversaire|Date de naissance]]:** 21/12/84 \\
+
+
+===== Parcours académique =====
+
+  *[[2002 | 2002-2003]] première candi informatique
+  *[[2003 | 2003-2004]] deuxième candi informatique
+  *[[2004 | 2004-2005]] deuxième candi informatique
+  *[[2005 | 2005-2006]] première licence informatique
+  *[[2006 | 2006-2007]] deuxième licence informatique  (Module options [[cours:recherche_operationnelle|Recherche Op]])
+  *[[2007 | 2007-2008]] deuxième licence informatique  (Module options [[cours:recherche_operationnelle|Recherche Op]])
+
+
+===== Comité de cercle =====
+
+  *[[2003 | 2003-2004]] Délégué Photo
+  *[[2004 | 2004-2005]] Délégué Concours (le dernier !)
+  *[[2006 | 2006-2007]] Co-opté FOSDEM
+
+===== Parcours folklorique =====  
+
+  *[[2002 | 2002-2003]] Bleu
+  *[[2003 | 2003-2004]] Comitard de cercle
+  *[[2004 | 2004-2005]] Comitard de cercle
+  *Ensuite - Vieux con, jusqu'à la fin des temps
+
+===== Famille =====
+==== Parrains ====
+  * FB
+  * Delphine
+
+==== Filleuls ====
+== 2004-2005 ==
+  * ATP
+  * Shrek
+  * Hastake
+
+
+===== Divers =====
+
+  * Créateur d'un affond (qui a d'ailleurs pris son nom) consistant à affoner pathétiquement seul dans son coin : l'affond "Pizza Hut"

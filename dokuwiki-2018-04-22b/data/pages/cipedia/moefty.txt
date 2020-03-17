@@ -1,0 +1,36 @@
+====== Moefty ======
+
+
+===== Infos =====
+**Nom:** Duchêne \\
+**Prénom:** Mathieu \\
+**Surnom:**  Moefty, Moef\\
+**[[cipedia:Anniversaire|Date de naissance]]:** 07 janvier 1986 \\
+
+
+
+
+
+===== Parcours académique =====
+  * [[cipedia:2005|2005-2006]] BA1 Sciences appliquées
+  * [[cipedia:2006|2006-2007]] BA1 Sciences Informatiques
+  * [[cipedia:2007|2007-2008]] BA2 Sciences Informatiques (Module "Électronique et systèmes")
+  * [[cipedia:2008|2008-2009]] BA3 Sciences Informatiques (Module "Électronique et systèmes")
+  * [[cipedia:2009|2009-2010]] MA1 Sciences Informatiques, option dirigée conception de systèmes
+
+
+===== Comité de cercle =====
+
+  * [[cipedia:2009|2009-2010]] : Délégué FOSDEM
+  * [[cipedia:2010|2010-2011]] : Trésorier
+
+===== Parcours folklorique =====  
+
+{{ http://www.rotorob.com/wp-content/uploads/2007/03/Nelson_Muntz_rie2.jpg |}}
+
+
+===== Divers =====
+  * Fé Linux
+  * Fé Gnome
+  * Délégué Sandwiches pour le printemps des sciences 2007 ou pas :p (et si !)
+  * Est le roi de la farce

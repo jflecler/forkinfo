@@ -1,0 +1,129 @@
+Et voilà, la page sur la rénovation est créée. Pour rappel, l'idée vient d'une discussion entre [[cipedia:Reno|Reno]] et [[cipedia:gluck|Gluck]] un vendredi au bar. Se disant que nous avions gagné moult argents au [[cipedia:MTSM|MTSM]], [[cipedia:FOSDEM|FOSDEM]] et autres joyeusetés cette année, notre compte en banque est plus que bénéficiaire. Le problème, c'est que l'argent, ça se dépense (non, sans blague) et que même si notre cher comité est des plus à même de le faire, qu'en sera-t-il dans deux trois ans? Si c'est pour être dilapidé en gérant mal des td's et autres conneries, autant le dépenser nous-même.
+
+Bonne idée de dépenser, c'est facile. Mais pour quoi faire. Il fallait le dépenser dans quelque chose d'utile (les enmerdes arrivent) de durable (ben oui, parce que des futs, c'est utiles mais leur durée de vie sur la pompe CI est de 15 minutes montre en main) et de profitable (Faire une statue pour y couler les statuts du cercle n'était donc pas envisageable.) Un président précédent ayant eu la fort mauvaise idée de nous voler l'idée de la rénovation du sol et de l'électricité, le champ des rénovations possibles diminuait fortement. Heureusement, il en restait encore une, enfant chéri de [[cipedia:gluck|Gluck), le bar. C'est donc sur lui que notre dévolu fût jeté.
+
+Bon trêve de plaisanteries et d'explications dont personne n'a rien à foutre (à part la postérité), passons aux choses sérieuses. Plusieurs choses sont rénovables, ou à rénover dans le cercle, évidemment, comme toujours se pose la question du budget, qui est une chose à voir non seulement par le trésorier (après tout, c'est lui qui connait le code secret de la carte), le président (parce qu'il préfère peut-être tout donner aux machas) et au comité parce que finalement, il faut bien qu'il justifie sa carte ACE.
+
+==== Les trucs qu'on peut rénover mais qu'on sait pas si on va le faire ====
+  * Sonorisation du cercle
+    * Ordinateur (il a encore trop picolé)
+    * Ampli (ce n'est que le fruit du hasard si il vit encore et ça je ne saurai pas le réparer, et de toute façon, il ne vaut pas le prix)
+    * Baffles (eux ils tiennent encore "vaguement" le coup, mais ce serait sympa si on avait de quoi refaire des mini-tds (autremenent dit des baffles un peu plus puissants)
+  * Le rangement du bar
+    * Faire une étagère correcte dans le bar en y intégrant un porte verre
+    * Changer l'évier (qui est une vraie crasse) et le rehausser de quelques centimètres
+    * Faire une armoire sous l'évier
+    * Faire une armoire au fond du bar (la où il y a l'armoire cour (grosso modo)
+    * Faire un truc correct pour ranger la pompe plus que de la poser dans le trou où elle est
+    * Placer un four digne de ce nom pour faire la bouffe dans des conditions de salubrité et de sécurités correctes
+    * Faire une armoire correcte pour sécuriser le matériel sono et le mettre à l'abris de toutes projections idiotes
+    * déporter les claviers, souris et écrans dudit ordinateur afin de pouvoir gérer la musique à l'aise et mettre du Pierre Bachelet à toutes les heures
+    * Déplacer l'alimentation d'eau qui sert à nettoyer la pompe histoire de la mettre près de la pompe (subtil l'idée) et en placer une deuxième de l'autre coté du cercle (genre près de l'égout) pour pouvoir nettoyer la pompe volante (parce qu'après avoir été réparée, je n'ai pas l'impression qu'elle fera des années au rythme où elle est partie... D'autre part, il faudrait doubler les embouts avec des embouts pour la blanche (parce que la fréquence de rincage de la pompe à blanche...)
+  * Passer un coup de peinture
+  * changer le sens de la porte pour qu'elle s'ouvre vers l'extérieur
+==== Les détails ====
+Evidemment, je n'ai pas été bête, je n'ai pas parlé d'argent avant de vous avoir dit tous les trucs magiques que je pouvais faire pour le cercle. Faudrait pas me prendre pour un idiot non plus. Il est clair que les multiples idées saugrenues qui sont sorties sont plus ou moins payables en fonction du matériel impliqué.
+
+Mais par soucis d'honnêteté (et puis j'aimerais qu'on me donne ce budget donc autant vous y préparer) je vais essayer de budgétiser les différents postes afin de pouvoir choisir en toute sérénité ce que l'on fera ou pas.
+
+=== La sonorisation du cercle ===
+Poste qui me semble indispensable. L'ordinateur est mort depsuis déjà quelques temps, la chaine HiFi qui tient lieu d'ampli ne fera plus long feu et à fait son temps (c'est P'ti Scout qui l'avait ramenée) et les baffles ont subi les assauts du temps, de la bière et du volume fort élevé et ne donnent donc plus un son de grande qualité. Refaire cela correctement est donc indispensable, et cela nous permettrait de refaire des mini-td's et autres conneries ou la musique va fort (sans pour autant n'avoir que du bruit dans le cercle.
+
+== L'ordinateur ==
+Pour l'ordinateur, on est quand même des informaticiens, donc j'aimerais que le connard qui a un PII ou un PIII chez lui et qui ne s'est pas encore dénoncé le fasse de suite, ça sera amplement suffisant pour écouter des OGG et quelques divx. Le seul truc nécessaire sera d'avoir un disque dur d'une 40 de Go pour stocker tout le <del>porn</del> mp3 mais il y a aura bien une autre âme charitable. Ce point la étant réglé, passons à la suite.
+
+== Les baffles ==
+Si on met une sono correcte, il faut des baffles corrects. Une des questions qui se pose, comme d'ailleurs pour l'ampli, c'est la puissance que l'on désire avoir. J'avoue que moi, les watts, à part du courant, ça ne m'évoque rien et je n'ai donc aucune idée de la puissance sonore dont on a besoin. Si des cools de la sono pouvaient me le dire, j'avoue que ça m'aiderait. 
+
+En dehors de ça, l'idée serait de placer deux baffles de chaque coté du cercle. Cela permet de diminuer la puissance de moitié et donc de ne pas rendre sourd le premier pigeon qui passe à coté et en mettre de chaque coté permettrait de moduler la puissance sonore à l'envie (genre plus cool dans le bar et plus fort dans le cercle ou l'inverse)
+
+Pour ce qui est de la fixation, ils seraient bien évidemment en hauteur, afin d'être protégés.
+
+== L'ampli ==
+L'ampli. C'est la que les choses se crispent, si on veut une bonne sono, puissante et qui ne mourra pas sous prétexte qu'on a mis le volume assez fort pour que la vieille dont les piles du sonotone sont plates puissent entendre, il n'y a pas mille solutions, faut un truc puissant. Pas de bol, on a pas dix milliards pour un ampli, on a pas encore racheté Solvay.
+
+La bonne nouvelle, c'est que j'ai une petite station de soudage à la maison et que je sais un peu bidouiller l'électronique. Il y a des milliards de plans d'amplis sur le net, il suffit donc de choisir la puissance qu'on veut avoir et après, je devrais pouvoir me débrouiller pour le construire. Le truc le plus cher de l'affaire étant l'alimentation.
+
+Par contre, une question qui se pose, c'est si on veut, ou pas, de la stéréo. La stéréo, c'est cool mais si on met des baffles des deux côtés du cercle, c'est pour pouvoir moduler le son. Donc si on perd la moitié de la musique sous prétexte que je n'ai pas envie d'être sourd, ça risque de moins la faire. Une solution pourrait être de faire un double ampli mono qui permettrait simplement de baisser ou monter le son indépendamment des deux côtés mais on perd évidemment le bénéfice de la stéréo. A noter que si on fait ce choix, ça ne me pose aucun problème de montage mais la possibilité de récupérer un ampli est directement diminuée étant donné qu'il en faudrait alors deux. 
+
+Si je le fabrique, on devrait pouvoir s'en tirer quel que soit le choix (stéréo ou pas) à grosso modo 150 euros (pour 2*250W RMS à 4 ohms). Si on décide d'en acheter un (mais alors on est d'office en stéréo), ça fait passer le budget à 220 euros, ce qui devient fort cher. De toute manière, je passerai faire un petit bonjour à l'éléctricien du service technique pour savoir si je ne pourrais pas avoir quelques composants (genre un transformateur qui coute quand même 50  euros) Ca permettrait de faire nettement baisser la note!
+
+=== L'évier, la flotte et tout le reste ===
+Pour le moment, nous avons un magnifique double évier avec double égouttoir, celui de gauche servant à égoutter, celui de droite à foutre du bordel. C'est joli mais ça prend de la place. Une bonne solution serait donc de diminuer l'encombrement, cependant, le double évier, c'est pratique pour faire la vaisselle, c'est donc sur un des deux égouttoirs que nous tomberons. Celui de droite a été rajouté dans un lointain passé et est d'ailleurs siliconé au reste et est par conséquent détachable. Une première solution serait donc de le détacher (quelle subtilité) et de décaper correctement le reste de l'évier après l'avoir démonté. Une fois propre (je songe aux restes de peintures en tous genres qui sont attachés au fond) nous pourrions alors le refixer et repartir de plus belle avec lui. L'autre solution plus onéreuse, serait tout simplement d'en racheter un mais je la déconseille, d'autres postes ont plus besoin de sous (et un évier, c'est pas gratuit...)
+
+Une fois démonté et nettoyé, nous le refixerions donc au même endroit, quelques centimètres plus haut. Pourquoi vous demandez-vous. Tout simplement pour y mettre le petit frigo qui s'y logerait magnifiquement et nous pourrions alors gagner de la place. Comme nous sommes des gens prudents et prévoyants, un double fond serait installé afin d'y planquer toute la tuyauterie qui serait donc à l'abri des bacs poussés un peu violemment qui risquent de l'exploser avec les subtiles conséquences que l'on peut imaginer. 
+
+L'embout d'eau pour la pompe serait aussi déplacé afin de la placer plus près de la pompe (si c'est pas intelligent comme idée) histoire d'augmenter la motivation de nettoyage et d'autre part, un deuxième embout serait placé près du sterfput afin de nettoyer la pompe volante, ce qui est, pour le moment, plus que chiant. De plus, une arrivée d'eau de ce coté du cercle permettrait les nettoyages à grandes eau plutôt que de devoir remplir des seaux/poubelles...
+
+=== Les frigos ===
+Comme dit plus haut, le petit frigo déménagerait sous l'évier du bar et nous gagnerions donc sa place. Il serait alors remplacé par le frigo bac qui se trouve au fond, ce qui permettrait au barman de moins se bouger pour aller y chercher quelque chose (et moins se bouger, c'est mieux) Une fermeture pourrait être mise, cela permettrait qu'il n'y ait pas des connards en délegs qui passent se servir (le barman qui garde son frigo n'est pas toujours apte à protéger le deuxième)
+
+=== L'étagère, les rangements ===
+== Sous l'évier ==
+Tout notre beau matériel audio devra bien évidemment être rangé, une petite armoire lui sera dévolue tout au fond du bar, sous le gros rebord en béton. On y placerait l'ordinateur et l'ampli qui serait donc protégés, un système de rallonges pour les clavier, souris et écran seraient mis en place afin que tout le monde puisse continuer à changer la musique selon son bon vouloir comme pour le moment.
+
+Dans la petite place restante (l'armoire audio ne devrait pas prendre toute la hauteur nécessaire), une petite armoire (qui ferme ou pas à clé, ça je m'en fous) serait installée afin de permettre au délégué bar de ranger sa caisse au lieu de la laisser trainer au vu et au su de tout le monde. Toute la place sous l'évier est donc employée, tout est optimisé.
+
+Bien évidemment, comme il s'agit de matériel électrique qui apprécie relativement peu l'eau, on appréciera l'idée du double fond pour les canalisations en tous genres et d'autre part, une étanchéification des armoires est prévues afin de parer à tous malheurs. Pour le frigo, il sera légèrement surélevés afin de lui aussi lui assurer d'avoir les pieds au sec en cas de problème.
+
+== L'étagère ==
+L'étagère au-dessus du bar nous a rendu moult services mais comme tout le monde s'en doute, elle arrive en fin de vie. Même si les fixations sont plus que solides, il est temps de penser à la remplacer. Elle le serait donc, par une double étagère qui ferait toute la longueur du bar. Une première partie (au-dessus de l'évier) serait adaptée en porte-verre (style rangement des verres comme dans les bars) ce qui permettrait de leur donner une place et surtout d'arrêter de les casser comme c'est le cas actuellement. Nous pourrions aussi ranger à cet endroit tout le petit matériel pour l'évier et ce serait chouette. Un peu plus loin, arrivés à la pompe, nous pourrions mettre tout le matériel de la pompe (gobelet en plastic...) et enfin, après la pompe, moment intéressant, nous pourrions placer un four. 
+
+Quand je parle de four, je ne parle pas des merdes que nous utilisons habituellement mais réellement d'un four. Sa caractéristique principale étant de ne pas avoir des résistances apparentes. Les fours actuels en ont et le fromage des bigons à la sale habitude de couler dessus et donc de bruler en un temps record, ce qui rend plus ou moins impossible leur nettoyage et donc à terme, nous avons des fumigènes plus que des fours, ce qui est vraiment chiant. Bien évidemment, comme un bon four, ça coute cher, il faudrait vraiment l'entretenir parce que dans le cas contraire, il fera quelques années et mourra.
+
+En fonction du four qu'on prendra, on peut ou le placer à terre (genre ceux qui se placent à terre) ou si c'est un encastrable, le mettre sur l'étagère (ou plus bas, bref, au choix et à voir)
+
+== les rangements ==
+La vieille armoire cours ne regroupe plus que de vieilles archives et des trucs à trier, les délégués cours pourraient donc très bien s'en tirer avec juste la nouvelle. Dès lors, on pourrait jeter la vieille et mettre la nouvelle à sa place, ce qui nous fait gagner un espace. A cet endroit serait mise une armoire basse, afin de permettre au bar de ranger ses divers softs et autres conneries qu'il achète et aimerait garder en sécurité (genre les chips bouffés par les souris) Au dessus de l'armoire serait fixé le porte-manteau qui traine de l'autre coté du cercle et nous pourrions donc ranger nos affaires plutôt que de les saloper en venant les déposer sur le frigo ou elles tombent et moisissent à jamais dans la merde.
+
+=== Les divers ===
+La je ne me rappelle plus très bien ce que je voulais mettre donc c'est tant pis. 
+
+En voilà déjà deux de retrouvés, il y avait l'idée de faire une grande armoire d'une largeur de deux bacs sur toute la hauteur du cercle, histoire de permettre un petit flottement sur la gestion du stock (pour le moment, en terme de bacs, le bar gère le tout à flux tendu) 
+
+La deuxième idée étant bien évidemment de repasser un coup de peinture histoire de faire briller le cercle comme un sous neuf. 
+
+==== La douloureuse ====
+Evidemment, ce genre de projets à un prix non négligeable. Regardons donc en détail, je suis bien évidemment ouvert à toute proposition pour faire baisser les prix (ou à raboter dans le projet si c'est trop cher) et il faut aussi noter qu'à part quelques prix que j'ai regardé histoire de ne pas dire n'importe quoi, je tape tout plus ou moins à gaille, juste histoire de donner une idée des prix que nous aurons sans doute à payer.
+
+  * Sonorisation du cercle
+    * Ordinateur 0 euros
+    * Ampli 150 euros
+    * Baffles 180 euros
+  * Le rangement du bar
+    * Faire une étagère correcte dans le bar en y intégrant un porte verre 150 euros
+    * Changer l'évier 150 si on le change, 30 si on le nettoie
+    * Faire une armoire sous l'évier 20 euros
+    * Faire une armoire au fond du bar et pour les bacs 100 euros
+    * Faire un truc correct pour rincer les pompes 150 euros (l'embout coute 44 euros TVAC)
+    * Un four digne de ce nom 300 euros
+    * Faire une armoire correcte pour sécuriser le matériel sono 50 euros
+    * déporter les claviers, souris et écrans du pc 15 euros de cables et fiches en tous genres
+    * peinture. Je ne sais pas ce que ça avait couté à l'époque, ce serait chouette de matter dans les archives.
+Ce qui nous fait un total d'environ 1150 euros plus la peinture (on nettoie l'évier parce qu'il faut pas rire non plus)
+
+Evidemment, il y a quelques postes où on peut saquer en fonction des choix que l'on veut faire. On a plus eu une très bonne sono depuis de nombreuses années, ce que je trouve dommage mais on s'y est fait. Rien ne nous oblige à investir pour en ravoir une bonne, ce qui mine de rien nous ferait faire des économies. Cependant, on ne pourra pas ignorer longtemps la nécessité de cahnger l'ampli qui est en fin de course et donc on devra dépenser, même si c'est moins. Un autre poste où l'économie serait facile, c'est le four. C'est le deuxième gros poste dans le budget et il n'est intéressant que si les gens font le minimum d'efforts nécessaires pour l'entretien.
+
+
+
+==== Moi aussi je suis une brêle qui ne sait rien faire de ses deux mains mais je veux bien donner du matos ====
+|Hub Coax RJ45|Staz|
+|Ordinateur décent|Staz|
+|Disque dur (+-40Go|???|
+|Ampli||
+|Ampli||
+|Baffles|Bram|
+|...||
+
+
+==== Moi aussi je suis une brêle qui ne sait rien faire de ses deux mains mais je veux bien prêter du matos ====
+Notez que les outils prêtés seront stockés sous clés dans l'armoire et donc mis en sécurité pendant toute la durée du prêt. Il est bien évidemment hors de question qu'une bonne âme qui prête du matos se retrouve sans la moitié du bazar à la fin des travaux. Pour le moment, les plus utiles sont ceux de plomberies puisqu'on va commencer avec ça.
+
+|foreuse||
+|Scie sauteuse||
+|Disqueuse||
+|Tarauds et filières||
+|Pince à cintrer ou ressort||
+|Pince de blocage||
+|...||
+|...||

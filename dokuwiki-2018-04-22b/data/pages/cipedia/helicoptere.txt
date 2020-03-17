@@ -1,0 +1,39 @@
+====== Hélicoptère ======
+//faire l' Hélicoptère//
+
+===== Utilisations: =====
+  * //"Je fais l'Hélicoptère"//
+  * //"Il fait l'Hélicoptère"//
+  * //"<del>Elle fait l'Hélicoptère</del>"//
+  * //"Elle lui fait l'Hélicoptère"// ou //"Elle lui fait faire l'Hélicoptère"// les deux formes sont actuellement acceptées
+  * //"Quand j'étais saoul, bizu m'a fait faire l'Hélicoptère"//
+  * //"Quand je bois une bonne bière, je fais l'Hélicoptère"//
+  * ...
+
+===== HOWTO: Hélicoptère =====
+
+==== Matériel requis ====
+  * une [[biroute]]
+  * une main
+  * un rythme dans la peau
+
+==== l'Hélicoptère step by step ====
+
+  - Sortez la [[biroute]] de son embalage (ie: [[moulbite]]) et remuez-la un tout petit peu afin qu'elle se détende, mais pas trop car vous risqueriez la [[trique]].
+  - A l'aide de la main, agrippez la [[biroute]] le plus près possible de son point d'encrage. Si elle n'a pas de point d'encrage référez-vous à la FAQ en fin d'article. note: si vous effectuez un hélicoptère de groupe, assurez-vous que tout le monde a bien terminé l'étape 2 avant d'entamer l'étape 3.
+  - Vous allez maintenant simultanément commencer à entonner la petite chanson et à infliger à la [[biroute]] un mouvement circulaire infini ([[while]](true)) à l'aide de la main. La chanson est la suivante: “Quand je bois une bonne [[bière]], je fais l'Hélicoptère”
+  - Répétez l'étape 3 ad vitam aeternam.
+
+===== Variantes =====
+FIXME
+
+
+===== FAQ =====
+  * J'ai remué la biroute trop longtemps, elle en a perdu sa souplesse, que dois-je faire ?
+Attendre que ça passe ou en profiter pour balancer la purée.
+
+  * La biroute n'a pas de point d'encrage avec un corps, que dois-je faire ?
+Envisagez d'utiliser la vôtre. Si la vôtre n'a pas de point d'encrage non plus consultez un [[http://www.cercle-medecine.be/|médecin]].
+
+  * Mon engin est vilainement tordu, puis je pratiquer l'Helicoptère??
+Oui Tarkan, tu peux pratiquer ce merveilleux passe-temps régulièrement !! De plus ca t'aidera à corriger ton handicape.

@@ -1,0 +1,27 @@
+====== Qu'est-ce que l'éthique ? ======
+
+===== Définition générale =====
+
+==== Slide ====
+
+  * Définition
+  * Ethique = Morale ?
+
+==== Texte ====
+  * L'éthique est le terme général utilisé pour désigner ce que l'on appelle en général "science (étude) de la morale". En philosophie, avoir un comportement éthique signifie faire ce qui est "bien" ou "juste".
+
+  * Dans un sens "ordinaire", le terme éthique est synonyme de morale, et désigne une pratique ayant pour objectif de déterminer une manière de vivre conforme aux fins de la vie humaine (recherche du bonheur). Ajourd'hui, on l'emploie généralement  pour qualifier des réflexions théoriques portant sur des pratiques et sur les conditions de ces pratiques; ainsi on parle de "comité d'éthique" au sein d'institutions scientifiques
+
+  * On peut dire qu'il y a un caractère non empirique sur le terme ethique (science de la morale). L'éthique s'adapte aux moeurs et aux civilisations.
+
+===== Ethique dans cet exposé =====
+
+==== Slide ====
+  * Principe de base de l'éthique
+  * Champ particulier de l'éthique
+
+==== Texte ====
+  * Les champs d'applications de l'éthique (dans le droit, les sciences, sciences socailes, ...) complexifient la notion de l'éthique. Mais comme le principe de base de l'éthique reste simple :
+" Ne fais de mal à personne, donne plutôt un coup de main à autant de personnes que tu pourras".
+
+  * Nous allons nous intéresser à ce qui est "moralement" valable dans la société de l'informatique. C'est-à-dire l'éthique appliquée (sous branche de l'éthique normative : cette dernière étudie des situations réelle mais générales, elle tente d'établir des normes morales), l'éthique appliquée est une branche de l' éthique qui applique ses principes à un ensemble particulier de circonstances et de pratiques, au regard des critères généraux de l'éthique.

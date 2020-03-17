@@ -1,0 +1,58 @@
+====== Status du Hackerspace de l'ULB ======
+
+
+**Article 1.** 
+
+Le hackerspace de l'ULB s'appelle UrLab.
+
+**Article 2.** 
+
+UrLab est une structure étendant le Cercle Informatique de l'ULB, abrégé Cerkinfo. Ces status complètent ceux du Cercle Informatique sur les matières liées au hackerspace.
+
+**Article 3.** 
+
+Le hackerspace souscrit au principe du libre examen et aux autres valeurs de l'ULB.
+
+Il souscrit aussi à une idée de liberté plus large en encourageant et en promouvant l'usage de logiciels libres, la neutralité d'Internet, le partage et l'ouverture de l'information et plus généralement l'accès  universel, libre et gratuit aux connaissances. Le hackerspace est conscient qu'il présente peu d'intérêt si isolé, il cherche donc à s'inscrire dans une logique de continuité et à s'intégrer aux réseaux d'hackerspaces internationaux. 
+
+**Article 4.** 
+
+Le hackerspace est composé de membres, ces derniers ont le même status que les membres effectif du Cercle Informatique. Ils sont régit par les même règle que celles définies dans les status de cercle, à l'exception qu'ils peuvent devenir membre par demande au mainteneur du hackerspace, qui maintiendra par ailleurs une liste des dits-membres.
+
+**Article 5.** 
+
+Toute personne utilisant les ressources du hackerspace est soumise à la charte de membre du hackerspace.
+
+**Article 6.** 
+
+Le hackerspace est guidé par le mainteneur du hackerspace siègeant au conseil du cercle informatique. Le mainteneur est secondé par un adjoint et un trésorier. Ces trois personnes forment le conseil d'administration du hackerspace.
+
+**Article 7.** 
+
+Le mainteneur du hackerspace est élu chaque année pour un mandat d'un an par l'assemblée générale du cercle informatique, selon les règles énnoncées dans les status du cercle. Celui-ci sera au préalable approuvé par les membres du hackerspace. L'assistant mainteneur et le trésorier sont élu par une assemblée représentative des membres pour une période de maximum un an.
+
+**Article 8.** 
+
+Les responsabilités du conseil d'administration sont les suivantes : 
+représenter le hackerspace au niveau du cercle informatique et des autorités de l'ULB;
+assurer la continuité des activités quotidiennes du hackerspace; présenter aux membres l'ordre du jour de ses réunions régulières; guider ces dernières et enfin poster de manière publique les PVs.
+
+**Article 9.** 
+
+En plus de sa responsabilité de membre du CA, le trésorier est responsable des comptes du hackerspace et de la sécurité de l'argent. Il doit pouvoir présenter cette comptabilité sur simple demande du CA ou de la Réunion. Une comptabilité accessible en ligne à l'ensemble des membres du hackerspace et mis à jours régulièrement est obligatoire.
+
+**Article 10.** 
+
+Tout membre présent à une réunion ou au local le jour de son anniversaire devra porter un casque en aluminium ou un chapeau pointu.
+
+**Article 11.** 
+
+Toutes décisions se prend selon l'algorithme suivant : 
+Un problème est identifié par des membres, ceux-ci en parle au mainteneur.
+S'il le retient, il l'ajoute à l'ordre du jour de la réunion suivante. En cas de problème à large portée, un délais est ménagé pour que les membres puissent y réfléchir et s'arranger pour être là à la réunion suivante.
+Lors de la réunion, le point est présenté puis débattu. Si une décision doit être prise, il faut qu'une majorité se dégage parmis les membres présents à cette réunion.
+S'il n'y a pas de majorité, le point est reporté à la réunion suivante.
+
+**Article 12.** 
+
+Chaque dépense faite par la trésorie du hackerspace doit être décidée (grâce à l'algorithme de article 11) à la réunion précédente. En cas d'urgence, le trésorier peut prendre l'initiative et dépenser 100 euros maximum (sur une période d'entre deux réunions), et présenter la dépense pour ratification à la réunion suivante. 

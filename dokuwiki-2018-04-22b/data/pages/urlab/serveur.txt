@@ -1,0 +1,5 @@
+===== Serveur / Ordi ===== 
+Au NO (ip externe fixe):
+  * cso4.ulb.ac.be (164.15.130.34)
+  * accessible en ssh
+  * serveur mpd (music \o/ ) en projet

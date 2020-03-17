@@ -1,0 +1,15 @@
+===== Pack de cours: =====
+==== Examens ====
+  * Janvier 2008
+
+==== Autres documents ====
+  * Correctifs des TPs 2008-2009
+
+==== Prix ====
+1€
+
+===== Syllabus =====
+Un syllabus est disponibles aux PUB.
+
+===== Liens utiles =====
+  * [[http://www.ulb.ac.be/di/algo/gjoret/SDA.html|Sites de TPs.]]

@@ -1,0 +1,404 @@
+====== Codex de la Guilde Gates - Kujovic comments ======
+===== Chapitre 1 - LA GUILDE =====
+CO-1 \\
+Le 4 novembre 2003 a été fondée une association de fait sous la dénomination «Guilde Gates». Celle-ci est constituée pour une durée illimitée.\\
+\\
+CO-2\\
+La Guilde Gates est une corporation d’étudiants, anciens étudiants ou amis du Cercle Informatique autour d’un idéal courtois, guindaillesque et fraternel. La langue véhiculaire de la Guilde Gates est le français a l’exception toutefois des formules latines usuelles.\\
+\\
+CO-3\\
+La Guilde Gates a pour objets la conservation et la perpétuation des traditions estudiantines les plus anciennes et le plus respectables, la promotion de la Guindaille et l’agrément de ses membres par l’organisation de différentes activités guindaillesques.\\
+\\
+CO-4 \\
+Lors des réunions, le Senior veillera, dans la mesure du possible, à initier les membres présents au principe fondamental de la Guindaille : l’Arbitraire.\\ ** Vire ? **
+\\
+CO-5
+L’Arbitraire est le principe essentiel des réunions de Guindaille sur lequel se fondent les usages, les privilèges,… Chacun tient un rôle dans cette comédie où pour que l’humour et surtout la camaraderie puissent régner, il faut un certain cérémonial et respect des « lois ». Celui qui veut jouer respecte les «règles du jeu», sinon il ne joue pas. Tel est l’Arbitraire.\\ ** hummm ?**
+
+CO-6\\
+L’Arbitraire, sa compréhension et son acceptation sont le ciment de notre unité, de notre notoriété et de notre pérennité. Il est le second des deux piliers fondamentaux de notre Guilde, l’Amitié étant le premier.\\  **idem**
+\\
+CO-7\\
+//La devise//\\ **Pas d'idée précise mais un truc ayant un vague rapport (même foireux) l'informatique me semble intéressant**
+\\
+CO-8\\
+//Le chant de la Guilde//\\
+\\
+
+===== Chapitre 2 – L’ORGANISATION DE LA GUILDE =====
+CO-9\\
+Le Grand Senior est le dépositaire responsable de la Guilde Gates.\\
+\\
+CO-10\\
+La Guilde Gates possède 2 grades, le grade de Membres de la Guilde Gates et le grade de Membre du Conseil du Kernel. Tout Membre du même grade est égale à un autre Membre du même grade, un Membre du Conseil du Kernel prévaut sur un Membre de la Guilde à l’exception de son Grand Senior qui est chargé de la bonne démarche des activités de la Guilde et à ce titre prévaut sur l’ensemble des Membres de la Guilde. En son absence, celui-ci désignera son remplaçant.\\ **Quid des postulants & impétrants? Pas convaincu par la notion de grade, c'est pas l'armée. De plus le role Senior n'est pas abordé**
+\\
+CO-11\\
+Le Blason de la Guilde Gates doit être conforme au modèle original déposé aux Archives sous la dénomination de «1. Blason de la Guilde Gates».\\
+\\
+CO-12\\
+Le Diplôme de Membre de la Guilde Gates doit être conforme au modèle original déposé aux Archives sous la dénomination de «2. Diplôme de Membre de la Guilde Gates».\\ **Désirons t on garder ce concept de diplome? Sympa sur le fond mais qui n'a jamais été vraiment appliqué en pratique**
+\\
+
+===== Chapitre 3 - LES MEMBRES =====
+CO-13\\
+Sont Membres de la Guilde Gates, les personnes pouvant se justifier de leur Prise d’Habit.\\ **Cela comprend les impétrants ou pas ? **
+\\
+CO-14\\
+Les Membres de la Guilde sont Membres à vie. Sauf décision extraordinaire décidée par le Conseil du Kernel à la majorité des deux tiers.\\
+\\
+CO-15\\
+En plus de ses Membres et pour des raisons exceptionnelles, le Conseil du Kernel pourra accueillir dans la Guilde des «Membres d’Honneur» pour autant que ceux-ci respectent au mieux les critères d’admission. Ces Membres d’Honneur sont investis par le Grand Senior avec l’approbation du Conseil du Kernel. Le Grand Senior lui remettra le band de Membre de la Guilde.\\
+Cependant le Membre d’Honneur de la Guilde Gates n’aura pas accès au Conseil du Kernel et ne pourra représenter la Guilde ni parler en son nom.\\
+\\
+
+===== Chapitre 4 – EVOLUTION DE LA GUILDE =====
+CO-16\\
+Pour être candidat à l’admission dans la Guilde Gates, il faut être ou avoir été étudiant régulièrement inscrit dans un enseignement de type supérieur ou assimilé.\\ **s/candidat/postulant**
+\\
+CO-17\\
+Tout Membre de la Guilde peut proposer des candidats à l’admission de celle–ci. Chaque candidature sera soumise au vote du Conseil du Kernel.\\ **s/candidat/postulant** **Vraiment le kernel? Le collège serait peut être plus approprié** **Stibuler que la personne qui propose un membre devient de facto son parrain**
+\\
+CO-18\\
+Le candidat sera informé par le Membre l’ayant proposé, du résultat du vote. Une entrevue sera organisée par le Grand Senior, le Membre l’ayant proposé et le candidat pour une mise au point.\\ **s/candidat/postulant** **On a jamais fait cet entrevue. Que le parrain brief le postulant me semble suffisant. De plus le grand senior explique le bazar aux postulants lors d'une interne pré Dies. Peut être devrions nous statuer qu'une interne pré Dies doit absolument avoir lieux avec les postulants ? **
+\\
+CO-19\\
+Lors de la réunion dite de l’Initiation, le candidat devra prononcer le Serment de Postulat.\\
+«Moi, … fais ici le serment d’être fidèle à la Guilde Gates, d’être assidu à ses réunions et de porter fièrement et dignement le band de Membre qui m’est concédé»\\
+Le Grand Senior accepte le candidat en lui passant le Band de Membre sur l’épaule gauche et en lui conférant le titre de Postulant par la formule suivante.\\
+«Nous,… Grand Senior de la Guilde Gates, en vertu des pouvoirs qui nous sont conférés et en accord avec le Conseil du Kernel, avons décidé et décidons de te concéder le Band de Membre, marque de ton désir d’appartenir à la Guilde.»\\ **Ceci est le serment du passage postulant -> impétrant**
+\\
+CO-20 \\
+L’Instruction est une période d’apprentissage qui prend court dès l’Initiation et se termine avec la Prise d’Habit. Celle–ci permet aux Postulants de se familiariser avec les us et coutumes de la Guindaille et les traditions du Folklore Estudiantin ainsi que de prouver leur dévouement à la Guilde Gates avant d’en faire partie intégrante et de jouir des mêmes droits que leurs aînés.\\
+
+Les Postulants doivent respect et obéissance aux Membres, sous réserve du Senior ou du Grand Senior.\\
+Au terme de l’Instruction, le savoir du Postulant devra comprendre :\\
+  * Une connaissance passive du codex et active de la Guilde.
+  * Une connaissance relative de l’histoire du folklore Estudiantin.
+  * Une connaissance approfondie des chants couramment entonnés dans les séances ordinaires.
+  * Une connaissance suffisante du «savoir vivre» en Corona et des formules latines généralement utilisées.
+\\ **On a pas d'initiation. On pourrait reformuler en disant qu'on attend d'un postulant d'être présent à nos activités publiques et aux internes auquel il sera convié et qu'il devrait avois acquis ces différents choses lors du Dies Natalis, pour son intronisation**
+CO-21\\
+L’Intronisation est une cérémonie qui clôture l’instruction. Celle–ci a permet à un Postulant satisfaisant aux épreuves qui la composent d’accéder à la Prise d’Habit.\\
+\\
+Cette cérémonie aura lieu lors du Dies Natalis. Elle comporte deux épreuves : un examen de connaissance et un test des capacités bibitives et guindaillesques. A l’instar de l’Initiation, les Postulants effectuent cette démarche tous ensemble.\\
+\\
+L’examen de connaissances contrôle ce que le Postulant a acquis durant son Instruction. Le Grand Senior présidera la séance de questions réponses des Membres aux Postulants, il a le droit de refuser des questions et de clôturer l’examen de connaissances quand il le souhaitera.\\
+\\
+Le test des capacités bibitives et guindaillesques, suivra l’examen de connaissance. Il se consiste en différents actes : chaque Postulant pourra proposer 2 chansons des chansonniers estudiantins tolérés par le Grand Senior, il devra également proposer une guindaille de sa composition. Entre ses moments de chants, les Postulants effectueront un affond de leur invention ainsi que un affond que lui proposera le Grand Senior. La partie bibitive se terminera par la lecture du texte suivant, suivi d’un affond d’un litre de bière.\\
+«Notre bière qui est au frais \\
+Que nos deux demis soient versés \\
+Que notre volonté soit faite \\
+Au bar comme au comptoir \\
+Pardonnez-nous nos gueules de bois \\
+Comme nous pardonnons \\
+A ceux qui boivent du Coca \\
+Soumets-nous aux demis - pression \\
+Et délivre-nous de la soif»\\
+\\ ** on veut vraiment garder ce truc ? **
+Le Postulant n’est pas dispensé des affonds de punition ou de récompense qui lui seront octroyés par le Grand Senior.\\
+\\
+Suite à ces tests, un tempus sera proclamé par le Grand Senior. Pendant ce temps le Conseil du Kernel votera la réussite de l’Instruction.\\
+\\
+Entrent en ligne de compte :\\
+  * l’implication du Postulants dans la vie guindaillesque de la Guilde Gates.
+  * la qualité de l’Instruction du Postulant, déduite de son examen de connaissances.
+  * les résultats du Postulants au test bibitive et guindaillesque.
+  * l’évaluation du savoir-vivre en Corona du Postulat, effectuée tout au long de l’Instruction.
+\\ ** Désires t on vraiment limiter ça au conseil du Kernel? Quid du Collège? et des autres membres ? Même une simple consultation me semblerait de bon aloi**
+Lors de la reprise de la cérémonie, le Grand Senior reprendra la direction de la réunion et il proclamera les résultats, s’en suivra la Prise d’habit pour les Postulants acceptés.\\
+Les Postulants qui auraient échoué restent Postulants jusqu'à la session d’Intronisation suivante.\\ **...si le postulant le désire**
+\\
+CO-22\\
+La Prise d’Habit est l’élévation au titre de Membre de la Guilde Gates. Elle se passe de façon individuelle.
+A la demande du Grand Senior, le Postulant rendra momentanément son band. Après son allocution, le Grand Senior remettra le Band au Postulant désormais sur l’épaule droite.\\
+Ensuite, le Grand Senior recevra du Postulant son Serment d’Allégeance à la Guilde Gates :\\
+«Moi,… devant l’Assemblée ici présente, sur mon honneur, aujourd’hui et pour toujours, je prononce volontairement mon Serment d’Allégeance à la Guilde Gates. \\
+Je jure de toujours servir la Guilde avant mes prétentions personnelles. Je jure de n’agir que pour le bien de la Guilde, de défendre ses principes et de perpétuer ses traditions.\\
+Je jure être le ferment de l’esprit d’amitié qui doit régner au sein de la Guilde Gates. »\\
+Le Grand Senior accepte alors le Membre par la formule suivante :\\
+«Nous,… Grand Senior de la Guilde Gates, en vertu des pouvoirs qui nous sont conférés et en accord avec le Conseil du Kernel, avons décidé et décidons de te concéder le titre de Membre de la Guilde Gates à …….»\\
+Le Grand Senior clôture la cérémonie en remettant au Membre, le diplôme de Membre de la Guilde Gates (conforme au modèle déposé aux archives, «2. Diplôme de Membre de la Guilde Gates»).\\
+\\ ** conflit avec le serment au dessus qui était également présenté comme le serment post intronisation**
+CO-23\\
+Un Postulant a un délai de trois ans à dater du jour de son Initiation pour acquérir le titre de Membre. Passé ce délai il perd tout avantage acquis et ne pourra plus se revendiquer de la Guilde Gates.\\ **M'est d'avis qu'un postulant n'a pas à se revendiquer de la Guilde Gates. On peut virer ça IMHO ***
+
+
+** Rien ici ne fait référence à la notion d'impétrant. Désires t on vraiment garder ce concept? Il me semble qu'il a plus compliqué le bazar ces dernières années et n'a finalement pas apporter grand chose. Sur le principe du KISS, je me demande s'il serait pas pertinent de complètement le virer et de se limiter à la notion de postulant -> membre**
+
+===== Chapitre 5 – LE BAND =====
+CO-24\\
+Le Band de Membre est la tenue vestimentaire que tout Membre doit porter lors des réunions auxquelles il participe.
+Les Prévôts portent les insignes et marques de leurs fonctions.\\
+Les Membres du Conseil du Kernel sont tenus de porter l’emblème de la Guilde (conforme au modèle déposé aux Archives sous la dénomination de «1. Blason de la Guilde Gates».).\\
+\\
+CO-25\\
+Le Band est de couleur mauve aux bords noirs. La taille du Band est de maximum deux mètres, sa largeur est comprise entre huit et dix centimètres et les bords noirs ont une largeur variant de deux à trois centimètres. Le mauve correspond à RVB 128,0,255.\\
+\\
+CO-26\\
+Tout Membre peut porter ses ornementations et récompense d’autre organisme mais les couleurs de la Guilde devront prévaloir.\\
+\\
+CO-27\\
+Le Band de Membre de Conseil du Kernel est le Band de Membre agrémenté de l’emblème de la Guilde Gates disposé à hauteur de poitrine.\\
+\\
+===== Chapitre 6 – LES STRUCTURES INTERNES =====
+\\
+CO-28\\
+La Guilde est composée du Collège, des Membres de la Guilde, des Membres du Conseil du Kernel et de l’Assemblée.\\
+\\
+CO-29\\
+L’Assemblée est composée de toute personne de toute origine.\\
+Les Postulants sont ici assimilés à des Membres de la Guilde.\\
+\\** les postulants ne sont PAS membre de la guilde. Ce sont jamais que des gens "normaux" qui sont invités à quelques internes et qui, éventuellement, deviendront peut être un jour membre **
+
+===== Chapitre 7 – LE POUVOIR TEMPOREL =====
+\\
+CO-30\\
+Le pouvoir temporel, c’est-à-dire tout ce qui concerne de près ou de loin l’administration ou la gestion de la Guilde ainsi que l’organisation de ses activités, est confié au Conseil du Kernel, libre à lui de former le Collège en cas d’absence de Prévôts.\\
+\\** non non non, tout ce qui est gestion & co c'est le boulot du collège **
+CO-31\\
+Il est souhaitable qu’un Membre qui désire s’investir dans une fonction collégiale prenne conscience des responsabilités et du dévouement que cela requiert et donc, le cas échéant il aura une réflexion d’évaluation en présence du Conseil du Kernel.\\
+Dans le cas spécifique où le Membre est susceptible d’avoir des implications dans d’autres associations, il est nécessaire d’envisager la compatibilité des fonctions et d’évaluer la dualité de celles-ci. Eventuellement le Membre devra faire un choix, si le Conseil du Kernel le lui demande.\\ **Qui sommes nous pour exiger de faire un choix? Au pire si ça nous plait pas, on vote non**
+\\
+CO-32\\
+Toutes les fonctions sont laissées au libre choix et volonté de tout Membre de la Guilde.\\
+Les Prévôts sont nommés par le Grand Senior en accord avec le Conseil du Kernel lors du Dies Natalis pour un mandat qui se termine au Dies Natalis suivant.\\ **Non. Les prévots sont choisis après éléction par tous les membres de la guilde. Peut être statué que l'interne élective doit être la 1ère interne de toute nouvelle année civile**
+Tout Prévôt est reconductible.\\
+La transmission des compétences d’une fonction doit se faire pour la réunion qui suit le Dies Natalis. Chaque Prévôt sortant est tenu d’informer du mieux possible sa tâche à son successeur.\\
+Le Collège des Prévôts est composé de six Prévôts.\\
+Chaque Prévôt est identifié par le titre particulier désignant sa fonction. Celle-ci sera identifiable par un insigne qu’il portera sur son band, au dessus de l’emblème de la Guilde si le Prévôt a le titre de Membres du Conseil du Kernel.\\
+Si un Prévôt change de fonction ou si le Conseil a accepté son retrait à la fin de son Mandat, le Prévôts sortant est tenu de porter l’insigne de la fonction qu’il a exercé mais disposé de façon plus basse sur son band, si le Prévôt possède le titre de Membre du Conseil du Kernel, il est tenu de le porter en deçà de son emblème.\\
+Le Collège comprend donc un Senior, un Cantor Primus, un Cantor Secundus, un Questor, un Fux, un Censor. \ **+ scribe**
+A l’exception du Cantor Secundus toutes les fonctions doivent être endossées par des Membres de la Guilde. Il est également possible de suppléer quelques Prévôts en fonction des besoins. Le Prévôt désirant être épaulé en fait la demande au Senior qui désigne un suppléent sur les conseils du Prévôt.\\ **non. pas à faire d'exception pour le cantor 2**
+\\
+CO-33\\
+Le Senior est le premier Prévôt du Collège. Il supervise les réunions externes. Il est à noter qu’il n’est pas indispensable pour les activités publiques, que le Grand Senior prenne le rôle de Senior. Le Senior a le pouvoir de remplacer tout membre du collège avec l’accord du Grand Senior. Son insigne le représentant est la couronne.\\ **pq le grand senior n'est il pas 1er prévot?**
+\\
+CO-34\\
+Le Grand Senior préside toutes les réunions internes. Les réunions internes étant L’Initiation, le Dies Natalis et les réunions du Conseil du Kernel. Son insigne le représentant est la couronne ainsi qu’une palme.\\ **Pas d'initiation. Les réunions sont tout autant du collège que du kernel**
+Le Grand Senior est responsable de la diplomatie tant interne que vis-à-vis des autres associations. Il est invité à entretenir et à valoriser les relations avec lesdites associations. Dans cette optique, il se doit de respecter la voie tracée par ses prédécesseurs.\\
+Il assume la «garde» de la Guilde Gates.\\
+Il peut légiférer et s’exprime par Décrets. Ceux-ci n’iront en rien à l’encontre de l’esprit ou de la lettre des textes législatifs existants. Pour être d’application, ils devront être votés par le Conseil du Kernel.\\ **Pas de vote du collège/membre?**
+Le Mandat du Grand Senior est de un an. Avec l’approbation du Conseil du Kernel, celui-ci est reconductible. **non. C'est les élections qui décident si on reconduit ou pas** Bien avant le terme définitif de son mandat, il est du devoir du Grand Senior de proposer au Conseil du Kernel un candidat à sa succession **Non, le pouvoir est au membre**. Le mandat de Grand Senior est accessible à tout Membre de la Guilde Gates. \\
+Le «nouveau» Grand Senior est à sa nomination, ipso facto admis dans le Conseil du Kernel et il a le devoir de porter l’emblème conformément au blason déposé aux Archives sous la dénomination de «1. Blason de la Guilde Gates».
+\\
+CO-35\\
+Le Cantor Primus est le second Prévôt. Il est tenu de la bonne tenue des chants et le cas échéant de lancer des chansons des chansonniers estudiantins tolérés par le Grand Senior.\\
+Il est aidé dans sa tâche par le troisième Prévôt, le Cantor Secundus. L’insigne représentant les 2 Prévôts cités est la lyre. \\
+Son mandat, comme celui du Cantor Secundus est de un an et est reconductible avec l’accord du Conseil du Kernel.\\
+\\
+CO-36\\
+Le Censor est le quatrième Prévôt du Collège. Il est tenu de faire respecter les règles de corona et ou de cantus pendant les réunions externes. Son insigne le représentant est le Glaive.\\
+Il est tenu de veiller à ce que la tenue vestimentaire des membres de l’assemblé soit correcte. \\
+Il peut le cas échéant infligés des doigts de récompense ou de pénitence à un membre de l’Assemblée, voir du Collège.
+Si le Censor juge qu’un membre de l’Assemblée n’est plus dans l’état d’ingurgiter des boissons alcoolisées, il imposera que ce membre retrouve ses esprits au moyen d’eau de façon temporaire ou définitive.\\
+Si le Censor juge qu’un membre de l’Assemblée, dérange par son attitude et son comportement, il l’information de l’imminence d’une sanction, et le cas échéant, avec l’accord du Senior, il dira de vive voix «ad siberiam» indiquant que le membre n’est plus digne de figurer dans l’Assemblée et il est convié à se retirer.\\
+Son mandat est de un an est reconductible avec l’accord du Conseil du Kernel.\\ **non**
+\\
+CO-37\\
+Le Fux est le cinquième Prévôt du Collège. Il est tenu de gérer au mieux l’approvisionnement de boissons pour les membres de la corona. Il est également tenu d’informer le Questor si des problèmes pécuniaires ou bibitifs surviendrait. L’insigne représentant sa fonction est la chope de bière.\\
+S’il demande une assistance dans sa tâche, les postulants sont ipso facto volontaires. Le Senior désignera le ou les suppléants.\\
+Son mandat est de un an est reconductible avec l’accord du Conseil du Kernel.\\ **non**
+\\
+CO-38\\
+Le Questor est le sixième et dernier Prévôt du Collège. Il est tenu de réclamer un montant minimum mais suffisant pour avoir le loisir de se désaltérer à sa guise pendant toute la durée de l’activité. L’insigne représentant le Questor est la bourse (ou l’écureuil ou les clefs croisées).\\
+Il est également charger de s’occuper de la gestion des comptes. Il est d’ailleurs tenu de gérer les comptes dans une clarté transparente et accessible aux membres du Conseil du Kernel.\\
+Son mandat est de un an est reconductible avec l’accord du Conseil du Kernel.\\ **non**
+\\
+CO-39\\
+Lors de sa prise de fonction de Prévôt, le futur Prévôt s’engage devant le Grand Senior en prêtant le Serment de Prévôts.\\
+«Moi…, je m’engage à remplir au mieux la fonction de … qui m’est confiée, à être solidaire à l’ensemble des Prévôts, à me soumettre à l’autorité du Grand Senior, et à respecter le Codex».\\
+Le nouveau Prévôt recevra un diplôme pour légaliser sa prise de fonction (conforme au modèle déposé aux archives, 2. Diplôme de Membre de la Guilde Gates).\\ **on a jamaisfait ce genre de diplome --> on bac **
+\\
+CO-40\\
+Pour l’investiture du nouveau Grand Senior, il devra déclarer au Grand Senior sortant : «Développer l’idéal de camaraderie, témoigner de l’esprit d’Amitié, défendre la Guilde dans ses principes, respecter les traditions ancestrales, perpétuer l’art de la guindaille, moi,…, j’en fais ici le Serment». Le Grand Senior sortant lui répond : «Nous, …, en accord avec le Conseil des Kernel t’avons élu à être instamment le Grand Senior de notre Guilde. Il nous plaît que tu puisses en porter longuement les insignes, à son honneur, à ses services, à l’exaltation de nos traditions, à l’accroissement et à l’honneur de la Guilde, de ses renommées et mérites».\\
+Au terme de celle-ci, le Grand Senior sortant remettra les Archives à son successeur.\\
+Le nouveau Grand Senior recevra un diplôme pour légaliser sa prise de fonction (conforme au modèle déposé aux archives, 2. Diplôme de Membre de la Guilde Gates).\\ **idem, pas de diplome**
+
+===== Chapitre 8 – Le Conseil du Kernel =====
+\\
+CO-41\\
+Le Conseil du Kernel est constitué de certains Membres de la Guilde. Ceux-ci sont les garants des us et coutumes de la Guilde.\\
+Le Conseil du Kernel est constitué d’ancien Grand Senior et de personne émérites.\\
+Pour promouvoir un Membre au Conseil, un Membre du Conseil doit proposer la candidature d’un autre au Conseil du Kernel. Le Conseil effectuera un vote et une double majorité est nécessaire pour valider le vote. Tout Membre ayant été promu au grade de Membre du Conseil du Kernel sera prévenu au Dies Natalis et recevra un Diplôme conforme au diplôme déposé aux Archives sous la dénomination de « 2. Diplôme de Membre de la Guilde Gates ».\\
+Tous les Membres du Conseil du Kernel sont élevés à un grade unique et identique, à l’exception du Grand Senior.\\
+Tout Membre du Conseil a la possibilité de se retirer du Conseil des Kernel. Pour ce faire, il avertira le Conseil de sa décision, le Grand Senior décidera si un vote est nécessaire pour accepter la décision du Membre.\\ **on n'a pas à empécher les gens de partir**
+\\
+CO-42\\
+Le Conseil du Kernel peut être convoqué en réunion particulière par le Grand Senior.\\
+\\
+CO-43\\
+Le Conseil du Kernel est l’organe suprême de la Guilde. Son pouvoir est omniprésent. Son but étant la perpétuation des traditions du folklore estudiantin et sa continuité, il n’intervient qu’en cas d’extrême nécessité.\\
+\\
+CO-44\\
+Le Conseil du Kernel, sur proposition d’un Membre de la guilde, choisit parmi les candidatures de Postulats, les personnes dignes de recevoir leur Instruction.\\ **pas certain qu'on doit limiter ça au kernel**
+\\
+CO-45\\
+Le Conseil du Kernel choisit parmi les Membres de la Guilde ceux qui pourront faire parti du Collège des Prévôts.\\ **absolument pas, ce sont les élections**
+\\
+CO-46\\
+Le Conseil du Kernel choisit, sur proposition du Grand Senior sortant, le nouveau Grand Senior. Dès sa nomination, le Grand Senior est ipso facto admis dans le Conseil du Kernel en tant que Membre du Conseil du Kernel.\\ **idem**
+\\
+===== Chapitre 9 – LE POUVOIR LEGISLATIF =====
+\\
+CO-47 \\
+Par souci historique, le Codex est déclaré et toutes modifications qui pourraient advenir devront être dûment et systématiquement enregistrés et versé aux Archives.\\
+\\
+CO-48\\
+La structure législative idéale a été définie comme suit : le Codex, les Décrets et les Archives.\\
+\\
+CO-49\\
+Le Codex rassemble en 12 chapitres les statuts originels rédigés par les Fondateurs de la Guilde Gates.\\ **et revu le DATE par....**
+\\
+CO-50\\
+Les Décrets sont des textes législatifs édictés par le Conseil du Kernel, après avoir été préalablement votés a la majorité.\\
+\\
+CO-51\\
+Les Archives accumuleront dans les fardes prévues à cet effet tout document dont la conservation est jugée nécessaire. Chaque document versé aux Archives est numéroté. Pour des raisons de sécurité, l’archivage d’un document doit intervenir dans les 30jours de sa réception.\\
+\\
+CO-52\\
+C’est à l’Archiviste que revient le devoir d’assurer la bonne conservation des documents originaux et/ou certifiés comme tels, à savoir le Codex, les Décrets et les Archives.
+L’organisation interne des Archives est de sa compétence.\\
+A la requête de tout Membre, il peut fournir des duplicata de documents relevant des Archives. Les frais occasionnés sont à charge du demandeur.\\
+\\
+CO-53\\
+La fonction d’Archiviste est confié au Grand Senior, sans pour autant que les deux fonctions soient confondues.\\
+La Transmission de la fonction d’Archiviste entraîne obligatoirement la transmission des Archives.\\
+\\
+CO-54\\
+La version actualisée des textes législatifs est publiée dans un petit ouvrage (de format A5) relié et destiné à l’usage en guindaille.\\
+\\
+===== Chapitre 10 – LES REUNIONS ET LEUR DEROULEMENT =====
+\\
+CO-55 \\
+Le nombre de cantux n’est pas fixé mais un minimum de dix cantux devra être organisé annuellement. Les dates et lieux de réunions, décidés par le Conseil du Kernel, seront communiqués par voie épistolaire à chacun et ce, deux semaines à l’avance.\\ **Ca sert à rien de donner un b minimum. C'est le Collège qui organise ça, pas le kernel**
+\\
+CO-56\\
+Par « cantux », il est entendu une séance de la Guilde Gates qui est conforme au déroulement de séance statutairement défini. Tout autre « réunion » est considérée comme une activité.
+Les activités tels que l’Initiation et l’Intronisation sont considérées comme des activités internes et donc ne sont pas ouverts au public.\\
+\\ **pas d'initiation**
+CO-57\\
+L’ensemble des cantux est ouvert à l’ensemble du public.\\
+\\
+CO-58\\
+Le déroulement des séances est fixé comme suit :\\
+ \\
+Première partie :\\
+Ouverture de la séance\\
+« Gaudeamus Igitur »\\
+Allocutions de bienvenue.\\
+Chants des associations présentes\\
+Présentation de chants et de guindaille.\\
+Tempus Commune\\
+\\
+Deuxième partie :\\
+Reprise de la séance\\
+« La Bière »\\
+Présentation d’autres chants et d’autres guindailles.\\
+A minuit : «  La femme du Roulier »\\
+Dernières communications\\
+Clôture de Séance\\
+« Le chant des étudiants » \\ **Lied Van Geen Taal aussi**
+« Le Semeur »\\
+\\
+CO-59\\
+Les tables doivent être disposées en U.\\
+\\
+Le Senior se tient à la base du U, le Cantor Primus siège à la droite du Senior et le Cantor Secundus siège à gauche du Senior.\\
+L’ensemble des personnes présentent, prennent place sur les  deux branches du U.
+L’Assemblée ainsi constituée porte le nom de Corona.\\
+\\
+CO-60\\
+A l’appel du Senior par les formulations « Il ad loca » et « Il ad sedes », les personnes présentent prennent place à l’exception du Fux et du Censor qui ont le droit de rester debout et d’aller et venir à leurs guises.\\
+Durant cette installation, le Fux fait déposer deux verres de bière (d’une autre boisson si la réunion a pour thème cette autre boisson) devant chaque participant. Il est défendu de boire avant que le Senior ne l’ait autorisé.\\ **Veux t on vraiment statuer sur le nombre de verres ? :o) **
+\\
+Le Senior ouvre la réunion par la formulation « Incipit sodalicii nostri sessio ! ».Il enchaîne ensuite par un à-fonds d’ouverture, le déroulement de celui-ci est laissé à son appréciation, son originalité et sa dextérité à diriger une Corona.\\ **jamais fait d'affond d'ouverture mais c'est peut être une bonne idée**
+\\
+CO-61\\
+Lorsque le Senior doit quitter la Corona, de façon temporaire ou définitif, il indique son remplaçant qui pourra être un Membre de la Guilde et ou un Prévôt, qui deviendra le Senior. A son retour, il récupère sa place et son titre.\\ **Le Cantor Primus fait cette tache par défaut**
+\\
+CO-62\\
+Le tempus général ou « Tempus Commune » est une pause que le Senior accorde de toute façon entre deux parties du cantux mais qu’il peut également accorder à un autre moment qu’il juge opportun. Pour un tempus général, il faut que le Senior prononce : « Il ut tempus commune secundum multisecularem traditionem pissandi sit », la corona répond alors en chœur « Il ». Celui qui ne répond pas ne peut quitter sa place. Si un participant estime que le tempus général tarde, il peut dire « Senior, opto ut tempus pissendi sit ». Le Senior répond alors « Sit »  ou « Non sit » selon qu’il y a lieu ou pas.\\  **Optamus, pas Il**
+\\
+CO-63\\
+Pour Clôturer le cantux, le Senior  proclame : « Ordinem dimitto sine die » On entonne ensuite « le chant des étudiants » et « Le Semeur ».\\
+\\ **on a jamais fait ça**
+===== Chapitre 11 – LES USAGES AU CANTUX =====
+\\
+CO-64\\
+Au sujet de la contenance d’un participant. Le participant est concis mais littéraire dans sa manière de s’exprimer. Le participant respecte et applique avec ferveur la maxime « Primum bibere, deinde philosophare ». En cantux, le participant respecte les silences qui lui sont imposés, essentiellement quand le Senior parle ou qu’un autre participant à la parole. Un participant est tenu de se lever lorsqu ‘il s’adresse à la Corona (découvert), lorsqu’on chante le Gaudeamus (découvert) et le Io Vivat. Il est également tenu lors du tempus de laisser son couvre chef (s’il en possède un) à sa place tourné en direction du Senior.\\
+\\
+CO-65\\
+Le silence doit régner pendant les discours, lectures, cérémonies et pendant toutes les manifestations pour lesquelles le Senior réclame le silence.\\
+Lorsque celui-ci commande « Silentium ! », le silence doit se faire immédiatement.
+Le non-respect de cette formule entraîne des punitions laissées à l’appréciation du Senior et ou du ou des Censors.\\
+\\
+CO-66\\
+Un participant  s’adresse au Senior par les termes de « Senior » et s’adresse à un autre participant par le terme de « Camarade ». Il est également tenu de parler de lui à la troisième personne du singulier.\\ **réserver camarades aux autres membres de la guilde?**
+\\
+CO-67
+Pour s’adresser à la Corona, un participant doit toujours demander la parole.\\
+Celle-ci s’obtient en adressant la formule « Senior, peto verbum !» ; Le Senior répondra par « Habes », « Non habes » ou « Non habes pro tempore ». Il peut également dire « La parole est à … et à lui seul ».\\
+Quand on reçoit la parole, on dit « Ergo habeo » avant toute autre chose. L’oubli de cette formule entraîne une sanction. Quand on a plus rien à dire et que l’on veut rendre la parole, la formule est simplement « Dixit » à l’attention du Senior. Son oubli entraîne aussi une sanction.\\
+\\
+CO-68\\
+Le Senior a toujours priorité de parole.\\
+\\
+CO-69\\
+Le Senior se réserve le droit de cet article. Libre à lui de l’inventer à sa convenance ! \\
+\\
+CO-70\\
+Pour quitter momentanément la Corona, on s’adresse au Senior ou au Censor par la formule « Peto tempus pissendi personalis », la personne interrogée répondra par « Habes »,  « Non habes » ou « Non habes pro tempore ».\\
+\\
+CO-71\\
+Pour faire boire la Corona le Senior dit : « Il Corona ». La Corona répond par « Il Senior ». Il peut arriver que le Senior désigne la quantité à boire, « ad fundum ! », « ad diagonalem » ou « ad libitum ».\\
+\\
+CO-72\\
+Tous les participants sont tenus de chanter ou du moins d’écouter les chants afin de les mémoriser. Le Senior peut à sa guise choisir de chanter la dernière strophe par la formule « Ad ultimam ! ».\\
+\\
+CO-73\\
+Il est prié aux participants de ne pas boire ou fumer pendant les chants sous peines de punitions.\\ **et même de fumer en dehors des chants**
+\\
+CO-74\\
+Dans toutes les réunions estudiantines, les participants manifestent leur approbation ou leur sympathie en battant la table de la main.\\
+\\
+CO-75\\
+Un retardataire au cantux est punissable. Celui-ci est introduit au milieu de la Corona, dit « ad pistum ! ». Il récite «  Decet me castigare propter moram », s’explique sur les raisons de son retard et termine par « Quod erat demonstrandum ». Le retardataire ne chantera pas son chant de délégation sauf si le Senior lui en fait la demande.\\
+\\
+CO-76\\
+Quand un participant est sanctionné d’un à-fonds de pénitence avec formule par le Senior, il se lève, se découvre, prononce « Paenitet me pecasse cive pecavisse » et fait son à-fonds.\\
+\\
+CO-77\\
+Quand un participant est récompensé d’un affond de récompense avec formule par le Senior, il se lève, se découvre, prononce « Gaudeo quod non peccavi et illum poculum merui » et fait son affond.\\
+===== Chapitre 12 – LES DELEGUATIONS À L’EXTERIEUR =====
+\\
+CO-78\\
+Tout Membre de la Guilde Gates est libre de se rendre à des cantus, des guildes, des coronas ou des ordres. Le Membre est tenu de porter son band de la Guilde Gates.\\
+\\
+CO-79\\
+Tout membre, se rendant en délégation, se doit de garder une certaine retenue, ne doit jamais oublier que par sa présence il représente la Guilde Gates et est donc tenu d’en préserver l’image de dignité et de correction.\\
+\\
+
+
+
+====== Les Décrets ======
+Décret 1\\
+Sur demande d'un membre du conseil du Kernel, toute personne extérieure à la guilde peut être présente à une réunion du conseil du Kernel. Cependant elle n'a pas de droit de vote pour toutes les décisions internes de la Guilde.\\
+Il est également nécessaire de préciser que si un tiers des Membres du Kernel s'oppose à l'invitation d'une personne, cette personne ne sera pas accepté.\\
+\\
+Décret 2\\
+Il convient de parler de soi à la troisième personne du singulier lors des réunions du conseil du Kernel (pour les cantux cfr Co-66).\\
+\\
+Décret 3\\
+Toute sonnerie intempestive en réunion du Conseil du Kernel ou en cantux entrainera 5 affonds de pénitence pour le détenteur du-dit objet bruyant.\\
+\\
+Décret 4 \\
+Le poste d'impétrant est créé.\\
+Tout postulant ayant réussi son Intronisation devient Impétrant. Il est tenu, comme les postulants, de porter son band sur l'épaule gauche. Il effectuera sa Prise d'Habit l'année suivant celle de son Instruction réussie.\\
+Ce décret prévaut sur l'article Co-21.\\ **cfr au dessus**
+\\
+Décret 5\\
+L'ensemble des réunions de la Guilde Gates est non-fumeur. Cependant le Senior peut demander un vote à la Corona pour ne pas tenir compte de ce décret.\\
+Une simple majorité est nécessaire pour ce vote, toute personne de la corona n'ayant qu'une voix, et le Senior ne pourra pas s'opposer au résultat du vote.\\
+
+
+**On devrait définir clairement le système de vote (qui vote, type de vote, type de majorité, etc) pour les élections, les présentation de postulants, les réussite d'intronisation et les décrets**

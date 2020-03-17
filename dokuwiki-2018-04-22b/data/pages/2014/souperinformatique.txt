@@ -1,0 +1,65 @@
+Bonjour à tous et à toutes
+
+Le Cercle Informatique à le plaisir de vous inviter à son souper facultaire. 
+L'occasion idéale de rencontrer d'autres étudiants mais aussi les professeurs et assistants.
+
+Pour les BA1 c'est le moments idéal pour venir avec vos questions concernant votre première itération du projet d'année, 
+les étudiants des années supérieures, membres du cercle et autres seront disponibles afin d'y répondre et de vous aider.
+
+-------------------------------
+Menu:
+
+Boulets Liégeois
+
+ou
+
+Bouchée à la Reine
+
+
+Le tout acompagné de frites bien sur :)
+
+Prix:
+
+Repas + 1 boisson : 5€
+
+Réservation: https://docs.google.com/forms/d/1ZQ9KYdV5YCvq1W26Hx5SKcufZ4h8EeI5YtbO3-z6CqQ/viewform?usp=send_form
+
+------------------------------
+
+Réservation enregistrées:
+|  |Nom          |Prénom   |Choix             |
+|0 |Potvin       |Nicolas  |Boulets Liégeois  |
+|1 |Candura      |Adriano  |Boulets Liégeois  |
+|2 |Titi         |Max      |Boulets Liégeois  |
+|3 |Steimes      |Vincent  |Boulets Liégeois  |
+|4 |Barthel      |Xavier   |Boulets Liégeois  |
+|5 |Knutz        |Gabriel  |Boulets Liégeois  |
+|6 |Duhen        |Raphael  |Boulets Liégeois  |
+|7 |Cayphas      |Antoine  |Boulets Liégeois  |
+|8 |Steckelmacher|Denis    |Boulets Liégeois  |
+|9 |Riggio       |Jon      |Boulets Liégeois  |
+|10|Mazu         |Patrick  |Boulets Liégeois  |
+|11|Desclefs     |Maxime   |Bouchée à la Reine|
+|12|Schembri     |Julian   |Bouchée à la Reine|
+|13|Brun         |Marie    |Bouchée à la Reine|
+|14|Detobel      |Rémy     |Boulets Liégeois  |
+|15|Blanchet     |Oscar    |Bouchée à la Reine|
+|16|Zhou-Pourbaix|Yana Line|Bouchée à la Reine|
+|17|Grégory      |Antoniuc |Boulets Liégeois  |
+|18|Tassi        |Kevin    |Boulets Liégeois  |
+|19|Tassi        |Kevin(II)|Boulets Liégeois  |
+|20|Germeau      |Fabian   |Bouchée à la Reine|
+|21|Noel         |Maxime   |Boulets Liégeois  |
+|22|Bolohan    |Adrian  |Bouchée à la Reine |
+|23|Veranneman   |Philippe |Boulets Liégeois  |
+|24|Omer         |Nicolas  |Boulets Liégeois  |
+|25|Hunin        |Nicolas  |Boulets Liégeois  |
+|26|Terryn       |Arnaud   |Boulets Liégeois  |
+|27|Robinson     |Eileen   |Bouchée à la Reine|
+|28|Louvet       |Florian|Boulets Liégeois |
+|29|Moulart|Walter|Boulets Liégeois |
+|30|Moulart|Walter(II)|Boulets Liégeois |
+|31|Terol Espino  |Miguel  |Bouchée à la Reine|
+|32|Maximilien |Romain |Boulets Liégeois |
+|33|Girishaka|Fred|Boulets Liégeois |
+|34|Nogueira Cabaço|Pedro Filipe|Bouchée à la Reine|

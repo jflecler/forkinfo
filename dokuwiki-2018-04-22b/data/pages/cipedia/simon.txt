@@ -1,0 +1,27 @@
+====== Simon  Says======
+
+
+=====  Infos  =====
+
+**Nom** : De Baets\\
+**Prénom** : Simon\\
+**Surnom** : Simon Says : "C'est pas moi c'est les autres!"\\
+**[[cipedia:Anniversaire|Date de naissance]]:** : 11/11/1989
+
+===== Parcours Académique =====
+*[[2007 | 2007-2008]] : BA1 Informatique, co-délégué des étudiants en informatique\\
+*[[2008 | 2008-2009]] : BA2 Informatique, co-délégué des étudiants en informatique\\
+*[[2009 | 2009-2010]] : BA3 Informatique, co-délégué des étudiants en informatique\\
+*[[2010 | 2010-2011]] : MA1 Informatique, délégué des étudiants en informatique\\
+*[[2011 | 2011-2012]] : MA2 Informatique, délégué des étudiants en informatique\\
+
+===== Comité de cercle =====
+*[[2010 | 2010-2011]] : Délégué cours et relation BA1\\
+*[[2011 | 2011-2012]] : Délégué FOSDEM\\
+
+===== Folklore =====
+{{ http://www.rotorob.com/wp-content/uploads/2007/03/Nelson_Muntz_rie2.jpg |}}
+
+===== Divers =====
+C'est pas moi c'est les autres le divers!
+

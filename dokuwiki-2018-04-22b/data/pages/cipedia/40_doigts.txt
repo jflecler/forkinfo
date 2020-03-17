@@ -1,0 +1,58 @@
+====== Le jeu des 40 Doigs (ou les 1000 Prones) ======
+
+===== Matériel =====
+  * Une quantité astronomique de Pils (ou de Blanche, voire de Chimay Bleue pour les Hardcore Warriors).
+  * Les [[https://forkinfo.be/files/40doigts/32%20doigts.pdf|Cartes officielles]] du jeu.
+
+===== Règles du jeu =====
+Les règles du jeu sont similaires aux règles du "1000 Bornes"((Les règles officielles du jeu officiel sont dispo [[https://fr.wikipedia.org/wiki/1000_bornes|ici]])); et pour cause, puisque les "40 doigts" sont une version détournée pirate non-officielle des "1000 Bornes". La différence réside dans le fait que dans les 1000 Prones, on guindaille au lieu de conduire et que les bornes kilométriques (de cheval) sont remplacées par des doigts (25 Bornes = 1 doigts)((Un rapide calcul et vous verrez que le compte y est.)).
+
+On procédera donc aux quelques modifications suivantes :
+==== Cartes ====
+Les cartes originales sont remplacées par les cartes suivantes :
+
+  * Les Bornes
+<code>
+25 Bornes = 1 doigt
+50 Bornes = 2 doigts
+75 Bornes = 3 doigts
+100 Bornes = 4 doigts
+200 Bornes = 8 doigts ⇒ A fond
+</code>
+  * Les attaques
+<code>
+Feu rouge = Blocus
+Limitation de vitesse = Limitation de Pils (Petite gunidaille)
+Pneu crevé = Quiche
+Accident = Gueule de Bois
+Panne sèche = Pénurie de Pils
+</code>
+  * Les parades
+<code>
+Feu vert = Guindaillez
+Fin de limitation = idem
+Roue de secours = Motilium
+Réparation = Alka-Seltzer
+Station service = Appro de Spider
+</code>
+  * Les Bottes
+<code>
+Vehicule prioritaire = Prez de Bapt (on ne peut ni lui imposer un Blocus ni une petite guindaille)
+Pneu Increvable = Estomac d'acier (les cartes 'Quiche' n'ont plus d'effet sur le joueur possédant cette botte)
+As du volant = Aquarius (les cartes 'gueule de bois' n'ont plus d'effet sur le joueur possédant cette botte)
+Citerne d'essence = Livraison HLS (les cartes 'pénurie de Pils' n'ont plus d'effet sur le joueur possédant cette botte)
+</code>
+
+
+==== Déroulement du jeu ====
+  * Chaque joueur qui abat (abba) une carte "n" doigts doit boire le nombre de doigts correspondant à la carte jouée (d'où la quantité astronomique de pils requise);
+  * Comme dans la version originale, le joueur qui abat une carte Affond (anciennement 200 Bornes avec l'hirondelle) est obligé de mimer et de faire le bruit d'un avion qui décolle. Sans cela, sa carte est retirée du jeu (en dessous du sabot) et le joueur passe son tour;
+  * Lorsqu'une carte attaque est jouée contre vous, si vous possédez l'une des 4 bottes correspondantes, vous pouvez jouer immédiatement celle-ci et prendre la main. Mais vous devez impérativement hurler "Coup fourré" sans cela, la carte est retirée du paquet (sous le sabot) et le jeu reprend son cours normal.
+
+
+===== Historique =====
+  * L'origine du jeu remonte à pffff je sais plus quand en fait … L'idée nous est venue lorsqu'on a retrouvé un vieux "1000 Bornes" dans le grenier de la maison de Five. Le jeu est en effet bigrement bien foutu, mais les images des cartes avaient vraiment mal vieilli. Nous (Five, Duff et Caps) décidâmes donc de donner une seconde jeunesse à ce jeu en le faisant tourner autour de notre passe-temps favori : "la picole". Ca nous a pris une après-midi entière pour conceptualiser la nouvelle mouture du jeu mais surtout pour dessiner les cartes (entièrement au Paintbrush svp((Il est grand temps que je me mette au flash moi...)))
+  * Les cercles représentés sur les cartes "Doigts" sont classés du plus naze au plus cool au niveau du potentiel fête : 1 Doigt = Maxi-naze, 2 = Naze, 3 = Branquignolle, 4 = Bon allez ça va encore, 8 = La super ambiance((Depuis malheureusement beaucoup d'eau a coulé sous les ponts et les choses ont bien changé… 'va peut-être falloir faire une version 2.0)).
+  * Le type représenté sur la carte Gueule de bois n'est autres que Petit Fred. S'étant malencontreusement endormi lors du bal CI il a été victime de l'ancètre de la la bite dans l'oreille, à savoir le contenu des déchets de la table du banquet dans l'oreille (mégots, chips, pailles, ....).
+  * Le type représenté sur la carte appro de Spider n'est autre que Spider lui-même. S'il y a des togés à vie (blablabla togé à vie), lui est devenu un barman à vie. C'est lui qui a fait les courses du bar pendant plusieurs années et a apporté quelques fantaisies dans les choix de bières et de nourriture. Le faire apparaître dans le jeu des 40 doigts n'est rien d'autre que le plus naturel des hommages((Mais si on avait su que ça allait être si populaire, on lui aurait demandé de l'argent quand même.)).
+

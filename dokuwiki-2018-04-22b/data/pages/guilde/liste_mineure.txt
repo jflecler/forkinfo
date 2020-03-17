@@ -1,0 +1,5 @@
+====== Liste des chants à connaître par les Postulants ======
+
+  * [[liste_mineure_cp|Liste de la Guilde Polytech]]
+  * [[liste_mineure_gluck|Proposition de gluck]]
+  * [[liste_mineure_dash|Proposition de Dash]]

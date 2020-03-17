@@ -1,0 +1,31 @@
+======== La descente en enfer =========
+
+- matin (dès 10h): 2 croissants accompagnés d'un café et d'un jus d'orange (ou deux cafés ou deux jus d'orange)
+
+- midi: un truc à manger au choix avec ce qu'il y a dans le cerk
+
+- soir (jusqu'à 23h): moussaka accompagné d'une salade
+
+- + un accompagnement de 6 bières
+
+Le prix pour cette fabuleuse journee est de 15 euros.
+
+CEPENDANT, pour 5€ supplémentaires l'accompagnement sera non pas de 6 bières mais de 13 bières (donc 1 par heure)
+
+
+**Sur inscription uniquement**
+
+TODO: trouver un gong
+
+
+^ Identifiant^forfait 5€ en + ^ A payé             ^
+|Gigo        | oui      |Non    |
+|Johnny l'épave        | oui      |Non    |
+|Fossile (les bleus ne sont pas dispensés :) )        | Non      |Non    |
+|SDF       |oui         |non       |
+|Rooooony (not dead)        | oui      |Non    |
+       
+
+
+
+{{http://pix.nofrag.com/e8/ec/3c1cb92bb45cd76454c9501fb72d.jpg}} An idea of Gigo(c) for the CI

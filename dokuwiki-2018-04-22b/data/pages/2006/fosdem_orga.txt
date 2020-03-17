@@ -1,0 +1,93 @@
+====== Organisation FOSDEM 2007 ======
+
+
+===== TODO =====
+
+  * Prévenir la sécu qu'on veut arriver samedi vers 5h du mat dans le H et que vendredi on arrive avec des voitures donc faut les barières ouvertes.
+--> **Envoyé un email à thjansse pour le prévenir, j'attend ses réactions**
+  * alors ya 3 classes près du janson (3 salles pc?) ils aimeraient les avoir si c'est pas déjà fait
+--> **Gerry a perdu le numéro, apparement Raphael s'occupe de ça mais il a pas encore répondu à mon email**
+  * confirmer qu'on a bien 2 micros et en rajouter un troisième pour une des devrooms
+--> **Envoyé un mail au CTE pour demander**
+  * prévoir un frigo (prévenir le CP bien à l'avance)
+--> **j'ai envoyé un email, j'attends leur réponse**
+  * la bouffe chaude, vu que gigo nous a dit d'investiguer ça?
+--> **Tropic catering est d'accord de vendre que du chaud (pas boisson, etc) et donner 10% des benef**
+  * trouver qqn pour imprimer la carte des bières en couleur et en beaucoup d'exemplaires.
+
+  * Dans la semaine prochaine, prendre 6 hub BNC ainsi que les cables chez resulb. Pour ça faut un bon vert à prendre chez chaudar.
+--> **PH s'occupe de ça ainsi que les rendre lundi. Il s'occupera du projo du DI également**
+
+
+
+
+
+===== Meeting 17/2 =====
+  * Demaner au CTE si la camera est avec un pied.
+--> **TODO**
+  * vendredi demadner a la secu si ils savent ouvrir le local ferrer et si ya un cours dedans le samedi.
+--> **TODO**
+  * Voir avec la sécu si le parquing ça pose un prob pour vendre des frites :)
+--> **J'attend leur réponse**
+  * Voir si on sait avoir des cartes de bruxelles de la stib
+--> **TODO**
+  * Prendre un annuaire page jaune
+--> **Nico le fait**
+  * Camionette: tille@xalasys.com à contacter si besoin pour le vendredi.
+  * Mercredi aprem nico et moi on va prendre les BNC, checker les IP et les cartes de la stib
+
+===== DONE =====
+
+  * demander une salle pour stocker du matos de valeur pour vendredi aprèm-soir (même des toilettes c'est bon si c'est fermé à clef) si on  a pas déjà
+--> On peut mettre dans le local à coté du bar où on met nos stoques.
+  * il faudrait plus faire chier pour la connexion du janson (peut-être même ne pas passer par résulb mais direct contacter le service technique)
+--> j'ai été chier dans les botes du CTE qui semble pas me croire mais elle a dit qu'elle vérifirait...
+  * essayer de faire transiter les trucs du cerk vers le solbosh avant que l'avenue de l'université soit embouteillée le vendredi
+--> Ouaip, le cerk a aussi les courses à faire transiter, faut qu'un gars du fosdem vienne en voiture qd il veut...
+  * savoir exactement quand commencent et finissent les cours de samedi (surtout pour savoir quand les couloirs vont regorger d'étudiants)
+--> savoir exactement ça relève de l'impossible avec l'organisation de feu de l'ulb... tout ce que je sais c'est qu'on a pas su avoir les rooms avant 13h pcq y il a des cours dans la plupart d'entre eux.
+  * où en sont les sandwitches?
+--> déjà commandé
+  * on est assurés pour les 3 projos? si non, il faut mettre sur le wiki la marque, numéro de série, et estimation du prix actuel pour les assurances du fosdem
+--> les 2 projo du CTE sont assurés en cas d'éffraction. Celui du DI n'est pas assuré.
+  * tu as updaté le site web, finalement?
+--> done
+  * on prend quoi comme bières, à quel prix, prévoir une liste à imprimer et afficher
+--> **la liste des courses est faite**
+  * trouver une machine pour faire du café de manière industriel
+--> **Done, staz a tout ça**
+
+===== Postes =====
+
+==== vendredi ====
+  * Voitures: 3
+  * porter tables + courses + installation bar + frigo CP: 7
+  * Il faut réceptionner les tables au batiment H (entre 10 et 15h)
+  * Aller chercher le data au secretatiat d'info (**avant 16h**)
+
+==== samedi ====
+  * Voiture : 1
+  * 10h - 12h : 3
+  * 12h - 14h : 7
+  * 14h - 18h : 3
+
+==== dimanche ====
+  * Voiture : 1
+  * 10h - 12h : 3
+  * 12h - 14h : 7
+  * 14h - 18h : 3
+  * 17h: rangement : 5
+
+==== lundi ====
+  * Rendre le dataprojecteur du DI **__pour 8h PILE__**
+  * ranger tables : 6
+  * Rendre les tables au batiment H (entre 10 et 15h)
+
+===== Notes =====
+  * Prendre le transpalet au magasin généraux c cool pour vendredi!
+
+===== Collis qui arrivent au CI =====
+  * **flyers** Date: ? Heure: ?
+  * **magasines** Date: ? Heure: ?
+  * **O'Reilly** Date: ? Heure: ?
+  * 

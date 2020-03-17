@@ -1,0 +1,20 @@
+===== Site web =====
+Le site sera en Django, donc en python. Les sources sont [[https://github.com/Psycojoker/UrLaB|là]]. 
+
+== Incubator ===
+Voir https://quadpad.lqdn.fr/8O9yGlQmJP (lire le chat à côté)
+
+Dans le but de faciliter la mise en commun et d'augmenter la chance qu'un projet arrive à terme, il faudra mettre en place un incubator, un service en ligne permettant :
+
+  * de lister l'ensemble des membres motivés avec leurs compétences et leurs centres d'intérêts, pour avoir une vision d'ensemble
+  * de visualiser les projets (définition, explications, roadmap, info utiles…) du hackerspace en cours et en planification
+  * de permettre à tous d'adhérer à un ensemble de projets auquel il est prêt à s'investir.
+  * de lancer les projets qui ont atteint un seuil critique de définition et de gens prêts à bosser dessus
+  * de coordonner la workforce sur plusieurs projets en cas de mise en pause forcée d'un autre
+
+
+
+== Zolie galerie photo ===
+== Page de contact ===
+== Calendrier ===
+== Un truc pour voir en temps réel si le HS est ouvert ===

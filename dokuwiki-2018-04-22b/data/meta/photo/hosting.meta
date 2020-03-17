@@ -1,0 +1,6 @@
+a:2:{s:7:"current";a:7:{s:4:"date";a:2:{s:7:"created";i:1508138723;s:8:"modified";i:1247565202;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:5:"title";s:10:"ressources";s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}s:11:"description";a:1:{s:8:"abstract";s:440:"ressources
+
+	*  nextGEN gallery : plugin wordpress pour integrer des images/galleries dans les tickets, assez classes - <http://nextgen.boelinger.com/templates/>
+	*  photoQ : photoblog plugin pour wordpress - <http://www.whoismanu.com/photoq-wordpress-photoblog-plugin/>
+	*  yapb : meme genre que photoQ, permet d'afficher les exifs et co - <http://johannes.jarolim.com/blog/wordpress/yet-another-photoblog/>
+	*  coppermine : une gallerie -";}s:8:"relation";a:1:{s:10:"firstimage";s:0:"";}}s:10:"persistent";a:3:{s:4:"date";a:1:{s:7:"created";i:1508138723;}s:4:"user";s:0:"";s:7:"creator";s:0:"";}}

@@ -1,0 +1,45 @@
+==== Point de départ ====
+Les problèmes d'organisation du FOSDEM au sein de l'ULB sont conséquents à l'édition 2008 qui a non seulement atteint une masse critique de visiteurs mais qui a aussi causé des problèmes d'organisation suite à des changements de procédures administratives au sein de l'université. Plusieurs services ont dès lors fait part de leurs doléances au sein de commissions ad hoc auxquelles nous n'avons pas accès. Un travail de rassemblement de l'information a été fait, rendez-vous ont été pris avec les différents acteurs.
+
+==== Agenda d'une édition standard ====
+=== Travail de préparation ===
+=== Fosdem  ===
+== Vendredi ==
+^ Heure ^Tâche ^
+|11h30|Prendre deux transpalettes aux magasins généraux|
+|12h| Prendre les 2 frigo du CP|
+|13h30| Prendre toutes les livraisons au CI et les apporter au solbosch|
+|13h30| Prendre des produits et du matériel de nettoyage|
+|15h| Prendre les tables+chaises au restaurant|
+|16h30| Partir faire les courses avec 3 voitures min|
+|18h30| Installer le bar|
+|Le soir |Finaliser et imprimer la carte des bières, la liste des prix et l'affiche pour dire de pas jeter les bouteilles|
+
+== Samedi == 
+Tenir le bar de 10h à 18h.
+
+A partir de 18h30 on sert plus personne au bar, on vide les poubelles et récup les vidanges, et on met tlm dehors à 19h00.
+Samedi 15h faire un inventaire des stocks qu'il reste en biere, sodas, café et préparer une liste de courses à faire le soir pour avoir assez le dimanche.
+
+
+== Dimanche ==
+Tout ramener et ranger.
+Récupérer le matériel prêté par l'université si les jobistes ne s'en occupent pas.
+
+== Lundi ==
+8h: Ramener les tables, rapporter les hubs BNC à resulb.
+
+=== Travail de débriefing ===
+
+
+==== Extension des personnes qui doivent être contactées ====
+^ Fonction ^ Nom ^ Extension ^
+|Adjointe du vice-recteur aux affaires étudiantes| Françoise Leroy|4432|
+|Adjointe du recteur | Mme Leenerts |2317|
+|Président du CPPT | Fabrizio Bucella | 2275 |
+|Dispatching auditoire | ??? | ??? |
+|Directrice CTE | Françoise d'Hautcourt | ??? |
+|SIPP|???|???|
+|Sécurité générale|???|???|
+|Service technique|???|???|
+|Magasins généraux|???|???|

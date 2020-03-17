@@ -1,0 +1,498 @@
+====== Codex 2.0 CR1======
+===== Avant propos =====
+La Guilde Gates !!!
+
+Depuis que je((L'auteur original de ce texte s'exprimant à la première personne est [[cipedia:Foxugly|Foxugly]]. Les ajouts à la 3e personne du singulier sont l'oeuvre des autres [[Membres]] de la Guilde Gates.)) suis rentré à l’ULB j'ai toujours entendu parler de la Guilde Gates, mais je ne l'ai jamais réellement vue. J’ai bien assisté à deux – trois cantus gérés par Tyrolien et Yagolo (qui à mes yeux sont les créateurs de l'appellation « Guilde Gates ») mais c’était plus de l’improvisation qu’autre chose (oui oui ça a changé depuis).
+
+Tatanne a bien essayé de relancer l’affaire mais manifestement trop peu de gens se joignirent à elle.
+
+En 2003, j’ai donc décidé après quelques années de guindailles, cantus et autres guildes, de relancer l’idée d’une Guilde Gates. J’avais bien conscience qu’il ne faudrait pas que ce soit uniquement un groupe d’amis mais bien un groupe de gens de plusieurs horizons. J’ai commencé par trancher sur le nombre de 10 Membres Fondateurs (le binaire oblige).
+
+Mon idée étant soutenue par plusieurs de mes comparses [[cipedia:B2K|B2K]], je décidai donc de proposer à [[cipedia:Rogis|Rogis]], [[cipedia:Julien|Julien]], [[cipedia:JP|Jean-Philippe]] et [[cipedia:Dash|Dash]] de se joindre à moi. Suite à cela, j’ai également proposé à [[cipedia:kujovic|Kujovic]], [[cipedia:Salt|Salt]], [[cipedia:duff|Duff]], et [[cipedia:spider|Spider]] de faire partie de ce projet au vu de leur passé folklorique « différent ». Enfin, toute la mise sur pied ayant nécessité quelques besoins informatiques et comme je le sentais également motivé, j’ai enfin proposé à [[P'tit Scout]] d’incorporer l’équipe fondatrice.
+
+Après quelques discussions, nous avions convenu des [[codex_originel|statues (oui, en marbre et tout ;-) ), des couleurs de band, des blasons et des rites d’initiation]] pour rentrer dans la Guilde Gates. 
+
+Quelques jours avant la constitution réelle de la Guilde Gates, P'tit Scout préféra se retirer et [[cipedia:gluck|Gluck]] « s’invita » parmi nous.
+
+Le 4 novembre 2003, nous passâmes tous (ou presque) les épreuves et la Guilde Gates fut fondée.
+
+
+===== Chapitre I: De la Guilde Gates et de ses buts =====
+
+1. Le 4 novembre 2003 a été fondée une association de fêtes sous la dénomination «Guilde Gates». Celle-ci est constituée pour une durée illimitée et a son siège à Bruxelles.
+
+2. La Guilde Gates est une corporation d’étudiants, anciens étudiants ou amis du Cercle Informatique autour d’un idéal courtois, guindaillesque et fraternel.
+
+3. La Guilde Gates a pour objets la conservation et la perpétuation des traditions estudiantines les plus anciennes et les plus respectables, la promotion de la Guindaille et l’agrément de ses membres par l’organisation de différentes activités guindaillesques, le tout articulé autour du chant.
+
+4. L’Arbitraire est le principe essentiel des réunions de la Guilde Gates sur lequel se fondent les usages, les privilèges... Chacun tient un rôle dans cette comédie où pour que l’humour et surtout la camaraderie puissent régner, il faut un certain cérémonial et le respect des règles du présent Codex. Celui qui veut jouer respecte les règles du jeu, sinon il ne joue pas. Tel est l’Arbitraire. Sa compréhension et son acceptation sont le ciment de notre unité, de notre notoriété et de notre pérennité.
+
+5. La langue véhiculaire de la Guilde Gates est le français à l’exception toutefois des formules latines usuelles.
+
+6. La devise de la Guilde Gates est //« 8DM & L337 GG rUl3z »//.
+
+7. Le chant de la Guilde Gates est //[[guilde:ode à la guilde|Ode à la Guilde Gates]]// et se trouve à l'annexe B du présent Codex.
+
+8. L'emblème de la Guilde Gates est le blason tel que décrit à l'annexe A du présent Codex.
+
+9. La caisse à argent liquide de la Guilde Gates est la Transcendante Ricola Box Sacrée telle que décrit à l'annexe C du présent Codex.
+
+===== Chapitre II: De la composition de la Guilde Gates =====
+==== A. Des classes ====
+
+1. La Guilde Gates possède les 5 classes suivantes ordonnées chronologiquement:
+  * la classe de Candidat.
+  * la classe de Postulant.
+  * la classe d'Impétrant.
+  * la classe de Membre de la Guilde Gates.
+  * la classe de Membre du Conseil du Kernel.
+
+2. Les membres d'une même classe sont égaux entre-eux et les membres d'une classe donnée prévalent sur les membres d'une classe inférieure.
+
+
+==== B. Des instances ====
+1. La Guilde Gates est composée des 2 instances permanentes suivantes:
+  * le Collège des Prévôts.
+  * le Conseil du Kernel.
+
+2. Le Collège des Prévôts est en charge de l'organisation et du bon déroulement des CantuX ainsi que de la gestion quotidienne de la Guilde Gates.
+
+3. Le Conseil du Kernel est l'organe suprême de la Guilde Gates. Il veille à la réalisation des buts poursuivi par la Guilde Gates ainsi qu'à sa pérennité. Son pouvoir est omniprésent et omnipotent. Toutefois, il n’interférera avec le Collège des Prévôts qu’en cas d’extrême nécessité.
+
+
+===== Chapitre III: Des classes de la Guilde Gates =====
+
+Les sous-chapitres de ce chapitre sont structurées de la façon suivante:
+  * 1. conditions d'accès à l'épreuve de la classe courante.
+  * 2. l'épreuve à accomplir accéder à cette classe.
+  * 3. une définition de cette classe.
+  * 4. une description des droits et devoirs de cette classe.
+
+
+==== A. Candidat ====
+
+1. Pour être candidat à l’admission dans la Guilde, il faut être ou avoir été étudiant régulièrement inscrit dans un enseignement de type supérieur ou assimilé. 
+
+2. Le candidat doit se proposer ou être proposé à la Guilde et ce par un Impétrant ou Membre de la Guilde.
+
+3. Un candidat est un Postulant potentiel.
+
+4. Le candidat montre un intérêt particulier pour le chant et la Guilde.
+
+
+==== B. Postulant ====
+1. Pour devenir Postulant il faut avoir été candidat.
+
+2. Le candidat doit être ratifié par les Membres et Impétrants. Le candidat sera informé par le Membre ou Impétrant l’ayant proposé, du résultat de la ratification. Cette personne devient alors son parrain et le candidat devient Postulant.
+
+3. Un Postulant est un Impétrant potentiel qui sera convié à certaines internes de la Guilde. Ils doivent respect et obéissance aux Membres, sous réserve du Senior ou du Grand Senior.
+
+4. Le Postulant est un tenu d'être assidu aux activités externes de la Guilde. Par ailleurs, une interne sera organisée peu avant le Dies Natalis lors de laquelle le Grand Senior lui expliquera ce qu'il attend de lui lors du Dies Natalis auquel il est tenu d'assister.
+
+L’Instruction est la période d’apprentissage du Postulant qui commence dès le passage de l'épreuve d'accès à la classe de Postulant et termine avec la Prise d’Habit Mineure. Cette période permet aux Postulants de se familiariser avec les us et coutumes de la Guindaille et les traditions du Folklore Estudiantin ainsi que de prouver leur dévouement à la Guilde avant d’en faire partie intégrante et de jouir des mêmes droits que leurs aînés.
+
+Au terme de la période d'apprentissage, le savoir du Postulant devra comprendre:
+  * une connaissance passive du codex et active de la Guilde.
+  * une connaissance relative de l’histoire du Folklore Estudiantin.
+  * une connaissance approfondie des chants couramment entonnés dans les séances ordinaires.
+  * une connaissance suffisante du «savoir vivre» en Corona et des formules latines généralement utilisées.
+
+
+==== C. Impétrant ====
+1. Un Impétrant devra avoir rempli les devoirs de Postulant.
+
+2. L’Impénétration est la cérémonie qui clôture la période d'apprentissage. Celle–ci permet à un Postulant de passer les épreuves nécessaires pour accéder à la classe d'Impétrant. Cette cérémonie aura lieu lors du Dies Natalis((ou interne exceptionnelle en cas de deuxième essai.)). Elle comporte deux épreuves: un examen de connaissance et un test des capacités bibitives et guindaillesques. Les Postulants effectuent cette démarche tous ensemble.
+
+L’examen de connaissances contrôle ce que le Postulant connaît. Le Grand Senior présidera la séance de questions-réponses des Membres aux Postulants, il a le droit de refuser des questions et de clôturer l’examen de connaissances quand il le souhaitera.
+
+Le test des capacités bibitives et guindaillesques, suivra l’examen de connaissance. Il consiste en différents actes: chaque Postulant pourra proposer 2 chansons des chansonniers estudiantins tolérés par le Grand Senior (dont une hors de la liste obligatoire), il devra également proposer une guindaille de sa composition. Entre ces moments de chants, les Postulants effectueront un affond de leur invention ainsi que un affond de 1 litre que lui proposera le Grand Senior. La partie bibitive se terminera par la lecture du texte suivant qui sera immédiatement suivie d’un affond spécial et chaud bouillant:
+
+|//« Notre Bière, qui est au frais,\\
+Que nos deux demis soient versés,\\
+Que notre volonté soit faite, au bar comme au comptoir...\\
+Donne-nous aujourd'hui notre ration du jour,\\
+Pardonne-nous nos gueules de bois,\\
+Comme nous pardonnons aussi, à ceux qui boivent du Coca!\\
+Oui, soumets-nous aux demis-pression,\\
+Et délivre-nous de la soif.\\
+Santé! »//|
+
+Le Postulant n’est pas dispensé des affonds de punition ou de récompense qui lui seront octroyés par le Grand Senior.
+
+Suite à ces tests, un tempus sera proclamé par le Grand Senior. Pendant ce tempus les Membres présents voteront la réussite de l'Impénétration.
+
+Entrent en ligne de compte:
+
+    * l’implication du Postulants dans la vie guindaillesque de la Guilde.
+    * la qualité de l’Impénétration du Postulant, déduite de son examen de connaissances.
+    * les résultats du Postulants au test bibitif et guindaillesque.
+    * l’évaluation du savoir-vivre en CantuX du Postulant, effectuée tout au long de l’Instruction.
+    * la connaissance des chants présents sur la liste fournie par le Cantor Primus.
+
+Lors de la reprise de la cérémonie, le Grand Senior reprendra la direction de la réunion et il proclamera les résultats, s’en suivra la Prise d’Habit Mineure pour les Postulants acceptés.
+Les Postulants qui auraient échoué restent Postulants jusqu'à la session d'Impénétration suivante.
+
+3. La classe d'Impétrant est la dernière étape avant l'accession à la classe de Membre.
+
+4. On attend d'un Impétrant de participer activement à l'organisation des activités de la Guilde.
+
+
+==== D. Membre de la Guilde Gates ====
+1. Pour devenir Membre il faudra avoir été élu Impétrant après le passage de l'Impénétration.
+
+2. La Prise d’Habit Majeure est l’élévation à la classe de Membre de la Guilde Gates. Elle se passe de façon individuelle. A la demande du Grand Senior, l'Impétrant rendra momentanément son band. Après son allocution((Le Grand Senior procèdera à un discours personnalisé sur les vertus de l'Impétrant et sur ses devoirs futurs.)), le Grand Senior remettra le Band à l'Impétrant. Ensuite, le Grand Senior recevra de l'Impétrant son Serment d’Allégeance à la Guilde Gates:
+
+|//« Moi,..., devant l’Assemblée ici présente, sur mon honneur, aujourd’hui et pour toujours, je prononce volontairement mon Serment d’Allégeance à la Guilde Gates. Je jure de toujours servir la Guilde Gates avant mes prétentions personnelles. Je jure de n’agir que pour le bien de la Guilde Gates, de défendre ses principes et de perpétuer ses traditions. Je jure être le ferment de l’esprit d’amitié qui doit régner au sein de la Guilde Gates. »//|
+
+Le Grand Senior accepte alors le Membre par la formule suivante:
+
+|//« Nous,..., Grand Senior de la Guilde Gates, en vertu des pouvoirs qui nous sont conférés et en accord avec les Membres de la Guilde Gates, avons décidé et décidons de te concéder le titre de Membre de la Guilde Gates. »//|
+
+3. Devenir Membre est l'aboutissement de la période d'approbation marquée des stades cités aux chapitres III A , B et C.
+
+4. Le Membre devra appeler ses confrères Membres « Camarade » et s'investira dans toute activité de la Guilde Gates.
+
+
+==== E. Membre du Conseil du Kernel ====
+1. Pour promouvoir un Membre au Conseil du Kernel, un Membre de ce Conseil doit proposer la candidature d’un Membre au Conseil du Kernel.
+
+2. Le Membre proposé doit être accepté par les autres Membres du Conseil du Kernel.
+
+3. Un Membre du Conseil du Kernel siège au Conseil du Kernel. Tous les Membres du Conseil du Kernel sont élevés à une classe unique et identique, à l’exception du Grand Senior. Tout Membre du Conseil du Kernel a la possibilité de se retirer du Conseil du Kernel. Pour ce faire, il avertira le Conseil du Kernel de sa décision.
+
+4. Un Membre du Conseil du Kernel est l'avatar des principes de la Guilde Gates et est le gardien de sa pérénnité séculaire.
+
+
+===== Chapitre IV: Des instances de la Guilde Gates =====
+==== A. Du Collège des Prévôts ====
+
+1. Le Collège est composé de 7 Prévôts élus pour l'année courante. Le Collège est donc composé d'un Senior, d'un Cantor Primus, d'un Cantor Secundus, d'un Censor, d'un Fuchs, d'un Quaestor, et d'un Scribe. Seuls les postes de Scribe et de Cantor Secundus sont accessibles aux Impétrants, les autres sont réservés aux Membres.
+
+2. En cas de besoin, le Collège pourra faire remplacer un Prévôt lors de l'activité courante et pour la durée de celle-ci. Toutefois, en cas d'absence physique, le Senior pourra désigner un remplaçant seul.
+
+3. Le Senior est le premier Prévôt du Collège. Il supervise les réunions externes. Il remettra un bilan moral à la fin de chaque activité.
+
+4. Le Cantor Primus est responsable de la bonne tenue du chant ainsi que de la proposition des chants lors des externes. Il est aidé dans sa tâche par le Cantor Secundus. Il veillera à apporter sa connaissance des chants en interne afin d'augmenter petit à petit la variété des chants connus par la Guilde Gates.
+Il fournira également la liste des chants que les Impétrants doivent connaître lors de leur Impénétration.
+
+5. Le Censor fait respecter les us et coutumes de la Guilde Gates pendant les réunions externes. Il peut, si ceux-ci ne sont pas respectés, infliger des récompenses et/ou des pénitences à un membre de la corona. S'il estime que celui-ci n'est plus en état de le faire, il lui imposera de retrouver ses esprits au moyen d’eau de façon temporaire ou définitive. Si les mesures précitées ne suffisent pas à calmer le membre de la corona, il pourra le renvoyer du cantus et ce de manière temporaire ou définitive avec l'accord du Senior. Le Censeur est également chargé de réguler les entrées et sorties des membres de la corona.
+
+6. Le Fuchs est tenu de gérer au mieux l’approvisionnement en boisson pour les membres de la corona. Il est également tenu d’informer le senior de l'évolution du stock de boisson.
+
+7. Le Quaestor est tenu de réclamer un montant adapté au moment où le futur membre de la corona investit celle-ci. Il est chargé de la comptabilité générale de la Guilde Gates et remettra un bilan financier à la fin de chaque activité. Ce bilan sera accessible aux Membres de la Guilde Gates. L'argent liquide de la Guilde Gates sera conservé dans la Transcendante Ricola Box Sacrée, comme définie à l'annexe C.
+
+8. Le Scribe prend note des PVs, rassemble les diverses guindailles, publie le tout sur le [[guilde|WiKi]] qu'il tiendra à jour en bon père de famille. Par ailleurs, il est responsable de la publicité des externe.
+
+9. Lors de sa prise de fonction de Prévôt, le futur Prévôt s’engage devant le Grand Senior en prêtant le Serment de Prévôts: 
+
+|//« Moi,..., je m’engage à remplir au mieux la fonction de ... qui m’est confiée, à être solidaire avec l’ensemble des Prévôts, à me soumettre à l’autorité du Grand Senior, et à respecter le Codex. »//|
+
+==== B. Du Conseil du Kernel ====
+1. Le Conseil du Kernel se compose des Membres Fondateurs de la Guilde Gates, des Grands Seniors de la Guilde Gates et de certains membres émérites. 
+
+2. Le Conseil du Kernel est compétent pour:
+  * la modification du Codex.
+  * l'inclusion de nouveaux Membres au Conseil du Kernel.
+
+3. Le Grand Senior préside toutes les réunions internes. Le Grand Senior est responsable des relations tant internes qu'externes. Il devient automatiquement Membre du Conseil du Kernel au début de son mandat. Il est invité à entretenir et à valoriser les relations avec les autres associations estudiantines.
+
+4. Lors de l’investiture du nouveau Grand Senior, celui-ci devra déclarer au Grand Senior sortant:
+
+|//« Développer l’idéal de camaraderie, témoigner de l’esprit d’Amitié, défendre la Guilde Gates dans ses principes, respecter les traditions ancestrales, perpétuer l’art de la guindaille, moi,..., j’en fais ici le Serment. »//|
+
+Le Grand Senior sortant lui répond:
+
+|//« Nous, ..., en accord avec les Membres de la Guilde Gates t’avons élu à être instamment le Grand Senior de notre Guilde. Il nous plaît que tu puisses en porter longuement les insignes, à son honneur, à ses services, à l’exaltation de nos traditions, à l’accroissement et à l’honneur de la Guilde Gates, de ses renommées et mérites. »//|
+
+Au terme de celle-ci, le Grand Senior sortant remettra les Archives à son successeur qui devient alors le nouveau Grand Senior en fonction.
+
+
+
+===== Chapitre V: De l'habit de la Guilde Gates =====
+1. Le Band de Membre est la tenue vestimentaire que tout Membre ou Impétrant doit porter lors des réunions auxquelles il participe. Les Prévôts portent les insignes et marques de leurs fonctions. Les Membres du Conseil du Kernel sont tenus de porter l’emblème de la Guilde Gates telle que définie à l'annexe A du présent Codex.
+
+2. Le Band est de couleur mauve (RVB 128,0,255) aux bords noirs. Il se porte sur l'épaule gauche pour les Impétrants, et droite pour les Membres. Il ne portera que les insignes et marques de la Guide Gates. 
+
+3. Les insignes des prévôts sont:
+  * Grand Senior: Couronne au-dessus d'une palme.
+  * Senior: Couronne.
+  * Cantor Primus et Secunduns: Lyre.
+  * Censor: Glaive.
+  * Fuchs: Chope.
+  * Quaestor: Bourse.
+  * Scribe: @.
+
+4. Le prévôt portera ses insignes de fonction à hauteur de poitrine (au dessus du blason le cas échéant), et ceux de ses fonctions passées légerement en retrait (en dessous du blason le cas échéant).
+
+5. Tout Membre peut porter ses ornementations et récompenses d’autre organismes mais les couleurs de la Guilde Gates devront prévaloir pendant les activités de la Guilde Gates.
+
+6. Toute personne appartenant à la Guilde Gates est libre de se rendre à des activités extérieures et sera tenu d'y porter son band de la Guilde Gates dans les formes prescrites dans les articles précédents; auquel cas, il représente la Guilde Gates et se doit de lui faire honneur.
+
+
+===== Chapitre VI: Du Codex de la Guilde Gates =====
+==== A. Le Codex ====
+1. Le présent Codex contient l'essence de la Guilde Gates, ainsi que toutes les recommandations et directives nécessaires pour l'évolution de la Guilde Gates. Tout manquement quand à l'esprit de ce Codex et donc au principe de l'Arbitraire constitue un acte d'irrespect envers la Guilde Gates et doit être sanctionné.
+
+2. Le Codex initial rassemblait en 12 chapitres les statuts originels rédigés par les Fondateurs de la Guilde Gates. Avec le temps, ces statuts ont évolués pour aboutir au présent Codex, certainement perfectible.
+
+
+
+
+==== B. La gestion du Codex ====
+1. Le Conseil du Kernel est la seule instance habilitée à apporter une modification au Codex, mais dans la forme seulement, car le fond, lui, est éternel.
+
+2. La structure de gestion idéale a été définie comme suit:
+  * le [[codex]]: document de référence le plus à jour possible.
+  * les [[archives]]: contiennent le Codex originel, tous les décrets édictés((La notion de décret a été abrogée lors de la réunion interne du 2 avril 2008.)) et toutes les versions réactualisées du Codex.
+
+3. La fonction d’Archiviste est confié au Grand Senior, sans pour autant que les deux fonctions soient confondues. De plus, la transmission de la fonction d’Archiviste entraîne obligatoirement la transmission des archives.
+
+4. A la requête de tout Membre de la Guilde Gates, l'Archiviste peut fournir des duplicatas de documents relevant des archives. Les frais occasionnés sont à charge de Fox Ugly.
+
+5. Lors de la mise à jour du Codex, sa nouvelle version sera soumise au vote du Conseil du Kernel non pas sur le fond qui lui est déjà acquis, mais bien sur la forme. Il s'agit de s'assurer que le nouveau Codex reprends bien l'esprit du précédent.
+
+6. La version actualisée du Codex sera publiée dans un petit ouvrage (de format A5) relié et destiné à l’usage en guindaille.
+
+
+
+
+
+===== Chapitre VII: Des votes =====
+1. Le dépouillement des votes se fera par le Grand Senior et sera vérifié par le Senior.
+
+2. La gestion journalière est la prérogative de Collège des Prévôts et du Grand Senior. Le vote se déroulera à main levée et devra obtenir une majorité simple. En cas d'égalité, le Grand Senior prendra une décision finale.
+
+3. Le vote sur les personnes est la prérogative de tous et sera pondéré en deux groupes. Le premier groupe est composé des Membres du Conseil du Kernel, le second des Prévôts et autres Membres. Le vote sera secret et devra conjointement obtenir:
+  * une majorité simple dans chacun des deux groupes.
+  * une majorité au 2/3 pour l'ensemble des deux groupes suite à une pondération à 50% de chacun de ces groupes.
+
+4. Le vote sur les Membres potentiellement éligible à la classe de Membre du Conseil du Kernel est la prérogative du Conseil du Kernel. Toute proposition de Membre sera communiquée à l'ensemble des Membres du Conseil du Kernel au moins deux semaines avant la date de la prochaine réunion de ce Conseil. Lors de la-dite réunion, le vote sera secret et devra obtenir une majorité des 2/3 des Membres du Conseil du Kernel présents.
+
+5. La gestion du Codex est la prérogative du Conseil du Kernel. Toute modification devant être apportée au Codex sera communiquée dans son intégralité à l'ensemble des Membres du Conseil du Kernel au moins deux semaines avant la date de la prochaine réunion de ce Conseil. Lors de la-dite réunion, le vote se déroulera à main levée et devra obtenir une majorité des 2/3 des Membres du Conseil du Kernel présents.
+
+===== Chapitre VIII: Des réunions =====
+
+==== A. Des CantuX ====
+1.Le déroulement des séances est fixé comme suit:
+
+== Première partie ==
+  * Ouverture de la séance.
+  * « Gaudeamus Igitur ».
+  * Allocutions de bienvenue.
+  * Chants des associations présentes.
+  * « Ode à la Guilde Gates ».
+  * Présentation de chants et de guindailles.
+  * Tempus Commune.
+
+
+== Deuxième partie ==
+  * « La Bière ».
+  * Présentation d’autres chants et d’autres guindailles.
+  * Tempus Commune.
+
+== Troisième partie ==
+  * A minuit: « La femme du Roulier ».
+  * Présentation de chants et de guindailles.
+  * Dernières communications.
+  * Clôture de Séance.
+  * « Le chant des étudiants ».
+  * « Le Semeur ».
+  * « La mère Gaspard».
+====  ====
+
+2. Les CantuX sont ouverts à tous.
+
+3. A l’appel du Senior par les formulations « Omnes ad loca » et « Omns ad sedes », les personnes présentes prennent place à l’exception du Fuchs et du Censor qui ont le droit de rester debout et d’aller et venir à leurs guises. Le Senior ouvre la réunion par la formulation « Incipit sodalicii nostri sessio ! Het Clublied! ».
+
+4. Lorsque le Senior doit quitter la Corona, de façon temporaire ou définitive, il indique son remplaçant qui sera un Membre de la Guilde Gates. A son retour, il récupère sa place.
+
+5. Le tempus général ou « Tempus Commune » est une pause que le Senior accorde entre deux parties du CantuX. Pour un tempus général, il faut que le Senior prononce: « Opto ut tempus commune secundum/tertium multisecularem traditionem pissandi sit ». La corona répond alors en chœur « Optamus ».
+
+
+==== B. Des internes ====
+1. Les réunions internes reprennent le déroulement standard des CantuX, à l'exception de la première partie qui se éroulera comme suit:
+  * Ouverture de la séance.
+  * « Gaudeamus Igitur ».
+  * Allocutions de bienvenue.
+  * « Ode à la Guilde Gates ».
+  * Ordre du jour.
+  * Tempus Commune.
+
+2. L'ordre du jour sera établi et communiqué à l'avance par le Grand Senior. Toutefois, chaque Membre, Postulant ou Impétrant pourra contacter le Grand Senior afin de proposer un point à l'ordre du jour.
+
+3. Les réunions internes ne sont ouvertes qu'aux Membres, Postulants et Impétrants ainsi qu'aux invités mentionnés dans l'ordre du jour et donc ayant été acceptés en tant que tel lors de l'interne précédente((Par « acceptés » on entend qu'un vote de type gestion journalière aura eu lieu.)).
+
+
+=== i.Dies Natalis ===
+1. La première partie sera ponctuée de questions de connaissance par rapport aux devoir des Postulants et se déroulera comme suit:
+  * Ouverture de la séance.
+  * « Gaudeamus Igitur ».
+  * Allocutions de bienvenue.
+  * « Ode à la Guilde Gates ».
+  * Prise d'Habit Majeure dans les formes prescrites par le présent Codex.
+  * Ordre du jour.
+  * Tempus Commune.
+
+2. La seconde partie se déroulera principalement comme suit:
+  * « La Bière ».
+  * Présentation des guindailles des Postulants.
+  * Présentation des afonds spéciaux des Postulants.
+  * Afond litre.
+  * Un afond spécial proposé par le Grand Senior.
+  * Tempus Commune pour les Postulants/ Vote puis Tempus Commune pour les Membres.
+
+3. La troisième partie clôture le Dies Natalis et se déroule comme suit:
+  * A minuit: « La femme du Roulier ».
+  * Résultat du vote.
+  * Prise d'Habit Mineure dans les formes prescrites par le présent Codex.
+  * Rite secret.
+  * Clôture de Séance.
+  * « Le chant des étudiants ».
+  * « Le Semeur ».
+  * « La mère Gaspard».
+
+=== ii.Interne élective ===
+1. La première partie sera identique à celle d'une interne. Le point principal de l'ordre du jour sera un bilan moral de l'année écoulée réalisé par chaque élu sortant.
+
+2. La seconde partie se déroulera comme suit:
+  * « La Bière ».
+  * Elections du nouveaux Grand Senior et des nouveaux prévôts dans l'ordre suivant: Grand Senior, Senior, Cantor I, Cantor II, Censor, Quaestor, Fuchs, Scribe.
+  * Investiture du grand Senior entrant dans les formes prescrites par le présent Codex.
+  * Serment d'engagement des Prévôts entrants dans les formes prescrites par le présent Codex.
+  * L'investiture et les Serments terminés, les nouveaux élu prendront leurs fonctions immédiatement.
+  * Tempus Commune.
+
+3. La troisième partie suivra le déroulement standard de la troisième partie d'un CantuX, si ce n'est qu'elle sera hautement guindaillesque en ce sens qu'elle sera l'occasion pour les élus entrants et sortants de fêter leur nouveau statut.
+
+
+===== Chapitre IX: Des us & coutumes =====
+TODO: peut-être faire une section spéciale formule?
+
+relire chapitre 11 ancien Codex
+
+reprendre les formules de [[071206|cantux père fouettard]] updaté par Dash
+
+X. Les Postulants et Impétrants sont ici assimilés à des Membres de la Guilde.
+
+==== A. Corona ====
+
+
+X. CO-59
+
+X. Les bancs où prennent place les membres de la corona sont disposés en U, l'ouverture regardant vers le monde extérieur. Ils sont aux nombre de 3.
+  * banc du Collège 
+  * corona de gauche
+  * corona de droite
+
+X. Les dispositions prescrites ci-dessus pourront être modifiées en fonction des besoins matériels et de la disposition des lieux.
+
+X. qui s'assied ou dans le collège?
+
+
+==== B. Paroles ====
+s'exprimer en « il »
+
+Si un participant estime que le tempus général tarde, il peut dire « Senior, peto tempus pissendi personnalis ». Le Senior répond alors « Habes » ou « Non habes » selon qu’il y a lieu ou pas.
+
+x. Le Senior a seule autorité en question de prise de la parole: lui seule accorde, refuse ou interromp le droit d'intervenir. 
+
+x. pour demander la parole, un membre de l'Assemblée lève la main droite (la gauche tenant généralement son verre). Le Senior lui accorde la parole en citant son nom. 
+
+x. une certaine discipline est nécessaire afin de maximiser la pertinence des intervention. Ainsi, aucun membre de l'assemble à l'exception du Senior et uniquement en cas de besoin, n'interrompra l'orateur ni ne prendra la parole sans en avoir reçu l'autorisation. 
+
+
+
+==== C. Chansons ====
+
+==== D. Boissons ====
+Il est défendu de boire avant que le Senior ne l’ait autorisé.
+
+
+
+==== E. Punitions ====
+  * sonnerie de GSM
+  * cloppe
+  * non respect de l'habit pour les membres (rôle du censeur de vérifier (ex CO-36))
+
+
+
+=== i. Retard ===
+X. Les CantuX commenceront à l'heure précisé dans la publicité et toute personne non-présente à cette heure là sera considérée comme retardataire. 
+
+X. Tous retardataire devra suivre la procédure suivante: 
+
+  * attendre
+  * se faire appeler
+  * déclamer sa défence
+  * écouter le Senior
+  * Se plier à sa volonté.
+  * rejoidre son banc dédié
+
+
+=== ii. Perturbations ===
+Ressort du censeur et du senior, affond pénitence affond à l'eau 5 min dehors éjecté de la corona 
+
+===== Annexes =====
+
+
+
+==== A. Emblème de la Guilde Gates ====
+{{https://forkinfo.be/guildegates/2_Blason/blason_v1.0.jpg}}
+
+Un blason, un band en diagonale haut-gauche vers bas-droite, un tux avec un CI sur le ventre (comme les bisounours) et 2 « G » gothique ouverts vers l’extérieur((Ou bien en héraldique: Ecu anglais. De pourpre à la bordure sable; au bâton coticé de même; au Tux cousu d'un CI de sable; accosté de deux G aussi de sable en caractères gothiques, celui de senestre tourné et de dextre contourné.)).
+
+
+==== B. Chant de la Guilde Gates ====
+[[ode_a_la_guilde|Paroles]]: [[cipedia:Gluck]] et la Guilde Gates((En vertu du règlement usuel de cantus applicable à ce CantuX en particulier, toute personne se reconnaissant dans un fait/acte ou dans un mot du texte ci-dessus portera sa bière à sa bouche pour en boire une gorgée.))\\
+Air: //Les stances à Sophie//
+
+==Ode à la Guilde Gates==
+
+Quand j'étais bourré, je voulais chanter\\
+Mais comme c'tait TD, je l'ai vite fermée\\
+Le CI chanter, c'était du passé\\
+Je laissai tomber, pour mieux picoler
+
+**Ref. :\\
+CI que j'aime tant\\
+Je chante (bis)\\
+Ci que j'aime tant\\
+Je chante à présent\\ **
+
+Nous nous trouvâmes vite, au fond d'un fossé\\
+Complètement bourrés, mais envie d'chanter\\
+L'histoire fut vite faite, la guilde est lancée\\
+Car chanter bourré, ça f'sait délirer\\
+
+**Refrain**
+
+Sortant du TD, ils furent jaloux\\
+Et par concurrence, le MAC fut créé\\
+Histoire d'justifier, d'pouvoir être saoul\\
+Ou peut-être aussi d'pas l'avoir créée.\\
+
+**Refrain**
+
+Une première guindaille, toge saucisson\\
+Elle fût perdue, Renaud un affond, \\
+La guilde était là, le chant revenait\\
+La guilde restera et ce à jamais\\
+
+**Refrain**
+
+Et si c'soir chantant, vous êtes là aussi,\\
+C'est sans doute à eux, qu'il faut dire merci\\
+Car sans dix ivrognes, vous aussi seriez,\\
+Au fond du fossé, complètement bourrés.\\
+
+**Ref. final:\\
+Guilde Gates que j'aime tant\\
+Tu chantes (bis)\\
+Guilde Gates que j'aime tant\\
+Que vive le chant\\ **
+
+
+==== C. Transcendante Ricola Box Sacrée de la Guilde Gates ====
+{{https://forkinfo.be/guildegates/6_Divers/Images/ricola.jpg}}
+
+Il s'agit d'une boîte cylindrique de couleur dominante bleue. Hauteur approximative de 15cm et diamètre approximatif de 6cm. Le capuchon permet une fermeture hérmétique, ce qui est on ne peut plus profitable dans le milieu du CantuX. En effet, même si l'argent n'a pas d'odeur, on est content de pouvoir lui éviter de sentir la boisson houblonnée.

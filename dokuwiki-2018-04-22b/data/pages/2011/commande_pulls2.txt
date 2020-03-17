@@ -1,0 +1,47 @@
+====== Commande de pulls et t-shirts CLOTUREE ======
+
+===== Pulls avec le logo du cercle =====
+
+==== De cercle ====
+^Nom^Taille^Payement reçu^Délivré^
+| N!CH3|L | | |
+| Lise |M | | |
+
+==== De comité ====
+(avec votre poste + l'année marqué dessus)
+^Nom^Taille^Inscription^Payement reçu^Délivré^
+| hastake | L | hastake - 2011-2012 - /prez/| | |
+| Simon | XL | Simon Says - FOSDEM 12| | |
+| Porno | L | Porno - VPE 2011-2012| | |
+| Péritonite | L | Péritonite - Propagande 2011-2012| | |
+| LaCrampe | XL | LaCrampe | | |
+| Instanet | L | Instanet - 2011-2012 - /bar/| | |
+| Raymond | L | Raymond - 2011-2012 - /bar/| | |
+| moyakari | M | moyakari - 2011-2012 - Sport| | |
+| Kicherface | S | Kicherface - 2011-2012 - Bal, fêtes & MTSM 2011-2012 | | |
+| Quicky | M | Quicky - 2011-2012 - Bal, fêtes & MTSM 2011-2012 | | |
+| Foxugly | XL | Foxugly | | |
+| 3vie | L |3vie - Président de Baptême 2011-2012 | | |
+| Dollars | XL |Dollars - Trésorier 2011-2012 | | |
+
+===== Pulls avec le logo de section =====
+
+^Nom^Taille^Payement reçu^Délivré^
+| Porno | L | | |
+| hastake | L | | |
+| hastake | M | | |
+| raymond | L | | |
+| moyakari | M | | |
+| Bram | XL | | |
+| Dollars | XL | | |
+
+===== T-shirt =====
+
+==== De cercle ====
+^Nom^Taille^Payement reçu^Délivré^
+| | | | |
+
+==== Falculté de pochtron ====
+^Nom^Taille^Payement reçu^Délivré^
+| Porno | L |  | |
+

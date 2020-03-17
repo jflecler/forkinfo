@@ -1,0 +1,115 @@
+====== Pulls 2014 ======
+
+===== Infos =====
+
+==== Design =====
+
+Après vote du comité, nous somme parti sur ce design :\\
+
+{{http://i.imgur.com/up8JlnF.png?400}}
+
+==== Qualité =====
+
+Le comité a souhaitez en majorité avoir un pull plus cher mais de meilleur qualité\\
+La commande se fera donc sur spreadshirt.\\
+
+''Ce pull molletonné et chaud possède une capuche à double épaisseur, des cordons de la même couleur, ainsi qu'une poche kangourou devant. L'intérieur molletonné procure un confort absolu. Ce pull possède une coupe droite, assez près du corps, avec des coutures robustes aux poignets, à la base et aux extrémités de la poche kangourou. Grâce à un grammage de 320g/m² et à une teneur en polyester, le pull conserve sa forme dans toutes les situations, même après plusieurs lavages. Composition 80% coton et 20% polyester. ''
+
+
+==== Prix =====
+35e70 à quoi il faudra ajouter les frais de port 
+
+
+==== Modèle du pull =====
+
+Voici la forme du pull :\\
+{{http://i.imgur.com/0QMsVa4.png}}
+
+
+==== Taille du pull =====
+
+Pour vous aider dans votre choix :\\
+{{http://i.imgur.com/atpPG3D.png}}
+
+
+==== Couleur du pull disponible =====
+
+
+^Noire^Bleu Marine^Vert clair^
+|{{http://i.imgur.com/bHcJbGo.png}}|{{http://i.imgur.com/ywTvzpb.png}}|{{http://i.imgur.com/mimuxDK.png}}|
+^Vert foncé^Blanc^Rouge^
+|{{http://i.imgur.com/Mp0DfVN.png}}|{{http://i.imgur.com/wav3sGu.png}}|{{http://i.imgur.com/uUdsY2v.png}}|
+^Marron^Gris chiné^Bleu Royal^
+|{{http://i.imgur.com/JK8LY74.png}}|{{http://i.imgur.com/TNml53L.png}}|{{http://i.imgur.com/BfGNxXt.png}}|
+
+==== Couleur du logo disponible =====
+
+^Noir^Blanc^Mauve^Gris^
+|{{http://i.imgur.com/vPQjtjV.png?300}}|{{http://i.imgur.com/up8JlnF.png?300}}|{{http://i.imgur.com/Y7drH9O.png?300}}|{{http://i.imgur.com/Ni4kZlh.png?300}}|
+
+
+==== Inscription coeur =====
+
+L'inscription sur le coeur sera dans la même couleur que la couleur du logo.\\
+Elle sera faite en trois lignes :\\
+-Surnom\\
+-Poste\\
+-Année
+
+Cette inscription est bien sur optionnel.
+
+===== Légère modification ======
+
+Apres avoir du se plier à certaines contraintes, le design a légèrement changé (le CI est un peu plus petit et la police d'écriture est un peu plus grasse), voici un rendu de pull final avec le nouveau design :\\
+{{http://i.imgur.com/rcuxRRY.png}}
+
+
+Par contre il y a beaucoup de nouvelles couleur de logo disponible :\\
+{{http://i.imgur.com/rwEi8vt.png}}
+
+
+Attention, ceux qui ont choisi un pull avec logo gris, le nouveau gris est plus foncé qu'avant.
+
+===== Commande ======
+
+==== Exemple ====
+
+^Nom^Taille^Couleur Pull^Couleur Logo et Police^Inscription^Payement reçu^Pull reçu^
+|Erwan|M|Vert foncé|Gris|Erwan - Sandwish - 2014-2015|Non|Non|
+
+Le pull résultant :\\
+{{http://i.imgur.com/lGI9iCk.png}}
+
+==== Commande ====
+
+Les commandes sont ouvertes jusqu'au 20 juillet 2014.\\
+
+^Nom^Taille^Couleur Pull^Couleur Logo et Police^Inscription^Payement reçu^Pull reçu^
+|Ragequit|M|Noir|Lila|Ragequit - Social - 2014-2015|Oui|Oui|
+|Ton Père|XL|Noir|Lila|Ton Père - Barman - 2014-2015|Oui|Oui|
+|Fumier|L|Noir|Lila|Fumier - Président de cercle - 2014-2015|Oui|Oui|
+|Poreux|M|Noir|Lila|Poreux - Propagande - 2013-2014|Oui|Oui|
+|Kastet|M|Gris chiné|Lila|Kastet - Barman - 2014-2015|Non|Non|
+|BLC|M|Rouge|Lila|Bacon Lettuce Cheese - Brah le Boeuf|Non|Non|
+|P&B|L|Bleu marine|Gris|Pea And Bee - Brah le Boeuf|Non|Oui|
+|Sécu|M|Bleu marine|Gris|Sécu - Photos - 2014-2015|Oui|Oui|
+|Pierre|L|Bleu marine|Gris|Pierre - Hackerspace - 2014-2015|Oui|Oui|
+|Stifler|M|Bleu marine|Gris|Stifler - Saaaale type - Batleskoyes|Oui|Non|
+|Samylol|M|Bleu marine|Gris|Samylol - Saaaale type - Batleskoyes|Oui|Oui|
+|Kochary|M|Bleu marine|Gris|Kochary - FOSDEM - 2014-2015|Oui|Oui|
+|K-rine|M|Bleu marine|Gris|K-rine - PdB - 2014-2015|Non|Oui|
+|Bill Gates|M|Bleu marine|Gris|Bill Gates - Balef - 2014-2015|Oui|Oui|
+|Péri|M|Vert foncé|Gris|Péri - Balef - 2014-2015|Oui|Non|
+|Mc Ouille|M|Bleu royal|Gris|Mc Ouille - Secretaire - 2014-2015|Oui|Oui|
+|Obvious|M|Gris|Noir|Obvious - Sale type|Oui|Oui|
+
+===== Payement et livraison ======
+
+Bonne nouvelle, suite à changement de méthode d'impression (meilleur qualité, prix plus faible), une réduction sur quantité de 15% et enfin un code promotionnel offrant une remise de 20% le prix du pull passe à 25e !\\
+
+Pour le payement faite un virement de 25e sur le compte BE 02001401935340 avec communication "Pull CI - pseudo" (ou pseudo est votre prénom)\\
+
+Je livrerai les pulls payés le jour de la JANE, 12 septembre, au stand CI.
+===== Remarque ======
+
+Pour toute remarque, rendez vous sur le forum : https://forkinfo.be/phpbb/viewtopic.php?f=3&t=5889

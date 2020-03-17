@@ -1,0 +1,163 @@
+====== Interne du 02 Avril 2008 ======
+
+
+
+===== Ordre du jour =====
+
+**1. News**\\
+- BDM\\
+- Dernière externe\\
+- Chant@cerkinfo.be\\
+
+**2. Quaesteur**\\
+- Etat des comptes (créances, fichier exell)\\
+- Gestion de l'argent (quelle banque?)\\
+- Achat de matériel de cantux: devis\\
+
+**3. Codex**\\
+- Ratifications des modifications.\\
+//Commentaires: On ne discute rien, on ne modifie rien. On peut expliquer, et de toute façon on vote.//
+
+**4. Recrutement**\\
+- Liste des candidats et affectation aux parrains (JP<>B3K - DasH<>TwiX)\\
+- Parrainage\\
+//Commentaires: Bacon Lettuce Cheese, Nawak, 3vie, Tarkan, Stewball, ...//
+
+**5. Calendrier** (N'oubliez pas de prendre vos agendas avec vous.)\\
+- prochaines interne et externes\\
+- On fait quoi pendant les vacances?\\
+- Banquet (décembre ou février)\\
+- TD Océade (23 Avril)
+
+**6. Divers**\\
+- T-Shirts (projet de fox)\\
+
+
+
+
+===== Procès verbal =====
+=== 1. News ===
+
+//BDM//
+
+Il n'y aura finalement pas 9 bacs  comme prévu mais 7, tout ce passe bien jusque maintenant même si la blanche n'a pas une couleur de blanche. Pour que ce soit parfait il faudrait attendre environ un mois.
+
+Justement  ça tombe autour du 1 mai (jour de congé), l'idée d'organiser une interne BDM le 30 avril est lancé.
+
+//Externe Clodo//
+
+Il n'y  a pas eu assez de chants et quand les gens ne chantent pas ils ont tendance à parler entre eux ce qui au bout d'un moment devient ingérable. Donc chanter plus pour parler moins.
+
+La  cara est très bien passé, l'idée des glaçons était bien et on avait des bières fraiches toute la  soirée. Il faut voir si on ne  pourrait pas refaire la même chose lors des  prochaines externes (si ce n'est pas trop contraignant).
+
+Gluck  pourrait peut-être nous avoir des fûts pour pas cher, il faut voir ce qu'il en est avec lui (prix, quantité, commande ... ).
+
+//ML chant//
+
+Il faudrait envoyer un mail régulièrement pour que les gens inscrit soit tenu au courant  des activités organisées et  les inciter à l'utiliser activement par la même occasion.
+
+Pendant des externes, on devrait aussi faire passer une feuille (et un bic  !) pour que les gens puissent écrire leurs adresse  email  s'ils veulent que nous les inscrivions à la ML chant. 
+
+=== 2. Questor ===
+
+//Compte//
+
+On est à 126€ avec 256€ de dettes (121€ au bar, 54€ de carpe, 20€ d'insigne, 13,5€ bac chez JP).
+
+Il est important de ne rien laisser après nos internes/externes car on se fait toujours entubé par le bar. Il faut récupérer les créances avant la fin de l'année!
+
+//Fichier Excel//
+
+Si  on n'arrive pas à le lire avec google ce n'est pas grave, le plus important c'est d'y avoir  accès pour que les  gens puissent le consulter quand ils en ont besoin (ftp, envoyer par mail après modification ...).  
+
+Certaines personnes n'aiment pas les fichier Excel et voudrait que le  fichier soit en PDF (à voir avec le Questor).
+
+On peut virer le  wiki avec la compta qui ne nous sert plus.
+
+//Banque//
+
+On  a décidé de se diriger vers ING qui semble être le choix le plus  intéressant pour nous. Mais avant toute chose, il faut que Magg demande plus d'informations à la banque au sujet du  dépôt d'argent (si il est gratuit ou non et ainsi savoir si ça vaut vraiment la peine d'ouvrir un compte.
+
+//Matériel//
+
+Gluck va nous faire un drapeau, ça devrait couter dans les 20€. Ce serait un drapeau noir de 2m avec le même  tux que sur les  bands en mauve au  mileux du drapeau.  Gluck va faire un projet et  si il est  accepté on lui  enverra la  réponse par email.
+
+=== 3. Codex ===
+
+Le [[codex_2|Codex 2.0 RC1]] est accepté par le Conseil du Kernel comme Codex 2.0 sous réserve des modifications suivantes:
+  * Avant propos: signature de l'auteur de l'avant propos (Fox)
+  * III.C.2: changement de la prière, mettre soir à la place de jour
+  * III.C.4 & III.D.1 & VIII.B.i.2: ajout du concept de liste de chant niveau plus compliqué (il y a dés lors une liste chant niv 1 et une niv 2. Bigon action)
+  * III.D.3: ajouter la possibilité de départ des Membres de la Guilde, il devront en informer le Conseil du Kernel
+  * VII.3: procédure de vote, détail de la procédure dans le cas où une personne physique appartient aux deux groupes.
+  * VIII.A.1 & VIII.B.i.3 : ajout du "Lied van geen taal"
+  * VIII.B.i.1 & VIII.B.ii.1: ajout de repères temporels pour l'organisation du Dies Natalis et de l'interne élective.
+
+Par ailleurs, il y a eu aussi du bug fixing pendant l'interne:
+  * III.B.2: vote de la part des Impétrants pour l'accès à la classe de Postulant (voir la note)
+  * III.D.4: devoir du membre: notion de responsabilité générale ajoutée
+
+Une fois ces modifications effectuées, le [[codex_030408|CodeX 2.0]] entrera immédiatement en vigeur. Les Membres sont fortement invités à prendre connaissance de ce nouveau CodeX afin d'en intégrer au mieux les nouvelels subtilités.
+
+Vote:\\
+6 Votes pour (5 en interne, 1 par téléphone).
+
+=== 4. Recrutement ===
+
+Après  discussion, et après vote 4 personnes  ont été choisies:\\
+-Twix\\
+-Stradivarius\\
+-3vie\\
+-BLC (Bacon Lettuce Cheese)
+
+JP voulait proposer  B3K mais il n'a pas pu venir à l'interne et on a décidé de lui laisser la parole à lors de la prochaine interne et de voter ensuite.
+
+=== 5. Calendrier ===
+
+Notre prochaine externe aura lieu le 17 avril. Étant donné que cette date est trop proche du  tdocéade, il n'y aura pas de  cantus pré-tdocéade. De plus, la guilde  polytech organise déjà un  cantus ce jour-là.
+
+Comme les BDM seront  prêtes pour le 30 avril et qu'il y a congé le lendemain on organisera une interne BDM le 30.
+
+Vendredi 23 mai, interne.
+
+Mercredi 25 juin, externe pendant la semaine  délibé.
+
+On doit reparler du banquet lors d'une prochaine interne.
+
+On doit aller à plus de  cantus des autres guilde.
+
+=== 6. Divers ===
+
+On a refait des  bands.  Ils ne coutent pas cher, on peut donc les  offrire pour le premier  band, mais les faire payer 5€ si on le perd (histoire de prendre conscience que ça prend du temps d'en faire un et qu'il faut en prendre soin).\\
+Dash invite tout le monde à lire le  codex car c'était chiant à faire et c'est important ! 
+
+
+=== 7. TODO ===
+
+Gluck : se renseigner pour les fûts pas chers, faire un projet pour le drapeau et nous le communiquer par mail.\\
+Magg : mettre le fichier  excel (ou  pdf) de la compta en ligne ou l'envoyer aux gens, se renseigner auprès d'IGN pour plus d'informations.\\
+Tout le monde : lire le codex et aller à plein de  cantus. 
+
+
+===== Organisation =====
+  * <del>Bloquer une date</del>
+  * Fixer le RDV: RDV à 18h45 à la station Diamant, 19h au 153 av. Emile Max.
+  * Réserver un lieu: **[[http://www.osamoelle.be/|OS à Moëlle]]**
+  * Récupérer les clefs: **Dash**
+  * Arriver à l'avance pour tout préparer: **Dash**
+  * Rangement/nettoyage: **Tout le monde**
+  * Comptage des stocks restants: **Mag**
+
+=== Infrastructure sur place ===
+  * Bières (décider, par rapport à l'ampleur de l'évènement, de quelle quantité on va avoir besoin) **Fux**
+  * Bouffe: **Fux**
+  * Tables/Chaises: **Sur Place**
+  * Bougies: **QUI ?**
+  * Briquet: **QUI ?**
+  * Fond de caisse: **Mag**
+
+=== Je ferai des affonds pénitences car je ne viens pas ===
+
+Jean-Philippe
+
+===== Commentaires =====

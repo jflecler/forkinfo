@@ -1,0 +1,43 @@
+====== Wiki du Cercle Informatique ======
+
+====Règlements====
+  * [[statuts|Statuts du cercle]]
+  * [[de_la_bonne_utilisation_des_ml|De la bonne utilisation des Mailing-Listes]]
+  * [[ulb_reglements|Règlements auxquels le cercle est soumis]]
+
+==== Archives ====
+  * [[2014:2014|2014-2015]]
+  * [[2013:2013|2013-2014]]
+  * [[2012:2012|2012-2013]]
+  * [[2011:2011|2011-2012]]
+  * [[2010:2010|2010-2011]]
+  * [[2009:2009|2009-2010]]
+  * [[2008:2008|2008-2009]]
+  * [[2007:2007|2007-2008]]
+  * [[2006:2006|2006-2007]]
+  * [[2005:2005|2005-2006]]
+
+
+===== Académique =====
+  *[[cours:cours|Infos packs de cours]]
+  *[[cours:infos|Informations utiles]]
+  *[[cours:travaux|Travaux des étudiants]]
+
+
+===== Folklore =====
+
+==== La Graaaaaaande Histoire du Cercle des ordinateurs  ====
+  *[[CIPédia:CIPédia|CIPédia]]
+  *[[CIPédia:insignes|Les insignes]]
+  *[[boulot:boulot|Les vieux travaillent]]
+
+====Guilde Gates====
+|{{https://forkinfo.be/guildegates/2_Blason/blason_C_v2.0.jpg?150x170}}|** Chants de la Guilde Gates: **\\ [[guilde:ode_a_la_guilde|Ode à la Guilde Gates]] ({{https://forkinfo.be/guildegates/3_Documents/Ode_a_la_Guilde_Gates.pdf|PDF}})\\ [[guilde:cri_du_ci|Cri du CI]]\\ [[guilde:chant_du_ci|Chant du CI]]\\ \\ ** Prochaines Externes: **\\ |
+
+  *[[guilde:guilde|Présentation de la guilde]]
+  *[[guilde:guindailles|Guindailles]]
+
+====Babbage====
+  * [[babbage:Archives|Archives des activités]]
+  * [[babbage:Statuts]]
+

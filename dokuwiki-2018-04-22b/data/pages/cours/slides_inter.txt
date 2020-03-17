@@ -1,0 +1,89 @@
+====== Interopérabilité ======
+
+===== Interopérabilité =====
+
+==== Slide ====
+  * Interopérabilité ?
+  * Liberté de choix
+//« If a man cannot choose, he ceases to be a man. » Anthony Burgess - A Clockwork Orange//
+
+
+==== Texte ====
+  * L'interopérabilité est indispensable pour faire avancer l'humanité.
+  * Toutes les grandes avancés de humaines on pu être réalisées parce qu'on s'est mis d'accord pour avoir
+un langage commun : transports (férroviaires), sciences, Internet
+  * Nécessité de compatibilité
+
+  * Qd on est en sitation de tel monopole, on pourrait être tenté de négliger l'interopérabilité pour faire
+plus de profits. Pas très éthique tout ça ! Au détriment des utilisateurs
+  * Permet d'éviter les monopoles ou des marchés fragmentés
+  * Nécessité de standarisation
+  * Liberté !!! Liberté d'utilisation, liberté de choix
+
+
+===== Formats ouverts =====
+==== Slide ====
+
+  * Formats ouverts ?
+
+==== Texte ====
+
+  * Un format est dit ouvert si ses spécifications sont disponibles et accessibles, permettant ainsi à tous d'implémenter des logiciels pouvant les utiliser.
+  * Internet s'est construit sur des formats et protocoles ouverts.
+  * Des sociétés peu éthiques veulent enfermer les utilisateurs dans leurs formats fermés : prob d'interopérabilité, vende forcée, manque de souplesse.
+  * On va illustrer ces problèmes par deux exemples concrets et leurs implications : les fichiers bureautiques & l'instant messaging
+
+
+===== Fichiers bureautiques =====
+==== Slide ====
+
+  * Type de fichiers critiques
+  * Liberté de l'utilisateur
+  * Vende forcée
+  * Liberté des autres
+  * Sécurité / vie privée
+  * Pérennité
+
+==== Texte ====
+  * Type des fichiers très important que ce soit pour les particuliers (travaux, correspondance, comptes) que pour
+une entreprise
+  * Enferme l'utilisateur dans une suite bureautique
+  * Formats non comptabiles entre les versions -> vende forcée
+  * Devient un standard de facto de communication  -> marginalisation de ceux qui ne peuvent/veulent les utiliser
+  * Oblige les gens à utiliser des logicels éthiquement innacceptables pour les ouvrir
+  * Risque de propagation de virus ou d'infos non désirées -> on ne sait pas ce que contient vraiment le fichier
+  * Question de la pérennité des informations stockées. Quid si plus de logiciels pour les lire ds 50 ans ?
+
+
+===== Instant Messaging =====
+==== Slide ====
+  * L'IM, un outils de communication
+  * Grand impact niveau social
+  * Chaos total
+  * UNE entreprise ?
+  * Succès de l'email
+http://ploum.frimouvy.org/images/icones/gaim.png
+
+==== Texte ====
+  * IM devient un moyen extrèmement répendu de communicationsa au même niveau que le web ou le mail.
+  * Grand impact au niveau social : si t'as pas de MSN t'as pas d'amis
+  * Chaos total. Aucune interopérabilité. Aucun choix du client : ICQ, MSN, Aol, Yahoo
+  * Une seule entreprise doit elle controler toutes les discussions de l'Internet
+  * Jabber, la solution à tous les maux
+  * Analogie avec le mail. Développement si non intéropérables ?
+
+===== Jabber =====
+==== Slides ====
+  * Une solution ?
+  * Jabber !
+     * Protocole ouverts
+    * Multitude de clients
+    * Décentralisé
+    * Souple
+    * Google Talk
+  * Open Discussion Day http://ploum.frimouvy.org/images/odd_logo.png
+
+==== Texte ====
+  * Une solution existe !
+  * présenter les merveilleux avantages de jabber
+  * Le 19 mai sera le "Open Discussion Day" dont le but est de promouvoir les protocoles ouverts et l'interopérabilité

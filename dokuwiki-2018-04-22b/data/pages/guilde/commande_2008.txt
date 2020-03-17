@@ -1,0 +1,72 @@
+====== Commande groupée de Chansonniers Estudiantins ======
+
+===== Deadline =====
+  * **28 octobre**: Clôture des commandes.
+  * **31 octobre**: Clôture des payements.
+  * **3 ou 4 novembre**: Achat des chansonniers.
+  * **7 novembre**: Distribution des chansonniers à la V², V² qui sera la première à réunir tout le CI avec ses nouveaux bleus.
+
+Les payement seront à effectuer de préférence par virement au **210-0690213-13 ** soit en ca$h chez Magali.
+
+
+===== Prix =====
+== Carpe Diem ==
+Le Carpe Diem est dorénavant le chansionnier officiel de la [[guilde:guilde|Guilde Gates]], c'est celui-ci qu'il faut vous procurer absolument.
+<code c>
+if (g_slist_length (carpe_orders) >= 10)
+    price = 9;
+else
+    price = 10;
+</code>
+
+== Fleurs du Mâle ==
+Les fleurs du Mâle ont une réédition peut-être prévue pour septembre 2009 (l'actuelle datant de 1993). Rien n'est moins sur mais dans le doute, réfléchissez bien ;-)
+<code c>
+if (g_slist_length (fleurs_orders) >= 10)
+    price = 14;
+else
+    price = 14;
+</code>
+
+
+
+===== Commandes =====
+^Nom^Fleurs (€14,00)^Carpe(€9,00)^Total^Mode de payement^Payé^ 
+|Bleu_1 (Modération)|0|1|€9,00|Ca$h|Non|
+|Bleu_2|0|1|€9,00| |Non|
+|Bleu_3|0|1|€9,00| |Non|
+|Bleu_4|0|1|€9,00| |Non|
+|Bleu_5|0|1|€9,00| |Non|
+|Bleu_6|0|1|€9,00| |Non|
+|Bleu_7|0|1|€9,00| |Non|
+|Bleu_8|0|1|€9,00| |Non|
+|Bleu_9|0|1|€9,00| |Non|
+|Bleu_10|0|1|€9,00| |Non|
+|Bleu_11|0|1|€9,00| |Non|
+|Bleu_12|0|1|€9,00| |Non|
+|Bleu_13|0|1|€9,00| |Non|
+|Bleu_14|0|1|€9,00| |Non|
+|Bleu_15|0|1|€9,00| |Non|
+|Bram|0|1|€9,00| |Non|
+|Bizu|1|1|€23,00|Virement|Non|
+|Rogis|0|1|€9,00|Virement|Non|
+|Twix|0|1|€9,00|Ca$h|Non|
+|3vie|0|1 |€9,00|Virement|Non|
+|Mme zdra|0|1 |€9,00|Virement|Non|
+|Tuning|0|1|€9,00|Ca$h|Non|
+|Toi?| | | | | | 
+^Total^1^22^€212,00^-^-^ 
+
+===== Les news de l'ACE =====
+
+== Les Fleurs du Mâle ==
+Elles ne sont pas mortes : nous prévoyons une réédition pour septembre 2009 ! Pour ce faire, nous aurions besoin de la part de chaque cercle/guilde/ordre/etc. une liste des 10 chants à ajouter, 10 chants à absolument garder, 10 chants à supprimer par rapport à l'édition de 1993. De plus, nous organiserons au second semestre un concours d'illustrations pour la nouvelle édition. Plus d'infos auprès de Louise ou d'[[mailto:unkanarchist@hotmail.com|Andrew Crosby]].
+ 
+== Le Codex (chansonnier VUB) ==
+Il vient de sortir une nouvelle édition 2008. C'est un beau chansonnier cartonné qui a l'avantage de contenir des chants dans de nombreuses langues (néerlandais, français, allemand, anglais, latin, afrikaans...). Il ne coûte que 10 euros et est disponible auprès de Kenneth Biscop (0473/81.72.36 ou kenneth.biscop@gmail.com).
+ 
+== Le Florex ==
+Veritable encyclopédie du chant estudiantin et assimilé, est LA référence pour les vrais amateurs de chants. Il se compose de 2 volumes (dont un regroupant tous les chants/cris de cercles de Belgique) pour un total de plus de 2000 pages ! Vous pouvez le commander à l'ACE pour la modique somme de 50 euros.
+ 
+== Le Carpe Diem ==
+Chansonnier de la Guilde Polytechnique, est disponible auprès de Gille Wallaert (0479/24.57.16).

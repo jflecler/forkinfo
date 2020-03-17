@@ -1,0 +1,31 @@
+==== Concept ====
+Les diverses boissons de l'après-midi sont cotées en bourse. Leur prix varie donc en fonction de l'offre et de la demande mais aussi en fonction de facteurs extérieurs déterminés par le barman (histoire de mettre un peu d'aléatoire dans le jeux).\\
+Les joueurs peuvent acheter et vendre avec le bar, les boissons pouvant être achetées en nature ou sous forme de bon, afin de ne pas avoir des bières plates dix minutes plus tard. Il est donc possible de faire de la spéculation sur la cote valeurs afin de se saouler pour un prix minimum.
+
+==== Règles du jeu ====
+=== Mise à jour des prix ===
+Les prix sont mis à jour de manière régulières toutes les cinq minutes.\\
+La variation des prix se fait en fonction de l'offre et de la demande mais aussi en fonction de facteurs extérieurs, indépendants des joueurs. Ceux-ci peuvent être obtenus gratuitement auprès du gestionnaire de la bourse ou achetés (en fonction de la qualité désirée). Le prix des informations est fixé par le gestionnaire et il ne garantit en rien leur véracité (Faut pas déconner, il n'y a pas de délit d'initié dans le jeu).
+
+=== Achat et vente ===
+La vente et l'achat de boissons se fait pendant les périodes prédéterminées et par tranche de cinq minutes. Entre chaque tranche de vente, une période plus ou moins longue de fermeture des marchés est requise pour la mise à jour des prix et leur publication. Pendant ce temps, le bar ne fait pas de vente (les joueurs peuvent très bien se vendre entre  eux au prix qu'il désirent).\\
+
+Le boissons peuvent être achetées au bar sous forme de bon au porteur ou en nature. Il est bien évident qu'il ne rachète pas de boissons en nature pour des raisons de pétillance. Les bons au porteur peuvent par contre être revendu au prix courant afin d'acheter d'autres boissons (vive la spéculation).\\
+
+Le prix d'une boisson peut donc être calculé grâce à la formule suivante : X = 0.5*x*(Mx*n/M) + 0.5*z\\
+Avec X le prix à l'itération suivante, x le prix à l'itération précédente, Mx le nombre de boissons x vendues, n le nombre de boissons en vente, M le nombre de boissons vendues à l'itération précédente et z les facteurs extérieurs.
+=== Monnaie boursière ===
+Afin de faciliter la vente et l'achat de boissons, une monnaie boursière est mise en place. Elle peut être achetée à un taux de change fixe. Une autre manière de l'obtenir est de revendre des bons au porteur.\\
+ 
+Pour des raisons évidentes, il n'est pas possible d'échanger des bons au porteur ou de l'argent boursier contre de l'argent réel, celui-ci ne peut servir qu'à leur achat.\\
+
+Les bons au porteur et l'argent boursier perdent toute valeur à la fin du jeux.
+
+==== Gestion du bar ====
+Pour une bonne gestion de l'évolution des prix, il est indispensable de comptabiliser les différentes ventes et achats de boissons. Pour se faire une interface informatique doit être mise en place. Deux claviers seront mis dans le bar et reliés à l'ordinateur afin de faire cette comptabilité. Les touches du clavier seront affublées d'une capsule ou d'une étiquette représentant les boissons en vente, une ligne servant à l'achat et la deuxième à la vente.\\
+
+
+==== Les boissons mises en vente ====
+  * Jup
+  * Blanche
+  * ...

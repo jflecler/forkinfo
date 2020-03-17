@@ -1,0 +1,29 @@
+====== La Guilde Gates ======
+|{{https://forkinfo.be/guildegates/2_Blason/blason_C_v2.0.jpg?150x170}}| ** Banquet: **\\ \\ \\ ** Prochaine(s) Interne(s): **\\ [[040310|4 Mars, interne semi-elective]]\\ \\ ** Prochaine(s) Externe(s): ** \\ [[100309|9 mars]]||
+
+===== Informations générales =====
+  *[[genese|Genèse de la Guilde Gates]]
+  * **[[ode_a_la_guilde|Chant de la Guide Gates]]** ({{https://forkinfo.be/guildegates/3_Documents/Ode_a_la_Guilde_Gates.pdf|Download PDF}})
+  *[[codex2.2|Codex de la Guilde Gates]]
+  *[[membres|Membres de la Guilde Gates]] et [[2009|Collège actuel]]
+  *[[archives|Archives de la Guilde Gates]]
+
+
+===== Publications ===== 
+  * **[[formules | Liste des formules d'usage en CantuX]]** ({{https://forkinfo.be/guildegates/3_Documents/Formules.pdf|Download PDF}})
+  *[[orga_cantux | How to: Organiser un CantuX]]
+  *Liste des chants à connaître ([[liste_mineure|Mineure]] & [[liste_majeure|Majeure]])
+  *[[playlist | Playlist pour un CantuX réussi]]
+  * **[[guindailles | Guindailles]]**
+  *[[afonds | Les affonds inédits du Dies Natalis]]
+  *[[semeur|La partition originale du Semeur]]
+
+===== Services =====
+  *[[guilde:commande_2009|Commande chansonnier 2009]]
+  *[[guilde:commande_2008|Commande chansonnier 2008]]
+  *[[commande| Achat de chansonniers et insignes]]
+
+===== Calendrier (organisation, ordre du jour, procès verbaux) =====
+  *[[Internes]]
+  *[[Externes]]
+  *[[Events|Events d'ici et d'ailleurs]]
