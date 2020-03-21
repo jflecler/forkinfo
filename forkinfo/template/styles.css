@@ -1,0 +1,13 @@
+@font-face
+{
+	font-family : "Title index";
+	src : url('fonts/Old computer St.ttf');
+}
+.index-title
+{
+	font-family : "Title index";
+}
+.fond-jumbo
+{
+	background-color: purple;
+}
